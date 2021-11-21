@@ -125,6 +125,12 @@ def down_rule_file(url,headers,path_features,filename_features,file_path,filenam
 			except OSError:
 				pass
 
+			try:
+				file = open(file_path + '.gitkeep','w')
+				file.close()
+			except OSError:
+				pass
+
 			print(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + '： 下载最新规则升级包：' + filename_features_n + str(file_name[j]))
 			print(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + '： 下载规则升级包URL：' + url_file)
 			# r = requests.get(url_file,headers=headers,stream=True)

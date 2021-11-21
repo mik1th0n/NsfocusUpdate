@@ -50,7 +50,9 @@ root@localhost:/opt/NsfocusUpdate# vim UpdateGeneralDownload.py
 root@localhost:/opt/NsfocusUpdate# python3 A_SelectAnUpdate.py
 ```
 
-![image-20211121214146851](README.assets/image-20211121214146851.png)
+![image-20211121222347481](README.assets/image-20211121222347481.png)
+
+- 选择之后，自动执行爬取升级包时，代表程序执行成功
 
 ### 4.3 运行自动化爬取所有升级包程序
 
