@@ -24,7 +24,10 @@ import SAS_L_UpdateDownload
 import SAS_UpdateDownload
 import TAC_UpdateDownload
 import WAF_UpdateDownload
-
+import BVS_UpdateDownload
+import TVM_UpdateDownload
+import WSM_UpdateDownload
+import WVSS_UpdateDownload
 
 
 def main():
@@ -51,23 +54,10 @@ def main():
 	SAS_UpdateDownload.Update()
 	TAC_UpdateDownload.Update()
 	WAF_UpdateDownload.Update()
-
+	BVS_UpdateDownload.Update()
+	TVM_UpdateDownload.Update()
+	WSM_UpdateDownload.Update()
+	WVSS_UpdateDownload.Update()
 
 if __name__ == "__main__":
     main()
-
-
-	
-# print('\n**************************************************************************************************')
-# print('***                                                                                            ***')
-# print('***                                    开始自动更新所有的升级包                                  ***')
-# print('***                                                                                            ***')
-# print('**************************************************************************************************')
-
-# CSSP_UpdateDownload.Update()
-# ESP_H_UpdateDownload.Update()
-# ESP_UpdateDownload.Update()
-# ESPC_L_UpdateDownload.Update()
-# IDS_IPS_UpdateDownload.Update()
-# ISOP_UpdateDownload.Update()
-# RSAS_UpdateDownload.Update()

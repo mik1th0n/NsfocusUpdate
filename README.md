@@ -1,10 +1,10 @@
-# NsfocusUpdate
-NSFOCUS升级站点爬取升级包
+# NsfocusUpdate-README
+>  NSFOCUS升级站点爬取升级包
 
 
 ## 1 概述
 
-由于 [update.nsfocus.com](http://update.nsfocus.com) 升级站点下载升级包有速率限制，为了在急需升级包的时候能最快速度下载升级包，因此搭建了本地离线升级站点。
+- 由于 [update.nsfocus.com](http://update.nsfocus.com) 升级站点下载升级包有速率限制，为了在急需升级包的时候能最快速度下载升级包，因此搭建了本地离线升级站点。
 
 ## 2 技术栈
 
@@ -17,83 +17,61 @@ NSFOCUS升级站点爬取升级包
 ### 3.1 下载NsfocusUpdate
 
 ```shell
-root@miki:~# cd /opt/
-root@miki:/opt# git clone https://github.com/mik1th0n/NsfocusUpdate.git
+root@localhost:~# cd /opt/
+root@localhost:/opt# git clone https://github.com/mik1th0n/NsfocusUpdate.git
 ```
 
 ### 3.2 安装依赖包
 
 ```shell
-root@miki:/opt# cd NsfocusUpdate/
-root@miki:/opt/NsfocusUpdate# pip3 install requests
+root@localhost:/opt# cd NsfocusUpdate/
+root@localhost:/opt/NsfocusUpdate# pip3 install requests
 ```
+
+### 3.3 修改配置文件
+
+- 修改 `UpdateGeneralDownload.py` 文件
+
+```shell
+root@localhost:/opt/NsfocusUpdate# vim UpdateGeneralDownload.py
+```
+
+![image-20211121211047426](README.assets/image-20211121211047426.png)
+
+- 将文件的61行、62行的数字 `1` 修改为 `150`
+
+![image-20211121211114953](README.assets/image-20211121211114953.png)
 
 ## 4 运行程序
 
-### 4.1 运行单个程序
+### 4.1 运行选择单个产品升级包爬取程序
 
+```python
+root@localhost:/opt/NsfocusUpdate# python3 A_SelectAnUpdate.py
 ```
-python3 
+
+![image-20211121214146851](README.assets/image-20211121214146851.png)
+
+### 4.3 运行自动化爬取所有升级包程序
+
+```python
+root@localhost:/opt/NsfocusUpdate# python3 B_AutomaticUpdateAll.py
 ```
 
+- 输出如下日志表示运行正常
 
+![image-20211121211707352](README.assets/image-20211121211707352.png)
 
+## 5 批量删除升级包
 
+### 5.1 Windows批量删除升级包
 
+- 双击 `WindowsDeleteUpdateThePackage.bat` 运行删除
 
+![image-20211121211850411](README.assets/image-20211121211850411.png)
 
+### 5.2 Linux批量删除升级包
 
-
-
-
-
-
-## 其他安装说明（未整理）
-
-xadmin 
-
-验证码模块：https://github.com/mbi/django-simple-captcha
-
-dash: https://gitlab.com/k3oni/pydash-django-app/tree/master
-
-安全过滤初步想法：通过重载 SessionMiddleware 中间件来实现 或者自定义中间件
-
-排行榜性能优化：signals实现缓存  或者 字段添加索引
-
-邮箱验证注册功能
-
-WP提交功能
-
-## 注意事项
-
-最后部署生产环境要更改 SECRET_KEY 
-
-## 补充
-
-DjangoCon 2008: Reusable Apps： https://www.youtube.com/watch?v=A-S0tqpPga4&feature=youtu.be
-
-测试工具：coverage
-
-API View: GenericAPIView
-
-数据填充：Django  fixture
-
-api验证： JWT  ： http://getblimp.github.io/django-rest-framework-jwt/
-
-CORS实现：django-cors-headers
-
-日志记录：logging
-
-
-手机（邮箱）验证码方式进行登陆：
-
-界面1： 手机号 验证码  用户名  密码
-
-界面2： 跳转登陆界面后 -> 完善用户名、学号、班级、年级等信息
-
-
-## 附加工具
-
-redis监控： http://www.treesoft.cn/dms.html
-
-sentry: https://github.com/getsentry/sentry
+```python
+root@miki:/opt/NsfocusUpdate# sh LinuxDeleteUpdateThePackage.sh
+```
