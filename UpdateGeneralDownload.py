@@ -58,8 +58,8 @@ def down_sys_file(url,headers,path_features,filename_features,file_path,filename
 			# except:
 			#    print ("Error: 无法启动线程")
 		j = j+1
-		if(j == 150):
-			print(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + '： 已下载150个升级包')
+		if(j == 1):
+			print(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + '： 已下载1个升级包')
 			break
 	print(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + '： 系统/引擎升级包下载完成')
 
