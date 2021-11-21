@@ -1,0 +1,1 @@
+python3 /volume2/NsfocusUpdate/A_SelectAnUpdate.py >> /volume2/NsfocusUpdate/UpdateLog/A_SelectAnUpdate_`date +%Y%m%d`.log

@@ -1,0 +1,1307 @@
+nohup: ignoring input
+
+**************************************************************************************************
+***                                                                                            ***
+***                                    开始自动更新所有的升级包                                  ***
+***                                                                                            ***
+**************************************************************************************************
+
+2021-11-02 04:23:52： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-竞技靶场(CSSP-C)->V5.0R00F00”
+2021-11-02 04:23:53： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117062']
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息如下
+['P-T.V5.0R00F00SP01.dat']
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:53： 开始下载系统/引擎升级包
+2021-11-02 04:23:53： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:53： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-竞技靶场(CSSP-C)->中台升级包”
+2021-11-02 04:23:53： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:53： 开始下载系统/引擎升级包
+2021-11-02 04:23:53： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:53： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-实训靶场(CSSP-T)->V5.0R00F00”
+2021-11-02 04:23:53： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117062']
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息如下
+['P-T.V5.0R00F00SP01.dat']
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:53： 开始下载系统/引擎升级包
+2021-11-02 04:23:53： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:53： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-实训靶场(CSSP-T)->中台升级包”
+2021-11-02 04:23:53： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:53： 开始下载系统/引擎升级包
+2021-11-02 04:23:53： 系统/引擎升级包下载完成
+
+*********************************  祝贺你完成 CSSP-C/CSSP-T 升级包的更新  *********************************
+
+
+2021-11-02 04:23:53： 下载“绿盟安全管理平台(ESP-H)->系统升级包->V3.0R00F06”
+2021-11-02 04:23:53： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/32835', '/update/downloads/id/32302']
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息如下
+['SP-H-V3.0R00F06SP02.dat', 'SP-H-V3.0R00F06SP01.dat']
+2021-11-02 04:23:53： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:53： 开始下载系统/引擎升级包
+2021-11-02 04:23:53： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:53： 下载“绿盟安全管理平台(ESP-H)->系统升级包->V3.0R00F07”
+2021-11-02 04:23:54： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/116530', '/update/downloads/id/113821', '/update/downloads/id/109364', '/update/downloads/id/103364', '/update/downloads/id/101510', '/update/downloads/id/100779']
+2021-11-02 04:23:54： 获取系统/引擎升级包名称信息如下
+['SP-H-V3.0R00F07SP05.dat', 'SP-H-V3.0R00F07SP04.dat', 'SP-H-V3.0R00F07SP03.dat', 'SP-H-V3.0R00F07SP02.dat', 'SP-H-V3.0R00F07SP01.dat', 'SP-H-V3.0R00F07.dat']
+2021-11-02 04:23:54： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:54： 开始下载系统/引擎升级包
+2021-11-02 04:23:54： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:54： 下载“绿盟安全管理平台(ESP-H)->系统升级包->V3.0R01”
+2021-11-02 04:23:54： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/119380', '/update/downloads/id/118429', '/update/downloads/id/116002', '/update/downloads/id/112847', '/update/downloads/id/108885']
+2021-11-02 04:23:54： 获取系统/引擎升级包名称信息如下
+['ph.V3.0R01F02SP01.dat', 'ph.V3.0R01F02.dat', 'ph.V3.0R01F01.dat', 'ph.V3.0R01F00SP02.dat', 'ph.V3.0R01F00SP01.dat']
+2021-11-02 04:23:54： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:54： 开始下载系统/引擎升级包
+2021-11-02 04:23:54： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:54： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R00F06”
+2021-11-02 04:23:54： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:23:54： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:23:54： 获取规则升级包名称信息完成
+2021-11-02 04:23:54： 当前目录下规则升级包
+2021-11-02 04:23:54： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:23:54： 规则升级包下载完成
+
+2021-11-02 04:23:54： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R00F07”
+2021-11-02 04:23:54： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:23:54： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:23:54： 获取规则升级包名称信息完成
+2021-11-02 04:23:54： 当前目录下规则升级包
+2021-11-02 04:23:54： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:23:54： 规则升级包下载完成
+
+2021-11-02 04:23:54： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R01->解析规则包”
+2021-11-02 04:23:54： 获取规则升级包路径信息如下
+/update/downloads/id/120801
+2021-11-02 04:23:54： 获取规则升级包名称信息如下
+ser_rule.3.0.7.47170.dat
+2021-11-02 04:23:54： 获取规则升级包名称信息完成
+2021-11-02 04:23:54： 当前目录下规则升级包
+2021-11-02 04:23:54： 当前目录下规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:23:54： 站点最新规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:23:54： 规则升级包下载完成
+
+2021-11-02 04:23:54： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R01->攻击识别规则包”
+2021-11-02 04:23:55： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:23:55： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:23:55： 获取规则升级包名称信息完成
+2021-11-02 04:23:55： 当前目录下规则升级包
+2021-11-02 04:23:55： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:23:55： 规则升级包下载完成
+
+2021-11-02 04:23:55： 下载“绿盟安全管理平台(ESP-H)->漏洞库升级包”
+2021-11-02 04:23:55： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:23:55： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:23:55： 获取规则升级包名称信息完成
+2021-11-02 04:23:55： 当前目录下规则升级包
+2021-11-02 04:23:55： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:23:55： 规则升级包下载完成
+
+*********************************  祝贺你完成 ESP-H 升级包的更新  *********************************
+
+
+2021-11-02 04:23:55： 下载“绿盟企业安全平台(ESP)->系统升级包”
+2021-11-02 04:23:55： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/113820', '/update/downloads/id/108933', '/update/downloads/id/103666', '/update/downloads/id/101718', '/update/downloads/id/101164', '/update/downloads/id/100327', '/update/downloads/id/33081', '/update/downloads/id/31161', '/update/downloads/id/29701', '/update/downloads/id/29024', '/update/downloads/id/28485', '/update/downloads/id/28481', '/update/downloads/id/28303', '/update/downloads/id/24860', '/update/downloads/id/23848', '/update/downloads/id/23357', '/update/downloads/id/21876', '/update/downloads/id/21320']
+2021-11-02 04:23:55： 获取系统/引擎升级包名称信息如下
+['SP-V3.0R00F06SP11.dat', 'SP-V3.0R00F06SP10.dat', 'SP-V3.0R00F06SP09.dat', 'SP-V3.0R00F06SP08.dat', 'SP-V3.0R00F06SP07.dat', 'SP-V3.0R00F06SP06.dat', 'SP-V3.0R00F06SP05.dat', 'SP-V3.0R00F06SP04.dat', 'SP-V3.0R00F06SP03.dat', 'SP-V3.0R00F06SP02.dat', 'SP-V3.0R00F06SP01.dat', 'SP-V3.0R00F06.42024.dat', 'SP-V3.0R00F05SP01.dat', 'SP-V3.0R00F05.dat', 'SP-V3.0R00F04SP01.37036.dat', 'SP-V3.0R00F04.36101.dat', 'SP-V3.0R00F03SP03.dat', 'SP-V3.0R00F03SP02.dat']
+2021-11-02 04:23:55： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:55： 开始下载系统/引擎升级包
+2021-11-02 04:23:55： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:55： 下载“绿盟企业安全平台(ESP)->漏洞库升级包”
+2021-11-02 04:23:55： 获取规则升级包路径信息如下
+/update/downloads/id/120381
+2021-11-02 04:23:55： 获取规则升级包名称信息如下
+-plg-2021101401.dat
+2021-11-02 04:23:55： 获取规则升级包名称信息完成
+2021-11-02 04:23:55： 当前目录下规则升级包
+2021-11-02 04:23:55： 当前目录下规则升级包：TVM-plg-2021101401.dat
+2021-11-02 04:23:55： 站点最新规则升级包：TVM-plg-2021101401.dat
+2021-11-02 04:23:55： 规则升级包下载完成
+
+*********************************  祝贺你完成 ESP 升级包的更新  *********************************
+
+
+2021-11-02 04:23:55： 下载“绿盟授权管理系统(ESPC-L) V7.0”
+2021-11-02 04:23:55： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117845']
+2021-11-02 04:23:55： 获取系统/引擎升级包名称信息如下
+['PC-L-V7.0R00F00SP01.67824.dat']
+2021-11-02 04:23:55： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:55： 开始下载系统/引擎升级包
+2021-11-02 04:23:55： 系统/引擎升级包下载完成
+
+*********************************  祝贺你完成 ESPC-L 升级包的更新  *********************************
+
+
+2021-11-02 04:23:55： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->引擎升级包”
+2021-11-02 04:23:56： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/119061', '/update/downloads/id/114212', '/update/downloads/id/112860']
+2021-11-02 04:23:56： 获取系统/引擎升级包名称信息如下
+['.agentpatch.5.6.11.92.00.03.bin', '.agentpatch.5.6.11.51.00.02.bin', '.agentpatch.5.6.11.42.00.01.bin']
+2021-11-02 04:23:56： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:56： 开始下载系统/引擎升级包
+2021-11-02 04:23:56： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:56： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->系统规则升级包”
+2021-11-02 04:23:56： 获取规则升级包路径信息如下
+/update/downloads/id/120773
+2021-11-02 04:23:56： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.11.26440.rule
+2021-11-02 04:23:56： 获取规则升级包名称信息完成
+2021-11-02 04:23:56： 当前目录下规则升级包
+2021-11-02 04:23:56： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.11.26440.rule
+2021-11-02 04:23:56： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.11.26440.rule
+2021-11-02 04:23:56： 规则升级包下载完成
+
+2021-11-02 04:23:56： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->URL分类库升级包”
+2021-11-02 04:23:56： 获取规则升级包路径信息如下
+/update/downloads/id/120501
+2021-11-02 04:23:56： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:23:56： 获取规则升级包名称信息完成
+2021-11-02 04:23:56： 当前目录下规则升级包
+2021-11-02 04:23:56： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:23:56： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:23:56： 规则升级包下载完成
+
+2021-11-02 04:23:56： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->流式病毒特征库升级包”
+2021-11-02 04:23:57： 获取规则升级包路径信息如下
+/update/downloads/id/120845
+2021-11-02 04:23:57： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.11.52892.av
+2021-11-02 04:23:57： 获取规则升级包名称信息完成
+2021-11-02 04:23:57： 当前目录下规则升级包
+2021-11-02 04:23:57： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.11.52892.av
+2021-11-02 04:23:57： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.11.52892.av
+2021-11-02 04:23:57： 规则升级包下载完成
+
+2021-11-02 04:23:57： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->启发式病毒库升级包”
+2021-11-02 04:23:58： 获取规则升级包路径信息如下
+/update/downloads/id/120770
+2021-11-02 04:23:58： 获取规则升级包名称信息如下
+.unify.avpatch.7.0.70.27.av
+2021-11-02 04:23:58： 获取规则升级包名称信息完成
+2021-11-02 04:23:58： 当前目录下规则升级包
+2021-11-02 04:23:58： 当前目录下规则升级包：eoi.unify.avpatch.7.0.70.27.av
+2021-11-02 04:23:58： 站点最新规则升级包：eoi.unify.avpatch.7.0.70.27.av
+2021-11-02 04:23:58： 规则升级包下载完成
+
+2021-11-02 04:23:58： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->引擎升级包”
+2021-11-02 04:23:58： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120294', '/update/downloads/id/114245', '/update/downloads/id/106872', '/update/downloads/id/32993', '/update/downloads/id/21824', '/update/downloads/id/21342', '/update/downloads/id/21174', '/update/downloads/id/20755', '/update/downloads/id/18880', '/update/downloads/id/17831', '/update/downloads/id/17633', '/update/downloads/id/16875', '/update/downloads/id/16593', '/update/downloads/id/15939', '/update/downloads/id/15914', '/update/downloads/id/15544', '/update/downloads/id/15513', '/update/downloads/id/15511', '/update/downloads/id/14085', '/update/downloads/id/13767']
+2021-11-02 04:23:58： 获取系统/引擎升级包名称信息如下
+['.agentpatch.V56R10F02SP11.bin', '.agentpatch.V56R10F02SP10.bin', '.agentpatch.V56R10F02SP09.bin', '.agentpatch.V56R10F02SP06.bin', '.agentpatch.V56R10F02SP05.bin', '.agentpatch.V56R10F02SP04.bin', '.agentpatch.V56R10F02SP03.bin', '.agentpatch.V56R10F02SP02.bin', '.agentpatch.V56R10F02SP01.bin', '.agentpatch.V56R10F01SP08.bin', '.agentpatch.V56R10F01SP07.bin', '.agentpatch.V56R10F01SP06.bin', '.agentpatch.V56R10F01SP05.bin', '.agentpatch.V56R10F01SP04.bin', '.agentpatch.V56R10F01SP03.bin', '.agentpatch.V56R10F01SP02.bin', '.agentpatch.V56R10F01SP01.bin', '.agentpatch.V56R10F01SP00.bin', '.agentpatch.V56R10F00SP02.bin', '.agentpatch.V56R10F00SP01.bin']
+2021-11-02 04:23:58： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:23:58： 开始下载系统/引擎升级包
+2021-11-02 04:23:58： 系统/引擎升级包下载完成
+
+2021-11-02 04:23:58： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->系统规则库升级包”
+2021-11-02 04:23:59： 获取规则升级包路径信息如下
+/update/downloads/id/120772
+2021-11-02 04:23:59： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:23:59： 获取规则升级包名称信息完成
+2021-11-02 04:23:59： 当前目录下规则升级包
+2021-11-02 04:23:59： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:23:59： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:23:59： 规则升级包下载完成
+
+2021-11-02 04:23:59： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->URL分类库升级包”
+2021-11-02 04:23:59： 获取规则升级包路径信息如下
+/update/downloads/id/120501
+2021-11-02 04:23:59： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:23:59： 获取规则升级包名称信息完成
+2021-11-02 04:23:59： 当前目录下规则升级包
+2021-11-02 04:23:59： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:23:59： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:23:59： 规则升级包下载完成
+
+2021-11-02 04:23:59： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->病毒特征库升级包”
+2021-11-02 04:24:00： 获取规则升级包路径信息如下
+/update/downloads/id/120891
+2021-11-02 04:24:00： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:00： 获取规则升级包名称信息完成
+2021-11-02 04:24:00： 当前目录下规则升级包
+2021-11-02 04:24:00： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:00： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:00： 规则升级包下载完成
+
+2021-11-02 04:24:00： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->引擎升级包”
+2021-11-02 04:24:00： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/21312', '/update/downloads/id/20949', '/update/downloads/id/15937', '/update/downloads/id/15904', '/update/downloads/id/15536', '/update/downloads/id/15115', '/update/downloads/id/14081', '/update/downloads/id/13078', '/update/downloads/id/11938', '/update/downloads/id/11497', '/update/downloads/id/10952', '/update/downloads/id/10564', '/update/downloads/id/10079', '/update/downloads/id/10035', '/update/downloads/id/9631']
+2021-11-02 04:24:00： 获取系统/引擎升级包名称信息如下
+['.agentpatch.5.6.9.91.bin', '.agentpatch.5.6.9.90.bin', '.agentpatch.5.6.9.82.bin', '.agentpatch.5.6.9.81.bin', '.agentpatch.5.6.9.80.bin', '.agentpatch.5.6.9.79.bin', '.agentpatch.5.6.9.76.bin', '.agentpatch.5.6.9.74.bin', '.agentpatch.5.6.9.65.bin', '.agentpatch.5.6.9.64.bin', '.agentpatch.5.6.9.63.bin', '.agentpatch.5.6.9.58.bin', '.agentpatch.5.6.9.49.bin', '.agentpatch.5.6.9.48.bin', '.agentpatch.5.6.9.41.bin']
+2021-11-02 04:24:00： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:24:00： 开始下载系统/引擎升级包
+2021-11-02 04:24:00： 系统/引擎升级包下载完成
+
+2021-11-02 04:24:00： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->系统规则库升级包”
+2021-11-02 04:24:01： 获取规则升级包路径信息如下
+/update/downloads/id/120771
+2021-11-02 04:24:01： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.9.26440.rule
+2021-11-02 04:24:01： 获取规则升级包名称信息完成
+2021-11-02 04:24:01： 当前目录下规则升级包
+2021-11-02 04:24:01： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.9.26440.rule
+2021-11-02 04:24:01： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.9.26440.rule
+2021-11-02 04:24:01： 规则升级包下载完成
+
+2021-11-02 04:24:01： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->URL分类库升级包”
+2021-11-02 04:24:01： 获取规则升级包路径信息如下
+/update/downloads/id/120501
+2021-11-02 04:24:01： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:24:01： 获取规则升级包名称信息完成
+2021-11-02 04:24:01： 当前目录下规则升级包
+2021-11-02 04:24:01： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:24:01： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:24:01： 规则升级包下载完成
+
+2021-11-02 04:24:01： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->病毒特征库升级包”
+2021-11-02 04:24:02： 获取规则升级包路径信息如下
+/update/downloads/id/120740
+2021-11-02 04:24:02： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.9.52854.av
+2021-11-02 04:24:02： 获取规则升级包名称信息完成
+2021-11-02 04:24:02： 当前目录下规则升级包
+2021-11-02 04:24:02： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.9.52854.av
+2021-11-02 04:24:02： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.9.52854.av
+2021-11-02 04:24:02： 规则升级包下载完成
+
+2021-11-02 04:24:02： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 兆芯 ZX 5.6.10->引擎升级包”
+2021-11-02 04:24:02： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:24:02： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:24:02： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:24:02： 开始下载系统/引擎升级包
+2021-11-02 04:24:02： 系统/引擎升级包下载完成
+
+2021-11-02 04:24:02： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 兆芯 ZX 5.6.10->规则升级包”
+2021-11-02 04:24:02： 获取规则升级包路径信息如下
+/update/downloads/id/120772
+2021-11-02 04:24:02： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:24:02： 获取规则升级包名称信息完成
+2021-11-02 04:24:02： 当前目录下规则升级包
+2021-11-02 04:24:02： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:24:02： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:24:02： 规则升级包下载完成
+
+2021-11-02 04:24:02： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 兆芯 ZX 5.6.10->流式病毒库升级包”
+2021-11-02 04:24:04： 获取规则升级包路径信息如下
+/update/downloads/id/120891
+2021-11-02 04:24:04： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:04： 获取规则升级包名称信息完成
+2021-11-02 04:24:04： 当前目录下规则升级包
+2021-11-02 04:24:04： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:04： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:04： 规则升级包下载完成
+
+2021-11-02 04:24:04： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10->引擎升级包”
+2021-11-02 04:24:04： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:24:04： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:24:04： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:24:04： 开始下载系统/引擎升级包
+2021-11-02 04:24:04： 系统/引擎升级包下载完成
+
+2021-11-02 04:24:04： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10->规则升级包”
+2021-11-02 04:24:04： 获取规则升级包路径信息如下
+/update/downloads/id/120772
+2021-11-02 04:24:04： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:24:04： 获取规则升级包名称信息完成
+2021-11-02 04:24:04： 当前目录下规则升级包
+2021-11-02 04:24:04： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:24:04： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:24:04： 规则升级包下载完成
+
+2021-11-02 04:24:04： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10>流式病毒库升级包”
+2021-11-02 04:24:05： 获取规则升级包路径信息如下
+/update/downloads/id/120891
+2021-11-02 04:24:05： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:05： 获取规则升级包名称信息完成
+2021-11-02 04:24:05： 当前目录下规则升级包
+2021-11-02 04:24:05： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:05： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:24:05： 规则升级包下载完成
+
+2021-11-02 04:24:05： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10>启发式病毒库升级包”
+2021-11-02 04:24:05： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:24:05： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:24:05： 获取规则升级包名称信息完成
+2021-11-02 04:24:05： 当前目录下规则升级包
+2021-11-02 04:24:05： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:24:05： 规则升级包下载完成
+
+2021-11-02 04:24:05： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10>URL分类升级包”
+2021-11-02 04:24:06： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:24:06： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:24:06： 获取规则升级包名称信息完成
+2021-11-02 04:24:06： 当前目录下规则升级包
+2021-11-02 04:24:06： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:24:06： 规则升级包下载完成
+
+2021-11-02 04:24:06： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->引擎升级包”
+2021-11-02 04:24:06： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:24:06： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:24:06： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:24:06： 开始下载系统/引擎升级包
+2021-11-02 04:24:06： 系统/引擎升级包下载完成
+
+2021-11-02 04:24:06： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->规则升级包”
+2021-11-02 04:24:06： 获取规则升级包路径信息如下
+/update/downloads/id/102567
+2021-11-02 04:24:06： 获取规则升级包名称信息如下
+.unify.rulepatch.5.6.8.816.rule
+2021-11-02 04:24:06： 获取规则升级包名称信息完成
+2021-11-02 04:24:06： 当前目录下规则升级包
+2021-11-02 04:24:06： 当前目录下规则升级包：eoi.unify.rulepatch.5.6.8.816.rule
+2021-11-02 04:24:06： 站点最新规则升级包：eoi.unify.rulepatch.5.6.8.816.rule
+2021-11-02 04:24:06： 规则升级包下载完成
+
+2021-11-02 04:24:06： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->病毒特征库升级包”
+2021-11-02 04:24:06： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:24:06： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:24:06： 获取规则升级包名称信息完成
+2021-11-02 04:24:06： 当前目录下规则升级包
+2021-11-02 04:24:06： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:24:06： 规则升级包下载完成
+
+2021-11-02 04:24:06： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->Url分类库升级包 5.6”
+2021-11-02 04:24:07： 获取规则升级包路径信息如下
+/update/downloads/id/120500
+2021-11-02 04:24:07： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.319.urlib
+2021-11-02 04:24:07： 获取规则升级包名称信息完成
+2021-11-02 04:24:07： 当前目录下规则升级包
+2021-11-02 04:24:07： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.319.urlib
+2021-11-02 04:24:07： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.319.urlib
+2021-11-02 04:24:07： 规则升级包下载完成
+
+*********************************  祝贺你完成 IDS/IPS 升级包的更新  *********************************
+
+
+2021-11-02 04:24:07： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01 规则包->解析规则包”
+2021-11-02 04:24:07： 获取规则升级包路径信息如下
+/update/downloads/id/120801
+2021-11-02 04:24:07： 获取规则升级包名称信息如下
+ser_rule.3.0.7.47170.dat
+2021-11-02 04:24:07： 获取规则升级包名称信息完成
+2021-11-02 04:24:07： 当前目录下规则升级包
+2021-11-02 04:24:07： 当前目录下规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:24:07： 站点最新规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:24:07： 规则升级包下载完成
+
+2021-11-02 04:24:07： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01 规则包->攻击识别规则包”
+2021-11-02 04:24:07： 获取规则升级包路径信息如下
+/update/downloads/id/120622
+2021-11-02 04:24:07： 获取规则升级包名称信息如下
+ack_rule.1.0.0.1.1047025.dat
+2021-11-02 04:24:07： 获取规则升级包名称信息完成
+2021-11-02 04:24:07： 当前目录下规则升级包
+2021-11-02 04:24:07： 当前目录下规则升级包：attack_rule.1.0.0.1.1047025.dat
+2021-11-02 04:24:07： 站点最新规则升级包：attack_rule.1.0.0.1.1047025.dat
+2021-11-02 04:24:07： 规则升级包下载完成
+
+2021-11-02 04:24:07： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01 规则包->行为分析规则包”
+2021-11-02 04:24:07： 获取规则升级包路径信息如下
+/update/downloads/id/118097
+2021-11-02 04:24:07： 获取规则升级包名称信息如下
+Engine_rule.1.0.0.0.41897.dat
+2021-11-02 04:24:07： 获取规则升级包名称信息完成
+2021-11-02 04:24:07： 当前目录下规则升级包
+2021-11-02 04:24:07： 当前目录下规则升级包：ubaEngine_rule.1.0.0.0.41897.dat
+2021-11-02 04:24:07： 站点最新规则升级包：ubaEngine_rule.1.0.0.0.41897.dat
+2021-11-02 04:24:07： 规则升级包下载完成
+
+2021-11-02 04:24:07： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01F00 漏洞库”
+2021-11-02 04:24:08： 获取规则升级包路径信息如下
+/update/downloads/id/120380
+2021-11-02 04:24:08： 获取规则升级包名称信息如下
+p-vulnDict-2021101401.dat
+2021-11-02 04:24:08： 获取规则升级包名称信息完成
+2021-11-02 04:24:08： 当前目录下规则升级包
+2021-11-02 04:24:08： 当前目录下规则升级包：isop-vulnDict-2021101401.dat
+2021-11-02 04:24:08： 站点最新规则升级包：isop-vulnDict-2021101401.dat
+2021-11-02 04:24:08： 规则升级包下载完成
+
+*********************************  祝贺你完成 ISOP 升级包的更新  *********************************
+
+
+2021-11-02 04:24:08： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 5.0”
+2021-11-02 04:24:08： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/104375', '/update/downloads/id/101215', '/update/downloads/id/100993', '/update/downloads/id/100871', '/update/downloads/id/100639', '/update/downloads/id/100509', '/update/downloads/id/100311', '/update/downloads/id/100150', '/update/downloads/id/100052', '/update/downloads/id/33373', '/update/downloads/id/33057', '/update/downloads/id/32873', '/update/downloads/id/32711', '/update/downloads/id/32386', '/update/downloads/id/32220', '/update/downloads/id/32150', '/update/downloads/id/31972', '/update/downloads/id/31790', '/update/downloads/id/31667', '/update/downloads/id/31585', '/update/downloads/id/31333', '/update/downloads/id/31238', '/update/downloads/id/30939', '/update/downloads/id/30589', '/update/downloads/id/30355', '/update/downloads/id/30164', '/update/downloads/id/29969', '/update/downloads/id/29770', '/update/downloads/id/29735', '/update/downloads/id/29550', '/update/downloads/id/29457', '/update/downloads/id/29455', '/update/downloads/id/29405', '/update/downloads/id/29381', '/update/downloads/id/29186', '/update/downloads/id/29119', '/update/downloads/id/28876', '/update/downloads/id/28822', '/update/downloads/id/28701', '/update/downloads/id/28461', '/update/downloads/id/28310', '/update/downloads/id/28181', '/update/downloads/id/28060', '/update/downloads/id/28059', '/update/downloads/id/28031', '/update/downloads/id/28032', '/update/downloads/id/28001', '/update/downloads/id/27916', '/update/downloads/id/27643', '/update/downloads/id/27498', '/update/downloads/id/27346', '/update/downloads/id/27196', '/update/downloads/id/26977', '/update/downloads/id/26816', '/update/downloads/id/26578', '/update/downloads/id/26431', '/update/downloads/id/25927', '/update/downloads/id/25806', '/update/downloads/id/25723', '/update/downloads/id/25616', '/update/downloads/id/25339', '/update/downloads/id/25203', '/update/downloads/id/25175', '/update/downloads/id/24949', '/update/downloads/id/24807', '/update/downloads/id/24618', '/update/downloads/id/24407', '/update/downloads/id/24224', '/update/downloads/id/24207', '/update/downloads/id/23730', '/update/downloads/id/23600', '/update/downloads/id/23504', '/update/downloads/id/23447', '/update/downloads/id/23309', '/update/downloads/id/23030', '/update/downloads/id/22899', '/update/downloads/id/22771', '/update/downloads/id/22610', '/update/downloads/id/22628', '/update/downloads/id/22545', '/update/downloads/id/22418', '/update/downloads/id/22282', '/update/downloads/id/22181', '/update/downloads/id/21964', '/update/downloads/id/21934', '/update/downloads/id/21857', '/update/downloads/id/21803', '/update/downloads/id/21708', '/update/downloads/id/21674', '/update/downloads/id/21569', '/update/downloads/id/21545', '/update/downloads/id/21483', '/update/downloads/id/21364', '/update/downloads/id/21243', '/update/downloads/id/21202', '/update/downloads/id/21130', '/update/downloads/id/21090', '/update/downloads/id/21043', '/update/downloads/id/21023', '/update/downloads/id/20979', '/update/downloads/id/20906', '/update/downloads/id/20849', '/update/downloads/id/20785', '/update/downloads/id/20752', '/update/downloads/id/20648', '/update/downloads/id/20625', '/update/downloads/id/20485', '/update/downloads/id/20472', '/update/downloads/id/20445', '/update/downloads/id/20424', '/update/downloads/id/20321', '/update/downloads/id/20298', '/update/downloads/id/20203', '/update/downloads/id/20131', '/update/downloads/id/20091', '/update/downloads/id/20067', '/update/downloads/id/20008', '/update/downloads/id/19992', '/update/downloads/id/19944', '/update/downloads/id/19881', '/update/downloads/id/19812', '/update/downloads/id/19756', '/update/downloads/id/19619', '/update/downloads/id/19559', '/update/downloads/id/19484', '/update/downloads/id/19421', '/update/downloads/id/19399', '/update/downloads/id/19298', '/update/downloads/id/19234', '/update/downloads/id/19169', '/update/downloads/id/19105', '/update/downloads/id/18980', '/update/downloads/id/18902', '/update/downloads/id/18824', '/update/downloads/id/18745', '/update/downloads/id/18697', '/update/downloads/id/18636', '/update/downloads/id/18587', '/update/downloads/id/18501', '/update/downloads/id/18486', '/update/downloads/id/18432', '/update/downloads/id/18373', '/update/downloads/id/18333', '/update/downloads/id/18249', '/update/downloads/id/18171', '/update/downloads/id/18161', '/update/downloads/id/18082', '/update/downloads/id/18038', '/update/downloads/id/17946', '/update/downloads/id/17899', '/update/downloads/id/17836', '/update/downloads/id/17773', '/update/downloads/id/17687', '/update/downloads/id/17620', '/update/downloads/id/17609', '/update/downloads/id/17400', '/update/downloads/id/17380', '/update/downloads/id/17297', '/update/downloads/id/17276', '/update/downloads/id/17200', '/update/downloads/id/17187', '/update/downloads/id/17190', '/update/downloads/id/17175', '/update/downloads/id/17148', '/update/downloads/id/17093', '/update/downloads/id/17014', '/update/downloads/id/16959', '/update/downloads/id/16872', '/update/downloads/id/16786', '/update/downloads/id/16676', '/update/downloads/id/16587', '/update/downloads/id/16515', '/update/downloads/id/16473', '/update/downloads/id/16427', '/update/downloads/id/16247', '/update/downloads/id/16226', '/update/downloads/id/16155', '/update/downloads/id/16099', '/update/downloads/id/16075', '/update/downloads/id/15929', '/update/downloads/id/15872', '/update/downloads/id/15790', '/update/downloads/id/15758', '/update/downloads/id/15696', '/update/downloads/id/15606', '/update/downloads/id/15502', '/update/downloads/id/15469', '/update/downloads/id/15416', '/update/downloads/id/15368', '/update/downloads/id/15244', '/update/downloads/id/15145', '/update/downloads/id/15087', '/update/downloads/id/15002', '/update/downloads/id/14946', '/update/downloads/id/14857', '/update/downloads/id/14811', '/update/downloads/id/14726', '/update/downloads/id/14655', '/update/downloads/id/14619', '/update/downloads/id/14543', '/update/downloads/id/14518', '/update/downloads/id/14378', '/update/downloads/id/14263', '/update/downloads/id/14325', '/update/downloads/id/14229', '/update/downloads/id/14184', '/update/downloads/id/14126', '/update/downloads/id/14023', '/update/downloads/id/13965', '/update/downloads/id/13921', '/update/downloads/id/13835', '/update/downloads/id/13820', '/update/downloads/id/13795', '/update/downloads/id/13784', '/update/downloads/id/13712', '/update/downloads/id/13754', '/update/downloads/id/13654', '/update/downloads/id/13585', '/update/downloads/id/13534', '/update/downloads/id/13495', '/update/downloads/id/13476', '/update/downloads/id/13441', '/update/downloads/id/13378', '/update/downloads/id/13371', '/update/downloads/id/13335', '/update/downloads/id/13304', '/update/downloads/id/13211', '/update/downloads/id/13166', '/update/downloads/id/13119', '/update/downloads/id/13010', '/update/downloads/id/12964', '/update/downloads/id/12947', '/update/downloads/id/12916', '/update/downloads/id/12858', '/update/downloads/id/12845', '/update/downloads/id/12812', '/update/downloads/id/12808', '/update/downloads/id/12736', '/update/downloads/id/12696', '/update/downloads/id/12514', '/update/downloads/id/12620', '/update/downloads/id/12600', '/update/downloads/id/12543', '/update/downloads/id/12506', '/update/downloads/id/12437', '/update/downloads/id/12429', '/update/downloads/id/12329', '/update/downloads/id/12302', '/update/downloads/id/12233', '/update/downloads/id/12216', '/update/downloads/id/12191', '/update/downloads/id/12145', '/update/downloads/id/12121', '/update/downloads/id/12064', '/update/downloads/id/12062', '/update/downloads/id/12018', '/update/downloads/id/11968', '/update/downloads/id/11933', '/update/downloads/id/11861', '/update/downloads/id/11872', '/update/downloads/id/11852', '/update/downloads/id/11773', '/update/downloads/id/11771', '/update/downloads/id/11718', '/update/downloads/id/11668', '/update/downloads/id/11613', '/update/downloads/id/11557', '/update/downloads/id/11518', '/update/downloads/id/11499', '/update/downloads/id/11449', '/update/downloads/id/11438', '/update/downloads/id/11381', '/update/downloads/id/11328', '/update/downloads/id/11286', '/update/downloads/id/11247', '/update/downloads/id/11195', '/update/downloads/id/11122', '/update/downloads/id/11036', '/update/downloads/id/11028', '/update/downloads/id/10956', '/update/downloads/id/10929', '/update/downloads/id/10923', '/update/downloads/id/10913', '/update/downloads/id/10808', '/update/downloads/id/10769', '/update/downloads/id/10752', '/update/downloads/id/10704', '/update/downloads/id/10597', '/update/downloads/id/10650', '/update/downloads/id/10596', '/update/downloads/id/10513', '/update/downloads/id/10449', '/update/downloads/id/10419', '/update/downloads/id/10409', '/update/downloads/id/10357', '/update/downloads/id/10337', '/update/downloads/id/10301', '/update/downloads/id/10244', '/update/downloads/id/10205', '/update/downloads/id/10129', '/update/downloads/id/10097', '/update/downloads/id/10027', '/update/downloads/id/9965', '/update/downloads/id/9925', '/update/downloads/id/9922', '/update/downloads/id/9878', '/update/downloads/id/9844', '/update/downloads/id/9773', '/update/downloads/id/9758', '/update/downloads/id/9751', '/update/downloads/id/9715', '/update/downloads/id/9677', '/update/downloads/id/9591', '/update/downloads/id/9600', '/update/downloads/id/9545', '/update/downloads/id/9542', '/update/downloads/id/9526', '/update/downloads/id/9508', '/update/downloads/id/9506', '/update/downloads/id/9454', '/update/downloads/id/9451', '/update/downloads/id/9046', '/update/downloads/id/9417', '/update/downloads/id/9395', '/update/downloads/id/9355', '/update/downloads/id/9275', '/update/downloads/id/9271', '/update/downloads/id/9219', '/update/downloads/id/9188', '/update/downloads/id/9187', '/update/downloads/id/9104', '/update/downloads/id/9063', '/update/downloads/id/8994', '/update/downloads/id/8955', '/update/downloads/id/8937', '/update/downloads/id/8888', '/update/downloads/id/8869', '/update/downloads/id/8867', '/update/downloads/id/8806', '/update/downloads/id/8819', '/update/downloads/id/8794', '/update/downloads/id/8781', '/update/downloads/id/8779', '/update/downloads/id/8749', '/update/downloads/id/8719', '/update/downloads/id/8688', '/update/downloads/id/8671', '/update/downloads/id/8670', '/update/downloads/id/8594', '/update/downloads/id/8583', '/update/downloads/id/8566', '/update/downloads/id/8547', '/update/downloads/id/8430', '/update/downloads/id/8427', '/update/downloads/id/8385', '/update/downloads/id/8358', '/update/downloads/id/8321', '/update/downloads/id/8310', '/update/downloads/id/8300', '/update/downloads/id/8208', '/update/downloads/id/8207', '/update/downloads/id/8139', '/update/downloads/id/8119', '/update/downloads/id/8116', '/update/downloads/id/8105', '/update/downloads/id/8072', '/update/downloads/id/8061', '/update/downloads/id/8036', '/update/downloads/id/8033', '/update/downloads/id/7994', '/update/downloads/id/7970', '/update/downloads/id/7968', '/update/downloads/id/7878', '/update/downloads/id/7844', '/update/downloads/id/7805', '/update/downloads/id/7744', '/update/downloads/id/7706', '/update/downloads/id/7659', '/update/downloads/id/7609', '/update/downloads/id/7602', '/update/downloads/id/7558', '/update/downloads/id/7523', '/update/downloads/id/7521', '/update/downloads/id/7477', '/update/downloads/id/7474', '/update/downloads/id/7448', '/update/downloads/id/7453', '/update/downloads/id/7449', '/update/downloads/id/7417', '/update/downloads/id/7348', '/update/downloads/id/7359', '/update/downloads/id/7324', '/update/downloads/id/6860', '/update/downloads/id/7222', '/update/downloads/id/7217', '/update/downloads/id/7180', '/update/downloads/id/7118', '/update/downloads/id/7106', '/update/downloads/id/7091', '/update/downloads/id/7059', '/update/downloads/id/7010', '/update/downloads/id/6974', '/update/downloads/id/6933', '/update/downloads/id/6885', '/update/downloads/id/6861', '/update/downloads/id/6773', '/update/downloads/id/6766', '/update/downloads/id/6742', '/update/downloads/id/6735', '/update/downloads/id/6715', '/update/downloads/id/6698', '/update/downloads/id/6662', '/update/downloads/id/6636', '/update/downloads/id/6600', '/update/downloads/id/6598', '/update/downloads/id/6578', '/update/downloads/id/6550', '/update/downloads/id/6507', '/update/downloads/id/6481', '/update/downloads/id/6455', '/update/downloads/id/6427', '/update/downloads/id/6413', '/update/downloads/id/6382', '/update/downloads/id/6365', '/update/downloads/id/6332', '/update/downloads/id/6287', '/update/downloads/id/6250', '/update/downloads/id/6235', '/update/downloads/id/6197', '/update/downloads/id/6177', '/update/downloads/id/6126', '/update/downloads/id/6085', '/update/downloads/id/6054', '/update/downloads/id/6001', '/update/downloads/id/6010', '/update/downloads/id/5927', '/update/downloads/id/5912', '/update/downloads/id/5899', '/update/downloads/id/5802', '/update/downloads/id/5797', '/update/downloads/id/5782', '/update/downloads/id/5753', '/update/downloads/id/5760', '/update/downloads/id/5704', '/update/downloads/id/5722', '/update/downloads/id/5700', '/update/downloads/id/5666', '/update/downloads/id/5656', '/update/downloads/id/5614', '/update/downloads/id/5635', '/update/downloads/id/5591', '/update/downloads/id/5561', '/update/downloads/id/5519', '/update/downloads/id/5478', '/update/downloads/id/5443', '/update/downloads/id/5408', '/update/downloads/id/5405', '/update/downloads/id/5370', '/update/downloads/id/5329', '/update/downloads/id/5325', '/update/downloads/id/4808', '/update/downloads/id/5205', '/update/downloads/id/5201', '/update/downloads/id/5192', '/update/downloads/id/5155', '/update/downloads/id/5125', '/update/downloads/id/5094', '/update/downloads/id/5091', '/update/downloads/id/5049', '/update/downloads/id/5027', '/update/downloads/id/5017', '/update/downloads/id/5012', '/update/downloads/id/4973', '/update/downloads/id/4939', '/update/downloads/id/4930', '/update/downloads/id/4886', '/update/downloads/id/4842', '/update/downloads/id/4831', '/update/downloads/id/4811', '/update/downloads/id/4764', '/update/downloads/id/4758', '/update/downloads/id/4753', '/update/downloads/id/4719', '/update/downloads/id/4643', '/update/downloads/id/4641', '/update/downloads/id/4623', '/update/downloads/id/4593', '/update/downloads/id/4547', '/update/downloads/id/4545', '/update/downloads/id/4511', '/update/downloads/id/4475', '/update/downloads/id/4472', '/update/downloads/id/4273', '/update/downloads/id/4445', '/update/downloads/id/4409', '/update/downloads/id/4388', '/update/downloads/id/4347', '/update/downloads/id/4319', '/update/downloads/id/4284', '/update/downloads/id/4281', '/update/downloads/id/4227', '/update/downloads/id/4204', '/update/downloads/id/4154', '/update/downloads/id/4121', '/update/downloads/id/4090', '/update/downloads/id/4069', '/update/downloads/id/4054', '/update/downloads/id/4050', '/update/downloads/id/4021', '/update/downloads/id/4013', '/update/downloads/id/3973', '/update/downloads/id/3933', '/update/downloads/id/3910', '/update/downloads/id/3872', '/update/downloads/id/3842', '/update/downloads/id/3829', '/update/downloads/id/3814', '/update/downloads/id/3788', '/update/downloads/id/3742', '/update/downloads/id/3268', '/update/downloads/id/3702', '/update/downloads/id/3662', '/update/downloads/id/3592', '/update/downloads/id/3575', '/update/downloads/id/3557', '/update/downloads/id/3516', '/update/downloads/id/3519', '/update/downloads/id/3492', '/update/downloads/id/3460', '/update/downloads/id/3461', '/update/downloads/id/3436', '/update/downloads/id/3346', '/update/downloads/id/3359', '/update/downloads/id/3324', '/update/downloads/id/3301', '/update/downloads/id/3274', '/update/downloads/id/3207', '/update/downloads/id/3229', '/update/downloads/id/3106', '/update/downloads/id/3182', '/update/downloads/id/3136', '/update/downloads/id/3133', '/update/downloads/id/3121', '/update/downloads/id/3080', '/update/downloads/id/3059', '/update/downloads/id/3042', '/update/downloads/id/3022', '/update/downloads/id/2982', '/update/downloads/id/2974', '/update/downloads/id/2965', '/update/downloads/id/2935', '/update/downloads/id/2929', '/update/downloads/id/2893', '/update/downloads/id/2888', '/update/downloads/id/2857', '/update/downloads/id/2831', '/update/downloads/id/2813', '/update/downloads/id/2803', '/update/downloads/id/2785', '/update/downloads/id/2764', '/update/downloads/id/2583', '/update/downloads/id/2721', '/update/downloads/id/2663', '/update/downloads/id/2616', '/update/downloads/id/2581', '/update/downloads/id/2562', '/update/downloads/id/2508', '/update/downloads/id/2506', '/update/downloads/id/2467', '/update/downloads/id/2408', '/update/downloads/id/2358', '/update/downloads/id/2315', '/update/downloads/id/2282', '/update/downloads/id/2250', '/update/downloads/id/2234', '/update/downloads/id/2233', '/update/downloads/id/2212', '/update/downloads/id/2197', '/update/downloads/id/2185', '/update/downloads/id/2148', '/update/downloads/id/2145', '/update/downloads/id/2144', '/update/downloads/id/2110', '/update/downloads/id/2089', '/update/downloads/id/2066', '/update/downloads/id/2067', '/update/downloads/id/2027', '/update/downloads/id/1977', '/update/downloads/id/1923', '/update/downloads/id/1900', '/update/downloads/id/1920', '/update/downloads/id/1875', '/update/downloads/id/1883', '/update/downloads/id/1835', '/update/downloads/id/1799', '/update/downloads/id/1793', '/update/downloads/id/1769', '/update/downloads/id/1715', '/update/downloads/id/1666', '/update/downloads/id/1682', '/update/downloads/id/1635', '/update/downloads/id/1667', '/update/downloads/id/1416', '/update/downloads/id/1631', '/update/downloads/id/1603', '/update/downloads/id/1562', '/update/downloads/id/1527', '/update/downloads/id/1526', '/update/downloads/id/1496', '/update/downloads/id/1467', '/update/downloads/id/1445', '/update/downloads/id/1441', '/update/downloads/id/1417', '/update/downloads/id/1380', '/update/downloads/id/1352', '/update/downloads/id/1337', '/update/downloads/id/1308', '/update/downloads/id/1310', '/update/downloads/id/1296', '/update/downloads/id/1285', '/update/downloads/id/1260', '/update/downloads/id/1263', '/update/downloads/id/1232', '/update/downloads/id/1229', '/update/downloads/id/1184', '/update/downloads/id/1095', '/update/downloads/id/1073', '/update/downloads/id/1111', '/update/downloads/id/1061', '/update/downloads/id/1042', '/update/downloads/id/1028', '/update/downloads/id/1019', '/update/downloads/id/994', '/update/downloads/id/954', '/update/downloads/id/952', '/update/downloads/id/922', '/update/downloads/id/891', '/update/downloads/id/855', '/update/downloads/id/778', '/update/downloads/id/763', '/update/downloads/id/746', '/update/downloads/id/740', '/update/downloads/id/721', '/update/downloads/id/704', '/update/downloads/id/663', '/update/downloads/id/621', '/update/downloads/id/612', '/update/downloads/id/567', '/update/downloads/id/557', '/update/downloads/id/552', '/update/downloads/id/539', '/update/downloads/id/525', '/update/downloads/id/502', '/update/downloads/id/495', '/update/downloads/id/452', '/update/downloads/id/445', '/update/downloads/id/437']
+2021-11-02 04:24:08： 获取系统/引擎升级包名称信息如下
+['ora-051877.dat', 'ora-051876.dat', 'ora-051875.dat', 'ora-051874.dat', 'ora-051873.dat', 'ora-051872.dat', 'ora-051871.dat', 'ora-051870.dat', 'ora-051869.dat', 'ora-051868.dat', 'ora-051867.dat', 'ora-051866.dat', 'ora-051865.dat', 'ora-051864.dat', 'ora-051863.dat', 'ora-051862.dat', 'ora-051861.dat', 'ora-051860.dat', 'ora-051859.dat', 'ora-051858.dat', 'ora-051857.dat', 'ora-051856.dat', 'ora-051855.dat', 'ora-051854.dat', 'ora-051853.dat', 'ora-051852.dat', 'ora-051851.dat', 'ora-051850.dat', 'ora-051849.dat', 'ora-051848.dat', 'ora-051847.dat', 'ora-051846.dat', 'ora-051845.dat', 'ora-051844.dat', 'ora-051843.dat', 'ora-051842.dat', 'ora-051841.dat', 'ora-051840.dat', 'ora-051839.dat', 'ora-051838.dat', 'ora-051837.dat', 'ora-051836.dat', 'ora-051835.dat', 'ora-051834.dat', 'ora-051833.dat', 'ora-051832.dat', 'ora-051831.dat', 'ora-051830.dat', 'ora-051829.dat', 'ora-051828.dat', 'ora-051827.dat', 'ora-051826.dat', 'ora-051825.dat', 'ora-051824.dat', 'ora-051823.dat', 'ora-051822.dat', 'ora-051821.dat', 'ora-051820.dat', 'ora-051819.dat', 'ora-051818.dat', 'ora-051817.dat', 'ora-051816.dat', 'ora-051815.dat', 'ora-051814.dat', 'ora-051813.dat', 'ora-051812.dat', 'ora-051811.dat', 'ora-051810.dat', 'ora-051809.dat', 'ora-051808.dat', 'ora-051807.dat', 'ora-051806.dat', 'ora-051805.dat', 'ora-051804.dat', 'ora-051803.dat', 'ora-051802.dat', 'ora-051801.dat', 'ora-051800.dat', 'ora-051761.dat', 'ora-051760.dat', 'ora-051759.dat', 'ora-051758.dat', 'ora-051757.dat', 'ora-051756.dat', 'ora-051755.dat', 'ora-051754.dat', 'ora-051753.dat', 'ora-051752.dat', 'ora-051751.dat', 'ora-051750.dat', 'ora-051749.dat', 'ora-051748.dat', 'ora-051747.dat', 'ora-051746.dat', 'ora-051745.dat', 'ora-051744.dat', 'ora-051743.dat', 'ora-051742.dat', 'ora-051741.dat', 'ora-051740.dat', 'ora-051739.dat', 'ora-051738.dat', 'ora-051737.dat', 'ora-051736.dat', 'ora-051735.dat', 'ora-051734.dat', 'ora-051733.dat', 'ora-051732.dat', 'ora-051731.dat', 'ora-051730.dat', 'ora-051729.dat', 'ora-051728.dat', 'ora-051727.dat', 'ora-051726.dat', 'ora-051725.dat', 'ora-051724.dat', 'ora-051723.dat', 'ora-051722.dat', 'ora-051721.dat', 'ora-051720.dat', 'ora-051719.dat', 'ora-051718.dat', 'ora-051717.dat', 'ora-051716.dat', 'ora-051715.dat', 'ora-051714.dat', 'ora-051713.dat', 'ora-051712.dat', 'ora-051711.dat', 'ora-051710.dat', 'ora-051709.dat', 'ora-051708.dat', 'ora-051707.dat', 'ora-051706.dat', 'ora-051705.dat', 'ora-051704.dat', 'ora-051703.dat', 'ora-051702.dat', 'ora-051701.dat', 'ora-051700.dat', 'ora-051657.dat', 'ora-051656.dat', 'ora-051655.dat', 'ora-051654.dat', 'ora-051653.dat', 'ora-051652.dat', 'ora-051651.dat', 'ora-051650.dat', 'ora-051649.dat', 'ora-051648.dat', 'ora-051647.dat', 'ora-051646.dat', 'ora-051645.dat', 'ora-051644.dat', 'ora-051643.dat', 'ora-051642.dat', 'ora-051641.dat', 'ora-051640.dat', 'ora-051639.dat', 'ora-051638.dat', 'ora-051637.dat', 'ora-051636.dat', 'ora-051635.dat', 'ora-051634.dat', 'ora-051633.dat', 'ora-051632.dat', 'ora-051631.dat', 'ora-051630.dat', 'ora-051629.dat', 'ora-051628.dat', 'ora-051627.dat', 'ora-051626.dat', 'ora-051625.dat', 'ora-051624.dat', 'ora-051623.dat', 'ora-051622.dat', 'ora-051621.dat', 'ora-051620.dat', 'ora-051619.dat', 'ora-051618.dat', 'ora-051617.dat', 'ora-051616.dat', 'ora-051615.dat', 'ora-051614.dat', 'ora-051613.dat', 'ora-051612.dat', 'ora-051611.dat', 'ora-051610.dat', 'ora-051609.dat', 'ora-051608.dat', 'ora-051607.dat', 'ora-051606.dat', 'ora-051605.dat', 'ora-051604.dat', 'ora-051603.dat', 'ora-051602.dat', 'ora-051601.dat', 'ora-051600.dat', 'ora-051516.dat', 'ora-051515.dat', 'ora-051514.dat', 'ora-051513.dat', 'ora-051512.dat', 'ora-051511.dat', 'ora-051510.dat', 'ora-051509.dat', 'ora-051508.dat', 'ora-051507.dat', 'ora-051506.dat', 'ora-051505.dat', 'ora-051504.dat', 'ora-051503.dat', 'ora-051502.dat', 'ora-051501.dat', 'ora-051500.dat', 'ora-051424.dat', 'ora-051423.dat', 'ora-051422.dat', 'ora-051421.dat', 'ora-051420.dat', 'ora-051419.dat', 'ora-051418.dat', 'ora-051417.dat', 'ora-051416.dat', 'ora-051415.dat', 'ora-051414.dat', 'ora-051413.dat', 'ora-051412.dat', 'ora-051411.dat', 'ora-051410.dat', 'ora-051409.dat', 'ora-051408.dat', 'ora-051407.dat', 'ora-051406.dat', 'ora-051405.dat', 'ora-051404.dat', 'ora-051403.dat', 'ora-051402.dat', 'ora-051401.dat', 'ora-051400.dat', 'ora-051381.dat', 'ora-051380.dat', 'ora-051379.dat', 'ora-051378.dat', 'ora-051377.dat', 'ora-051376.dat', 'ora-051375.dat', 'ora-051374.dat', 'ora-051373.dat', 'ora-051372.dat', 'ora-051371.dat', 'ora-051370.dat', 'ora-051369.dat', 'ora-051368.dat', 'ora-051367.dat', 'ora-051366.dat', 'ora-051365.dat', 'ora-051364.dat', 'ora-051363.dat', 'ora-051362.dat', 'ora-051361.dat', 'ora-051360.dat', 'ora-051359.dat', 'ora-051358.dat', 'ora-051357.dat', 'ora-051356.dat', 'ora-051355.dat', 'ora-051354.dat', 'ora-051353.dat', 'ora-051352.dat', 'ora-051351.dat', 'ora-051350.dat', 'ora-051349.dat', 'ora-051348.dat', 'ora-051347.dat', 'ora-051346.dat', 'ora-051345.dat', 'ora-051344.dat', 'ora-051343.dat', 'ora-051342.dat', 'ora-051341.dat', 'ora-051340.dat', 'ora-051339.dat', 'ora-051338.dat', 'ora-051337.dat', 'ora-051336.dat', 'ora-051335.dat', 'ora-051334.dat', 'ora-051333.dat', 'ora-051332.dat', 'ora-051331.dat', 'ora-051330.dat', 'ora-051329.dat', 'ora-051328.dat', 'ora-051327.dat', 'ora-051326.dat', 'ora-051325.dat', 'ora-051324.dat', 'ora-051323.dat', 'ora-051322.dat', 'ora-051321.dat', 'ora-051320.dat', 'ora-051319.dat', 'ora-051318.dat', 'ora-051317.dat', 'ora-051316.dat', 'ora-051315.dat', 'ora-051314.dat', 'ora-051313.dat', 'ora-051312.dat', 'ora-051311.dat', 'ora-051310.dat', 'ora-051309.dat', 'ora-051308.dat', 'ora-051307.dat', 'ora-051306.dat', 'ora-051305.dat', 'ora-051304.dat', 'ora-051303.dat', 'ora-051302.dat', 'ora-051301.dat', 'ora-051300.dat', 'ora-051270.dat', 'ora-051269.dat', 'ora-051268.dat', 'ora-051267.dat', 'ora-051266.dat', 'ora-051265.dat', 'ora-051264.dat', 'ora-051263.dat', 'ora-051262.dat', 'ora-051261.dat', 'ora-051260.dat', 'ora-051259.dat', 'ora-051258.dat', 'ora-051257.dat', 'ora-051256.dat', 'ora-051255.dat', 'ora-051254.dat', 'ora-051253.dat', 'ora-051252.dat', 'ora-051251.dat', 'ora-051250.dat', 'ora-051249.dat', 'ora-051248.dat', 'ora-051247.dat', 'ora-051246.dat', 'ora-051245.dat', 'ora-051244.dat', 'ora-051243.dat', 'ora-051242.dat', 'ora-051241.dat', 'ora-051240.dat', 'ora-051239.dat', 'ora-051238.dat', 'ora-051237.dat', 'ora-051236.dat', 'ora-051235.dat', 'ora-051234.dat', 'ora-051233.dat', 'ora-051232.dat', 'ora-051231.dat', 'ora-051230.dat', 'ora-051229.dat', 'ora-051228.dat', 'ora-051227.dat', 'ora-051226.dat', 'ora-051225.dat', 'ora-051224.dat', 'ora-051223.dat', 'ora-051222.dat', 'ora-051221.dat', 'ora-051220.dat', 'ora-051219.dat', 'ora-051218.dat', 'ora-051217.dat', 'ora-051216.dat', 'ora-051215.dat', 'ora-051214.dat', 'ora-051213.dat', 'ora-051212.dat', 'ora-051211.dat', 'ora-051210.dat', 'ora-051209.dat', 'ora-051208.dat', 'ora-051207.dat', 'ora-051206.dat', 'ora-051205.dat', 'ora-051204.dat', 'ora-051203.dat', 'ora-051202.dat', 'ora-051201.dat', 'ora-051200.dat', 'ora-051167.dat', 'ora-051166.dat', 'ora-051165.dat', 'ora-051164.dat', 'ora-051163.dat', 'ora-051162.dat', 'ora-051161.dat', 'ora-051160.dat', 'ora-051159.dat', 'ora-051158.dat', 'ora-051157.dat', 'ora-051156.dat', 'ora-051155.dat', 'ora-051154.dat', 'ora-051153.dat', 'ora-051152.dat', 'ora-051151.dat', 'ora-051150.dat', 'ora-051149.dat', 'ora-051148.dat', 'ora-051147.dat', 'ora-051146.dat', 'ora-051145.dat', 'ora-051144.dat', 'ora-051143.dat', 'ora-051142.dat', 'ora-051141.dat', 'ora-051140.dat', 'ora-051139.dat', 'ora-051138.dat', 'ora-051137.dat', 'ora-051136.dat', 'ora-051135.dat', 'ora-051134.dat', 'ora-051133.dat', 'ora-051132.dat', 'ora-051131.dat', 'ora-051130.dat', 'ora-051129.dat', 'ora-051128.dat', 'ora-051127.dat', 'ora-051126.dat', 'ora-051125.dat', 'ora-051124.dat', 'ora-051123.dat', 'ora-051122.dat', 'ora-051121.dat', 'ora-051120.dat', 'ora-051119.dat', 'ora-051118.dat', 'ora-051117.dat', 'ora-051116.dat', 'ora-051115.dat', 'ora-051114.dat', 'ora-051113.dat', 'ora-051112.dat', 'ora-051111.dat', 'ora-051110.dat', 'ora-051109.dat', 'ora-051108.dat', 'ora-051107.dat', 'ora-051106.dat', 'ora-051105.dat', 'ora-051104.dat', 'ora-051103.dat', 'ora-051102.dat', 'ora-051101.dat', 'ora-051100.dat', 'ora-051058.dat', 'ora-051057.dat', 'ora-051056.dat', 'ora-051055.dat', 'ora-051054.dat', 'ora-051053.dat', 'ora-051052.dat', 'ora-051051.dat', 'ora-051050.dat', 'ora-051049.dat', 'ora-051048.dat', 'ora-051047.dat', 'ora-051046.dat', 'ora-051045.dat', 'ora-051044.dat', 'ora-051043.dat', 'ora-051042.dat', 'ora-051041.dat', 'ora-051040.dat', 'ora-051039.dat', 'ora-051038.dat', 'ora-051037.dat', 'ora-051036.dat', 'ora-051035.dat', 'ora-051034.dat', 'ora-051033.dat', 'ora-051032.dat', 'ora-051031.dat', 'ora-051030.dat', 'ora-051029.dat', 'ora-051028.dat', 'ora-051027.dat', 'ora-051026.dat', 'ora-051025.dat', 'ora-051024.dat', 'ora-051023.dat', 'ora-051022.dat', 'ora-051021.dat', 'ora-051020.dat', 'ora-051019.dat', 'ora-051018.dat', 'ora-051017.dat', 'ora-051016.dat', 'ora-051015.dat', 'ora-051014.dat', 'ora-051013.dat', 'ora-051012.dat', 'ora-051011.dat', 'ora-051010.dat', 'ora-051009.dat', 'ora-051008.dat', 'ora-051007.dat', 'ora-051006.dat', 'ora-051005.dat', 'ora-051004.dat', 'ora-051003.dat', 'ora-051002.dat', 'ora-051001.dat', 'ora-051000.dat', 'ora-050918.dat', 'ora-050917.dat', 'ora-050916.dat', 'ora-050915.dat', 'ora-050914.dat', 'ora-050913.dat', 'ora-050912.dat', 'ora-050911.dat', 'ora-050910.dat', 'ora-050909.dat', 'ora-050908.dat', 'ora-050907.dat', 'ora-050906.dat', 'ora-050905.dat', 'ora-050904.dat', 'ora-050903.dat', 'ora-050902.dat', 'ora-050901.dat', 'ora-050900.dat', 'ora-050821.dat', 'ora-050820.dat', 'ora-050819.dat', 'ora-050818.dat', 'ora-050817.dat', 'ora-050816.dat', 'ora-050815.dat', 'ora-050814.dat', 'ora-050813.dat', 'ora-050812.dat', 'ora-050811.dat', 'ora-050810.dat', 'ora-050809.dat', 'ora-050808.dat', 'ora-050807.dat', 'ora-050806.dat', 'ora-050805.dat', 'ora-050804.dat', 'ora-050803.dat', 'ora-050802.dat', 'ora-050801.dat', 'ora-050800.dat', 'ora-050741.dat', 'ora-050740.dat', 'ora-050739.dat', 'ora-050738.dat', 'ora-050737.dat', 'ora-050736.dat', 'ora-050735.dat', 'ora-050734.dat', 'ora-050733.dat', 'ora-050732.dat', 'ora-050731.dat', 'ora-050730.dat', 'ora-050729.dat', 'ora-050728.dat', 'ora-050727.dat', 'ora-050726.dat', 'ora-050725.dat', 'ora-050724.dat', 'ora-050723.dat', 'ora-050722.dat', 'ora-050721.dat', 'ora-050720.dat', 'ora-050719.dat', 'ora-050718.dat', 'ora-050717.dat', 'ora-050716.dat', 'ora-050715.dat', 'ora-050714.dat', 'ora-050713.dat', 'ora-050712.dat', 'ora-050711.dat', 'ora-050710.dat', 'ora-050709.dat', 'ora-050708.dat', 'ora-050707.dat', 'ora-050706.dat', 'ora-050705.dat', 'ora-050704.dat', 'ora-050703.dat', 'ora-050702.dat', 'ora-050701.dat', 'ora-050700.dat', 'ora-050622.dat', 'ora-050621.dat', 'ora-050620.dat', 'ora-050619.dat', 'ora-050618.dat', 'ora-050617.dat', 'ora-050616.dat', 'ora-050615.dat', 'ora-050614.dat', 'ora-050613.dat', 'ora-050612.dat', 'ora-050611.dat', 'ora-050610.dat', 'ora-050609.dat', 'ora-050608.dat', 'ora-050607.dat', 'ora-050606.dat', 'ora-050605.dat', 'ora-050604.dat', 'ora-050603.dat', 'ora-050602.dat', 'ora-050601.dat', 'ora-050600.dat', 'ora-050500.dat', 'ora-050406.dat', 'ora-050405.dat', 'ora-050404.dat', 'ora-050403.dat', 'ora-050402.dat', 'ora-050401.dat', 'ora-050400.dat', 'ora-050304.dat', 'ora-050303.dat', 'ora-050302.dat', 'ora-050301.dat', 'ora-050300.dat', 'ora-050206.dat', 'ora-050205.dat', 'ora-050204.dat', 'ora-050203.dat', 'ora-050202.dat', 'ora-050201.dat', 'ora-050200.dat', 'ora-050101.dat', 'ora-050100.dat', 'ora-050009.dat', 'ora-050008.dat', 'ora-050007.dat', 'ora-050006.dat', 'ora-050005.dat', 'ora-050004.dat', 'ora-050003.dat', 'ora-050002.dat', 'ora-050001.dat']
+2021-11-02 04:24:08： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:24:08： 开始下载系统/引擎升级包
+2021-11-02 04:24:08： 已下载40个升级包
+2021-11-02 04:24:08： 系统/引擎升级包下载完成
+
+2021-11-02 04:24:08： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0->RSAS V6.0系统升级包”
+2021-11-02 04:24:09： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120447', '/update/downloads/id/119898', '/update/downloads/id/119126', '/update/downloads/id/119028', '/update/downloads/id/118532', '/update/downloads/id/117014', '/update/downloads/id/116005', '/update/downloads/id/113319', '/update/downloads/id/112755', '/update/downloads/id/111678', '/update/downloads/id/111461', '/update/downloads/id/108296', '/update/downloads/id/106531', '/update/downloads/id/104287', '/update/downloads/id/102843', '/update/downloads/id/102577', '/update/downloads/id/101375', '/update/downloads/id/100835', '/update/downloads/id/33356', '/update/downloads/id/32816', '/update/downloads/id/32024', '/update/downloads/id/29667', '/update/downloads/id/28251', '/update/downloads/id/27502', '/update/downloads/id/27070', '/update/downloads/id/25706', '/update/downloads/id/24865', '/update/downloads/id/22574', '/update/downloads/id/22127', '/update/downloads/id/21576', '/update/downloads/id/21294', '/update/downloads/id/21233', '/update/downloads/id/21178', '/update/downloads/id/20976', '/update/downloads/id/20382', '/update/downloads/id/20062', '/update/downloads/id/19949', '/update/downloads/id/19606', '/update/downloads/id/18674', '/update/downloads/id/18430', '/update/downloads/id/18339', '/update/downloads/id/18057', '/update/downloads/id/17288', '/update/downloads/id/16663', '/update/downloads/id/15699', '/update/downloads/id/15568', '/update/downloads/id/15530', '/update/downloads/id/14815', '/update/downloads/id/14151', '/update/downloads/id/14116', '/update/downloads/id/13769', '/update/downloads/id/13498', '/update/downloads/id/13150', '/update/downloads/id/13096', '/update/downloads/id/12662', '/update/downloads/id/12495', '/update/downloads/id/12111', '/update/downloads/id/11458', '/update/downloads/id/10902', '/update/downloads/id/10610', '/update/downloads/id/10547', '/update/downloads/id/10515', '/update/downloads/id/9941', '/update/downloads/id/9793', '/update/downloads/id/9604', '/update/downloads/id/9200', '/update/downloads/id/9165', '/update/downloads/id/9054', '/update/downloads/id/8796', '/update/downloads/id/8488', '/update/downloads/id/8355', '/update/downloads/id/8171', '/update/downloads/id/8154', '/update/downloads/id/7802', '/update/downloads/id/7572', '/update/downloads/id/7360', '/update/downloads/id/7138', '/update/downloads/id/6818', '/update/downloads/id/6']
+2021-11-02 04:24:09： 获取系统/引擎升级包名称信息如下
+['sys-V6.0R04F00SP11.dat', 'sys-V6.0R04F00SP10.dat', 'sys-V6.0R04F00SP09.dat', 'sys-V6.0R04F00SP08.dat', 'sys-V6.0R04F00SP07.dat', 'sys-V6.0R04F00SP06.dat', 'sys-V6.0R04F00SP05.dat', 'sys-V6.0R04F00SP04.dat', 'sys-V6.0R04F00SP03.dat', 'sys-V6.0R04F00SP02.dat', 'sys-V6.0R04F00SP01.dat', 'sys-V6.0R04F00.dat', 'sys-V6.0R03F01SP02.dat', 'sys-V6.0R03F01SP01.dat', 'sys-V6.0R03F01.dat', 'sys-V6.0R03F00SP05.dat', 'sys-V6.0R03F00SP04.dat', 'sys-V6.0R03F00SP03.dat', 'sys-V6.0R03F00SP02.dat', 'sys-V6.0R03F00SP01.dat', 'sys-V6.0R03F00.dat', 'sys-V6.0R02F04SP05.dat', 'sys-V6.0R02F04SP04.dat', 'sys-V6.0R02F04SP03.dat', 'sys-V6.0R02F04SP02.dat', 'sys-V6.0R02F04SP01.dat', 'sys-V6.0R02F04.dat', 'sys-V6.0R02F03SP13.dat', 'sys-V6.0R02F03SP12.dat', 'sys-V6.0R02F03SP11.dat', 'sys-V6.0R02F03SP10.dat', 'sys-V6.0R02F03SP09.dat', 'sys-V6.0R02F03SP08.dat', 'sys-V6.0R02F03SP07.dat', 'sys-V6.0R02F03SP06.dat', 'sys-V6.0R02F03SP05.dat', 'sys-V6.0R02F03SP04.dat', 'sys-V6.0R02F03SP03.dat', 'sys-V6.0R02F03SP02.dat', 'sys-V6.0R02F03SP01.dat', 'sys-V6.0R02F03.dat', 'sys-V6.0R02F02SP02.dat', 'sys-V6.0R02F02SP01.dat', 'sys-V6.0R02F02.dat', 'sys-V6.0R02F01SP08.dat', 'sys-V6.0R02F01SP07.dat', 'sys-V6.0R02F01SP06.dat', 'sys-V6.0R02F01SP05.dat', 'sys-V6.0R02F01SP04.dat', 'sys-V6.0R02F01SP03.dat', 'sys-V6.0R02F01SP02.dat', 'sys-V6.0R02F01SP01.dat', 'sys-V6.0R02F01.dat', 'sys-V6.0R02F00SP08.dat', 'sys-V6.0R02F00SP07.dat', 'sys-V6.0R02F00SP06.dat', 'sys-V6.0R02F00SP05.dat', 'sys-V6.0R02F00SP04.dat', 'sys-V6.0R02F00SP03.dat', 'sys-V6.0R02F00SP02.dat', 'sys-V6.0R02F00SP01.dat', 'sys-6.0.2.0.dat', 'sys-6.0.1.14.dat', 'sys-6.0.1.13.dat', 'sys-6.0.1.12.dat', 'sys-6.0.1.11.dat', 'sys-6.0.1.10.dat', 'sys-6.0.1.9.dat', 'sys-6.0.1.8.dat', 'sys-6.0.1.7.dat', 'sys-6.0.1.6.dat', 'sys-6.0.1.5.dat', 'sys-6.0.1.4.dat', 'sys-6.0.1.3.dat', 'sys-6.0.1.2.dat', 'sys-6.0.1.1.dat', 'sys-6.0.1.0.dat', 'sys-6.0.0.2.dat', 'sys-6.0.0.1.dat']
+2021-11-02 04:24:09： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:24:09： 开始下载系统/引擎升级包
+2021-11-02 04:24:09： 下载系统/引擎升级包：rsas-sys-V6.0R03F01SP02.dat
+2021-11-02 04:24:09： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/106531
+2021-11-02 04:24:17： 下载系统/引擎升级包：rsas-sys-V6.0R03F01SP01.dat
+2021-11-02 04:24:17： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/104287
+2021-11-02 04:24:34： 下载系统/引擎升级包：rsas-sys-V6.0R03F01.dat
+2021-11-02 04:24:34： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/102843
+Traceback (most recent call last):
+  File "/volume2/NsfocusUpdate/2.AutomaticUpdateAll.py", line 39, in <module>
+    main()
+  File "/volume2/NsfocusUpdate/2.AutomaticUpdateAll.py", line 35, in main
+    RSAS_UpdateDownload.Update()
+  File "/volume2/NsfocusUpdate/RSAS_UpdateDownload.py", line 57, in Update
+    UpdateGeneralDownload.down_sys_file(url,headers,path_features,filename_features,file_path,filename_features_n)
+  File "/volume2/NsfocusUpdate/UpdateGeneralDownload.py", line 55, in down_sys_file
+    down_thread_file(url_file,headers,file_path,filename_features_n,file_name,j)
+  File "/volume2/NsfocusUpdate/UpdateGeneralDownload.py", line 16, in down_thread_file
+    for chunk in r.iter_content(chunk_size=512):
+  File "/volume2/@appstore/py3k/usr/local/lib/python3.5/site-packages/requests/models.py", line 758, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/volume2/@appstore/py3k/usr/local/lib/python3.5/site-packages/urllib3/response.py", line 576, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/volume2/@appstore/py3k/usr/local/lib/python3.5/site-packages/urllib3/response.py", line 519, in read
+    data = self._fp.read(amt) if not fp_closed else b""
+  File "/volume2/@appstore/py3k/usr/local/lib/python3.5/http/client.py", line 433, in read
+    n = self.readinto(b)
+  File "/volume2/@appstore/py3k/usr/local/lib/python3.5/http/client.py", line 473, in readinto
+    n = self.fp.readinto(b)
+  File "/volume2/@appstore/py3k/usr/local/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+nohup: ignoring input
+
+**************************************************************************************************
+***                                                                                            ***
+***                                    开始自动更新所有的升级包                                  ***
+***                                                                                            ***
+**************************************************************************************************
+
+2021-11-02 04:26:35： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-竞技靶场(CSSP-C)->V5.0R00F00”
+2021-11-02 04:26:35： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117062']
+2021-11-02 04:26:35： 获取系统/引擎升级包名称信息如下
+['P-T.V5.0R00F00SP01.dat']
+2021-11-02 04:26:35： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:35： 开始下载系统/引擎升级包
+2021-11-02 04:26:35： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:35： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-竞技靶场(CSSP-C)->中台升级包”
+2021-11-02 04:26:36： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:36： 开始下载系统/引擎升级包
+2021-11-02 04:26:36： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:36： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-实训靶场(CSSP-T)->V5.0R00F00”
+2021-11-02 04:26:36： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117062']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息如下
+['P-T.V5.0R00F00SP01.dat']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:36： 开始下载系统/引擎升级包
+2021-11-02 04:26:36： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:36： 下载“绿盟网络空间安全仿真平台(CSSP)->绿盟网络空间安全仿真平台-实训靶场(CSSP-T)->中台升级包”
+2021-11-02 04:26:36： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:36： 开始下载系统/引擎升级包
+2021-11-02 04:26:36： 系统/引擎升级包下载完成
+
+*********************************  祝贺你完成 CSSP-C/CSSP-T 升级包的更新  *********************************
+
+
+2021-11-02 04:26:36： 下载“绿盟安全管理平台(ESP-H)->系统升级包->V3.0R00F06”
+2021-11-02 04:26:36： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/32835', '/update/downloads/id/32302']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息如下
+['SP-H-V3.0R00F06SP02.dat', 'SP-H-V3.0R00F06SP01.dat']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:36： 开始下载系统/引擎升级包
+2021-11-02 04:26:36： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:36： 下载“绿盟安全管理平台(ESP-H)->系统升级包->V3.0R00F07”
+2021-11-02 04:26:36： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/116530', '/update/downloads/id/113821', '/update/downloads/id/109364', '/update/downloads/id/103364', '/update/downloads/id/101510', '/update/downloads/id/100779']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息如下
+['SP-H-V3.0R00F07SP05.dat', 'SP-H-V3.0R00F07SP04.dat', 'SP-H-V3.0R00F07SP03.dat', 'SP-H-V3.0R00F07SP02.dat', 'SP-H-V3.0R00F07SP01.dat', 'SP-H-V3.0R00F07.dat']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:36： 开始下载系统/引擎升级包
+2021-11-02 04:26:36： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:36： 下载“绿盟安全管理平台(ESP-H)->系统升级包->V3.0R01”
+2021-11-02 04:26:36： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/119380', '/update/downloads/id/118429', '/update/downloads/id/116002', '/update/downloads/id/112847', '/update/downloads/id/108885']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息如下
+['ph.V3.0R01F02SP01.dat', 'ph.V3.0R01F02.dat', 'ph.V3.0R01F01.dat', 'ph.V3.0R01F00SP02.dat', 'ph.V3.0R01F00SP01.dat']
+2021-11-02 04:26:36： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:36： 开始下载系统/引擎升级包
+2021-11-02 04:26:36： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:36： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R00F06”
+2021-11-02 04:26:36： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:36： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:36： 获取规则升级包名称信息完成
+2021-11-02 04:26:36： 当前目录下规则升级包
+2021-11-02 04:26:36： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:36： 规则升级包下载完成
+
+2021-11-02 04:26:36： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R00F07”
+2021-11-02 04:26:37： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:37： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:37： 获取规则升级包名称信息完成
+2021-11-02 04:26:37： 当前目录下规则升级包
+2021-11-02 04:26:37： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:37： 规则升级包下载完成
+
+2021-11-02 04:26:37： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R01->解析规则包”
+2021-11-02 04:26:37： 获取规则升级包路径信息如下
+/update/downloads/id/120801
+2021-11-02 04:26:37： 获取规则升级包名称信息如下
+ser_rule.3.0.7.47170.dat
+2021-11-02 04:26:37： 获取规则升级包名称信息完成
+2021-11-02 04:26:37： 当前目录下规则升级包
+2021-11-02 04:26:37： 当前目录下规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:26:37： 站点最新规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:26:37： 规则升级包下载完成
+
+2021-11-02 04:26:37： 下载“绿盟安全管理平台(ESP-H)->ESP-H 规则升级包->V3.0R01->攻击识别规则包”
+2021-11-02 04:26:37： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:37： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:37： 获取规则升级包名称信息完成
+2021-11-02 04:26:37： 当前目录下规则升级包
+2021-11-02 04:26:37： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:37： 规则升级包下载完成
+
+2021-11-02 04:26:37： 下载“绿盟安全管理平台(ESP-H)->漏洞库升级包”
+2021-11-02 04:26:37： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:37： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:37： 获取规则升级包名称信息完成
+2021-11-02 04:26:37： 当前目录下规则升级包
+2021-11-02 04:26:37： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:37： 规则升级包下载完成
+
+*********************************  祝贺你完成 ESP-H 升级包的更新  *********************************
+
+
+2021-11-02 04:26:37： 下载“绿盟企业安全平台(ESP)->系统升级包”
+2021-11-02 04:26:38： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/113820', '/update/downloads/id/108933', '/update/downloads/id/103666', '/update/downloads/id/101718', '/update/downloads/id/101164', '/update/downloads/id/100327', '/update/downloads/id/33081', '/update/downloads/id/31161', '/update/downloads/id/29701', '/update/downloads/id/29024', '/update/downloads/id/28485', '/update/downloads/id/28481', '/update/downloads/id/28303', '/update/downloads/id/24860', '/update/downloads/id/23848', '/update/downloads/id/23357', '/update/downloads/id/21876', '/update/downloads/id/21320']
+2021-11-02 04:26:38： 获取系统/引擎升级包名称信息如下
+['SP-V3.0R00F06SP11.dat', 'SP-V3.0R00F06SP10.dat', 'SP-V3.0R00F06SP09.dat', 'SP-V3.0R00F06SP08.dat', 'SP-V3.0R00F06SP07.dat', 'SP-V3.0R00F06SP06.dat', 'SP-V3.0R00F06SP05.dat', 'SP-V3.0R00F06SP04.dat', 'SP-V3.0R00F06SP03.dat', 'SP-V3.0R00F06SP02.dat', 'SP-V3.0R00F06SP01.dat', 'SP-V3.0R00F06.42024.dat', 'SP-V3.0R00F05SP01.dat', 'SP-V3.0R00F05.dat', 'SP-V3.0R00F04SP01.37036.dat', 'SP-V3.0R00F04.36101.dat', 'SP-V3.0R00F03SP03.dat', 'SP-V3.0R00F03SP02.dat']
+2021-11-02 04:26:38： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:38： 开始下载系统/引擎升级包
+2021-11-02 04:26:38： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:38： 下载“绿盟企业安全平台(ESP)->漏洞库升级包”
+2021-11-02 04:26:38： 获取规则升级包路径信息如下
+/update/downloads/id/120381
+2021-11-02 04:26:38： 获取规则升级包名称信息如下
+-plg-2021101401.dat
+2021-11-02 04:26:38： 获取规则升级包名称信息完成
+2021-11-02 04:26:38： 当前目录下规则升级包
+2021-11-02 04:26:38： 当前目录下规则升级包：TVM-plg-2021101401.dat
+2021-11-02 04:26:38： 站点最新规则升级包：TVM-plg-2021101401.dat
+2021-11-02 04:26:38： 规则升级包下载完成
+
+*********************************  祝贺你完成 ESP 升级包的更新  *********************************
+
+
+2021-11-02 04:26:38： 下载“绿盟授权管理系统(ESPC-L) V7.0”
+2021-11-02 04:26:38： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117845']
+2021-11-02 04:26:38： 获取系统/引擎升级包名称信息如下
+['PC-L-V7.0R00F00SP01.67824.dat']
+2021-11-02 04:26:38： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:38： 开始下载系统/引擎升级包
+2021-11-02 04:26:38： 系统/引擎升级包下载完成
+
+*********************************  祝贺你完成 ESPC-L 升级包的更新  *********************************
+
+
+2021-11-02 04:26:38： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->引擎升级包”
+2021-11-02 04:26:38： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/119061', '/update/downloads/id/114212', '/update/downloads/id/112860']
+2021-11-02 04:26:38： 获取系统/引擎升级包名称信息如下
+['.agentpatch.5.6.11.92.00.03.bin', '.agentpatch.5.6.11.51.00.02.bin', '.agentpatch.5.6.11.42.00.01.bin']
+2021-11-02 04:26:38： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:38： 开始下载系统/引擎升级包
+2021-11-02 04:26:38： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:38： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->系统规则升级包”
+2021-11-02 04:26:39： 获取规则升级包路径信息如下
+/update/downloads/id/120773
+2021-11-02 04:26:39： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.11.26440.rule
+2021-11-02 04:26:39： 获取规则升级包名称信息完成
+2021-11-02 04:26:39： 当前目录下规则升级包
+2021-11-02 04:26:39： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.11.26440.rule
+2021-11-02 04:26:39： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.11.26440.rule
+2021-11-02 04:26:39： 规则升级包下载完成
+
+2021-11-02 04:26:39： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->URL分类库升级包”
+2021-11-02 04:26:39： 获取规则升级包路径信息如下
+/update/downloads/id/120501
+2021-11-02 04:26:39： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:39： 获取规则升级包名称信息完成
+2021-11-02 04:26:39： 当前目录下规则升级包
+2021-11-02 04:26:39： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:39： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:39： 规则升级包下载完成
+
+2021-11-02 04:26:39： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->流式病毒特征库升级包”
+2021-11-02 04:26:39： 获取规则升级包路径信息如下
+/update/downloads/id/120845
+2021-11-02 04:26:39： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.11.52892.av
+2021-11-02 04:26:39： 获取规则升级包名称信息完成
+2021-11-02 04:26:39： 当前目录下规则升级包
+2021-11-02 04:26:39： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.11.52892.av
+2021-11-02 04:26:39： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.11.52892.av
+2021-11-02 04:26:39： 规则升级包下载完成
+
+2021-11-02 04:26:39： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.11->启发式病毒库升级包”
+2021-11-02 04:26:40： 获取规则升级包路径信息如下
+/update/downloads/id/120770
+2021-11-02 04:26:40： 获取规则升级包名称信息如下
+.unify.avpatch.7.0.70.27.av
+2021-11-02 04:26:40： 获取规则升级包名称信息完成
+2021-11-02 04:26:40： 当前目录下规则升级包
+2021-11-02 04:26:40： 当前目录下规则升级包：eoi.unify.avpatch.7.0.70.27.av
+2021-11-02 04:26:40： 站点最新规则升级包：eoi.unify.avpatch.7.0.70.27.av
+2021-11-02 04:26:40： 规则升级包下载完成
+
+2021-11-02 04:26:40： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->引擎升级包”
+2021-11-02 04:26:40： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120294', '/update/downloads/id/114245', '/update/downloads/id/106872', '/update/downloads/id/32993', '/update/downloads/id/21824', '/update/downloads/id/21342', '/update/downloads/id/21174', '/update/downloads/id/20755', '/update/downloads/id/18880', '/update/downloads/id/17831', '/update/downloads/id/17633', '/update/downloads/id/16875', '/update/downloads/id/16593', '/update/downloads/id/15939', '/update/downloads/id/15914', '/update/downloads/id/15544', '/update/downloads/id/15513', '/update/downloads/id/15511', '/update/downloads/id/14085', '/update/downloads/id/13767']
+2021-11-02 04:26:40： 获取系统/引擎升级包名称信息如下
+['.agentpatch.V56R10F02SP11.bin', '.agentpatch.V56R10F02SP10.bin', '.agentpatch.V56R10F02SP09.bin', '.agentpatch.V56R10F02SP06.bin', '.agentpatch.V56R10F02SP05.bin', '.agentpatch.V56R10F02SP04.bin', '.agentpatch.V56R10F02SP03.bin', '.agentpatch.V56R10F02SP02.bin', '.agentpatch.V56R10F02SP01.bin', '.agentpatch.V56R10F01SP08.bin', '.agentpatch.V56R10F01SP07.bin', '.agentpatch.V56R10F01SP06.bin', '.agentpatch.V56R10F01SP05.bin', '.agentpatch.V56R10F01SP04.bin', '.agentpatch.V56R10F01SP03.bin', '.agentpatch.V56R10F01SP02.bin', '.agentpatch.V56R10F01SP01.bin', '.agentpatch.V56R10F01SP00.bin', '.agentpatch.V56R10F00SP02.bin', '.agentpatch.V56R10F00SP01.bin']
+2021-11-02 04:26:40： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:40： 开始下载系统/引擎升级包
+2021-11-02 04:26:40： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:40： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->系统规则库升级包”
+2021-11-02 04:26:41： 获取规则升级包路径信息如下
+/update/downloads/id/120772
+2021-11-02 04:26:41： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:41： 获取规则升级包名称信息完成
+2021-11-02 04:26:41： 当前目录下规则升级包
+2021-11-02 04:26:41： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:41： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:41： 规则升级包下载完成
+
+2021-11-02 04:26:41： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->URL分类库升级包”
+2021-11-02 04:26:41： 获取规则升级包路径信息如下
+/update/downloads/id/120501
+2021-11-02 04:26:41： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:41： 获取规则升级包名称信息完成
+2021-11-02 04:26:41： 当前目录下规则升级包
+2021-11-02 04:26:41： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:41： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:41： 规则升级包下载完成
+
+2021-11-02 04:26:41： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.10->病毒特征库升级包”
+2021-11-02 04:26:43： 获取规则升级包路径信息如下
+/update/downloads/id/120891
+2021-11-02 04:26:43： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:43： 获取规则升级包名称信息完成
+2021-11-02 04:26:43： 当前目录下规则升级包
+2021-11-02 04:26:43： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:43： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:43： 规则升级包下载完成
+
+2021-11-02 04:26:43： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->引擎升级包”
+2021-11-02 04:26:43： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/21312', '/update/downloads/id/20949', '/update/downloads/id/15937', '/update/downloads/id/15904', '/update/downloads/id/15536', '/update/downloads/id/15115', '/update/downloads/id/14081', '/update/downloads/id/13078', '/update/downloads/id/11938', '/update/downloads/id/11497', '/update/downloads/id/10952', '/update/downloads/id/10564', '/update/downloads/id/10079', '/update/downloads/id/10035', '/update/downloads/id/9631']
+2021-11-02 04:26:43： 获取系统/引擎升级包名称信息如下
+['.agentpatch.5.6.9.91.bin', '.agentpatch.5.6.9.90.bin', '.agentpatch.5.6.9.82.bin', '.agentpatch.5.6.9.81.bin', '.agentpatch.5.6.9.80.bin', '.agentpatch.5.6.9.79.bin', '.agentpatch.5.6.9.76.bin', '.agentpatch.5.6.9.74.bin', '.agentpatch.5.6.9.65.bin', '.agentpatch.5.6.9.64.bin', '.agentpatch.5.6.9.63.bin', '.agentpatch.5.6.9.58.bin', '.agentpatch.5.6.9.49.bin', '.agentpatch.5.6.9.48.bin', '.agentpatch.5.6.9.41.bin']
+2021-11-02 04:26:43： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:43： 开始下载系统/引擎升级包
+2021-11-02 04:26:43： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:43： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->系统规则库升级包”
+2021-11-02 04:26:44： 获取规则升级包路径信息如下
+/update/downloads/id/120771
+2021-11-02 04:26:44： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.9.26440.rule
+2021-11-02 04:26:44： 获取规则升级包名称信息完成
+2021-11-02 04:26:44： 当前目录下规则升级包
+2021-11-02 04:26:44： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.9.26440.rule
+2021-11-02 04:26:44： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.9.26440.rule
+2021-11-02 04:26:44： 规则升级包下载完成
+
+2021-11-02 04:26:44： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->URL分类库升级包”
+2021-11-02 04:26:44： 获取规则升级包路径信息如下
+/update/downloads/id/120501
+2021-11-02 04:26:44： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:44： 获取规则升级包名称信息完成
+2021-11-02 04:26:44： 当前目录下规则升级包
+2021-11-02 04:26:44： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:44： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.306.urlibx
+2021-11-02 04:26:44： 规则升级包下载完成
+
+2021-11-02 04:26:44： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 5.6.9->病毒特征库升级包”
+2021-11-02 04:26:44： 获取规则升级包路径信息如下
+/update/downloads/id/120740
+2021-11-02 04:26:44： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.9.52854.av
+2021-11-02 04:26:44： 获取规则升级包名称信息完成
+2021-11-02 04:26:44： 当前目录下规则升级包
+2021-11-02 04:26:44： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.9.52854.av
+2021-11-02 04:26:44： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.9.52854.av
+2021-11-02 04:26:44： 规则升级包下载完成
+
+2021-11-02 04:26:44： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 兆芯 ZX 5.6.10->引擎升级包”
+2021-11-02 04:26:45： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:26:45： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:26:45： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:45： 开始下载系统/引擎升级包
+2021-11-02 04:26:45： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:45： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 兆芯 ZX 5.6.10->规则升级包”
+2021-11-02 04:26:45： 获取规则升级包路径信息如下
+/update/downloads/id/120772
+2021-11-02 04:26:45： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:45： 获取规则升级包名称信息完成
+2021-11-02 04:26:45： 当前目录下规则升级包
+2021-11-02 04:26:45： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:45： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:45： 规则升级包下载完成
+
+2021-11-02 04:26:45： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 兆芯 ZX 5.6.10->流式病毒库升级包”
+2021-11-02 04:26:46： 获取规则升级包路径信息如下
+/update/downloads/id/120891
+2021-11-02 04:26:46： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:46： 获取规则升级包名称信息完成
+2021-11-02 04:26:46： 当前目录下规则升级包
+2021-11-02 04:26:46： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:46： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:46： 规则升级包下载完成
+
+2021-11-02 04:26:46： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10->引擎升级包”
+2021-11-02 04:26:46： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:26:46： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:26:46： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:46： 开始下载系统/引擎升级包
+2021-11-02 04:26:46： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:46： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10->规则升级包”
+2021-11-02 04:26:47： 获取规则升级包路径信息如下
+/update/downloads/id/120772
+2021-11-02 04:26:47： 获取规则升级包名称信息如下
+.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:47： 获取规则升级包名称信息完成
+2021-11-02 04:26:47： 当前目录下规则升级包
+2021-11-02 04:26:47： 当前目录下规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:47： 站点最新规则升级包：eoi.unify.allrulepatch.ips.5.6.10.26440.rule
+2021-11-02 04:26:47： 规则升级包下载完成
+
+2021-11-02 04:26:47： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10>流式病毒库升级包”
+2021-11-02 04:26:48： 获取规则升级包路径信息如下
+/update/downloads/id/120891
+2021-11-02 04:26:48： 获取规则升级包名称信息如下
+.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:48： 获取规则升级包名称信息完成
+2021-11-02 04:26:48： 当前目录下规则升级包
+2021-11-02 04:26:48： 当前目录下规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:48： 站点最新规则升级包：eoi.unify.avrulepatch.ips.5.6.10.52900.av
+2021-11-02 04:26:48： 规则升级包下载完成
+
+2021-11-02 04:26:48： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10>启发式病毒库升级包”
+2021-11-02 04:26:48： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:48： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:48： 获取规则升级包名称信息完成
+2021-11-02 04:26:48： 当前目录下规则升级包
+2021-11-02 04:26:48： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:48： 规则升级包下载完成
+
+2021-11-02 04:26:48： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 飞腾 FT 5.6.10>URL分类升级包”
+2021-11-02 04:26:48： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:48： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:48： 获取规则升级包名称信息完成
+2021-11-02 04:26:48： 当前目录下规则升级包
+2021-11-02 04:26:48： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:48： 规则升级包下载完成
+
+2021-11-02 04:26:48： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->引擎升级包”
+2021-11-02 04:26:49： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 04:26:49： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 04:26:49： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:49： 开始下载系统/引擎升级包
+2021-11-02 04:26:49： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:49： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->规则升级包”
+2021-11-02 04:26:49： 获取规则升级包路径信息如下
+/update/downloads/id/102567
+2021-11-02 04:26:49： 获取规则升级包名称信息如下
+.unify.rulepatch.5.6.8.816.rule
+2021-11-02 04:26:49： 获取规则升级包名称信息完成
+2021-11-02 04:26:49： 当前目录下规则升级包
+2021-11-02 04:26:49： 当前目录下规则升级包：eoi.unify.rulepatch.5.6.8.816.rule
+2021-11-02 04:26:49： 站点最新规则升级包：eoi.unify.rulepatch.5.6.8.816.rule
+2021-11-02 04:26:49： 规则升级包下载完成
+
+2021-11-02 04:26:49： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->病毒特征库升级包”
+2021-11-02 04:26:49： 获取规则升级包路径信息如下
+当前页面无升级包
+2021-11-02 04:26:49： 获取规则升级包名称信息如下
+当前页面无升级包
+2021-11-02 04:26:49： 获取规则升级包名称信息完成
+2021-11-02 04:26:49： 当前目录下规则升级包
+2021-11-02 04:26:49： 当前目录下规则升级包：
+当前页面无升级包
+当前页面无升级包
+2021-11-02 04:26:49： 规则升级包下载完成
+
+2021-11-02 04:26:49： 下载“网络入侵检测系统(IDS)->网络入侵检测系统 申威 SW 5.6.8->国产化网络入侵检测系统5.6.8->Url分类库升级包 5.6”
+2021-11-02 04:26:50： 获取规则升级包路径信息如下
+/update/downloads/id/120500
+2021-11-02 04:26:50： 获取规则升级包名称信息如下
+.unify.urlpatch.5.6.0.319.urlib
+2021-11-02 04:26:50： 获取规则升级包名称信息完成
+2021-11-02 04:26:50： 当前目录下规则升级包
+2021-11-02 04:26:50： 当前目录下规则升级包：eoi.unify.urlpatch.5.6.0.319.urlib
+2021-11-02 04:26:50： 站点最新规则升级包：eoi.unify.urlpatch.5.6.0.319.urlib
+2021-11-02 04:26:50： 规则升级包下载完成
+
+*********************************  祝贺你完成 IDS/IPS 升级包的更新  *********************************
+
+
+2021-11-02 04:26:50： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01 规则包->解析规则包”
+2021-11-02 04:26:50： 获取规则升级包路径信息如下
+/update/downloads/id/120801
+2021-11-02 04:26:50： 获取规则升级包名称信息如下
+ser_rule.3.0.7.47170.dat
+2021-11-02 04:26:50： 获取规则升级包名称信息完成
+2021-11-02 04:26:50： 当前目录下规则升级包
+2021-11-02 04:26:50： 当前目录下规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:26:50： 站点最新规则升级包：parser_rule.3.0.7.47170.dat
+2021-11-02 04:26:50： 规则升级包下载完成
+
+2021-11-02 04:26:50： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01 规则包->攻击识别规则包”
+2021-11-02 04:26:50： 获取规则升级包路径信息如下
+/update/downloads/id/120622
+2021-11-02 04:26:50： 获取规则升级包名称信息如下
+ack_rule.1.0.0.1.1047025.dat
+2021-11-02 04:26:50： 获取规则升级包名称信息完成
+2021-11-02 04:26:50： 当前目录下规则升级包
+2021-11-02 04:26:50： 当前目录下规则升级包：attack_rule.1.0.0.1.1047025.dat
+2021-11-02 04:26:50： 站点最新规则升级包：attack_rule.1.0.0.1.1047025.dat
+2021-11-02 04:26:50： 规则升级包下载完成
+
+2021-11-02 04:26:50： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01 规则包->行为分析规则包”
+2021-11-02 04:26:50： 获取规则升级包路径信息如下
+/update/downloads/id/118097
+2021-11-02 04:26:50： 获取规则升级包名称信息如下
+Engine_rule.1.0.0.0.41897.dat
+2021-11-02 04:26:50： 获取规则升级包名称信息完成
+2021-11-02 04:26:50： 当前目录下规则升级包
+2021-11-02 04:26:50： 当前目录下规则升级包：ubaEngine_rule.1.0.0.0.41897.dat
+2021-11-02 04:26:50： 站点最新规则升级包：ubaEngine_rule.1.0.0.0.41897.dat
+2021-11-02 04:26:50： 规则升级包下载完成
+
+2021-11-02 04:26:50： 下载“绿盟智能安全运营平台(ISOP)->ISOP V3.0R01F00 漏洞库”
+2021-11-02 04:26:51： 获取规则升级包路径信息如下
+/update/downloads/id/120380
+2021-11-02 04:26:51： 获取规则升级包名称信息如下
+p-vulnDict-2021101401.dat
+2021-11-02 04:26:51： 获取规则升级包名称信息完成
+2021-11-02 04:26:51： 当前目录下规则升级包
+2021-11-02 04:26:51： 当前目录下规则升级包：isop-vulnDict-2021101401.dat
+2021-11-02 04:26:51： 站点最新规则升级包：isop-vulnDict-2021101401.dat
+2021-11-02 04:26:51： 规则升级包下载完成
+
+*********************************  祝贺你完成 ISOP 升级包的更新  *********************************
+
+
+2021-11-02 04:26:51： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 5.0”
+2021-11-02 04:26:51： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/104375', '/update/downloads/id/101215', '/update/downloads/id/100993', '/update/downloads/id/100871', '/update/downloads/id/100639', '/update/downloads/id/100509', '/update/downloads/id/100311', '/update/downloads/id/100150', '/update/downloads/id/100052', '/update/downloads/id/33373', '/update/downloads/id/33057', '/update/downloads/id/32873', '/update/downloads/id/32711', '/update/downloads/id/32386', '/update/downloads/id/32220', '/update/downloads/id/32150', '/update/downloads/id/31972', '/update/downloads/id/31790', '/update/downloads/id/31667', '/update/downloads/id/31585', '/update/downloads/id/31333', '/update/downloads/id/31238', '/update/downloads/id/30939', '/update/downloads/id/30589', '/update/downloads/id/30355', '/update/downloads/id/30164', '/update/downloads/id/29969', '/update/downloads/id/29770', '/update/downloads/id/29735', '/update/downloads/id/29550', '/update/downloads/id/29457', '/update/downloads/id/29455', '/update/downloads/id/29405', '/update/downloads/id/29381', '/update/downloads/id/29186', '/update/downloads/id/29119', '/update/downloads/id/28876', '/update/downloads/id/28822', '/update/downloads/id/28701', '/update/downloads/id/28461', '/update/downloads/id/28310', '/update/downloads/id/28181', '/update/downloads/id/28060', '/update/downloads/id/28059', '/update/downloads/id/28031', '/update/downloads/id/28032', '/update/downloads/id/28001', '/update/downloads/id/27916', '/update/downloads/id/27643', '/update/downloads/id/27498', '/update/downloads/id/27346', '/update/downloads/id/27196', '/update/downloads/id/26977', '/update/downloads/id/26816', '/update/downloads/id/26578', '/update/downloads/id/26431', '/update/downloads/id/25927', '/update/downloads/id/25806', '/update/downloads/id/25723', '/update/downloads/id/25616', '/update/downloads/id/25339', '/update/downloads/id/25203', '/update/downloads/id/25175', '/update/downloads/id/24949', '/update/downloads/id/24807', '/update/downloads/id/24618', '/update/downloads/id/24407', '/update/downloads/id/24224', '/update/downloads/id/24207', '/update/downloads/id/23730', '/update/downloads/id/23600', '/update/downloads/id/23504', '/update/downloads/id/23447', '/update/downloads/id/23309', '/update/downloads/id/23030', '/update/downloads/id/22899', '/update/downloads/id/22771', '/update/downloads/id/22610', '/update/downloads/id/22628', '/update/downloads/id/22545', '/update/downloads/id/22418', '/update/downloads/id/22282', '/update/downloads/id/22181', '/update/downloads/id/21964', '/update/downloads/id/21934', '/update/downloads/id/21857', '/update/downloads/id/21803', '/update/downloads/id/21708', '/update/downloads/id/21674', '/update/downloads/id/21569', '/update/downloads/id/21545', '/update/downloads/id/21483', '/update/downloads/id/21364', '/update/downloads/id/21243', '/update/downloads/id/21202', '/update/downloads/id/21130', '/update/downloads/id/21090', '/update/downloads/id/21043', '/update/downloads/id/21023', '/update/downloads/id/20979', '/update/downloads/id/20906', '/update/downloads/id/20849', '/update/downloads/id/20785', '/update/downloads/id/20752', '/update/downloads/id/20648', '/update/downloads/id/20625', '/update/downloads/id/20485', '/update/downloads/id/20472', '/update/downloads/id/20445', '/update/downloads/id/20424', '/update/downloads/id/20321', '/update/downloads/id/20298', '/update/downloads/id/20203', '/update/downloads/id/20131', '/update/downloads/id/20091', '/update/downloads/id/20067', '/update/downloads/id/20008', '/update/downloads/id/19992', '/update/downloads/id/19944', '/update/downloads/id/19881', '/update/downloads/id/19812', '/update/downloads/id/19756', '/update/downloads/id/19619', '/update/downloads/id/19559', '/update/downloads/id/19484', '/update/downloads/id/19421', '/update/downloads/id/19399', '/update/downloads/id/19298', '/update/downloads/id/19234', '/update/downloads/id/19169', '/update/downloads/id/19105', '/update/downloads/id/18980', '/update/downloads/id/18902', '/update/downloads/id/18824', '/update/downloads/id/18745', '/update/downloads/id/18697', '/update/downloads/id/18636', '/update/downloads/id/18587', '/update/downloads/id/18501', '/update/downloads/id/18486', '/update/downloads/id/18432', '/update/downloads/id/18373', '/update/downloads/id/18333', '/update/downloads/id/18249', '/update/downloads/id/18171', '/update/downloads/id/18161', '/update/downloads/id/18082', '/update/downloads/id/18038', '/update/downloads/id/17946', '/update/downloads/id/17899', '/update/downloads/id/17836', '/update/downloads/id/17773', '/update/downloads/id/17687', '/update/downloads/id/17620', '/update/downloads/id/17609', '/update/downloads/id/17400', '/update/downloads/id/17380', '/update/downloads/id/17297', '/update/downloads/id/17276', '/update/downloads/id/17200', '/update/downloads/id/17187', '/update/downloads/id/17190', '/update/downloads/id/17175', '/update/downloads/id/17148', '/update/downloads/id/17093', '/update/downloads/id/17014', '/update/downloads/id/16959', '/update/downloads/id/16872', '/update/downloads/id/16786', '/update/downloads/id/16676', '/update/downloads/id/16587', '/update/downloads/id/16515', '/update/downloads/id/16473', '/update/downloads/id/16427', '/update/downloads/id/16247', '/update/downloads/id/16226', '/update/downloads/id/16155', '/update/downloads/id/16099', '/update/downloads/id/16075', '/update/downloads/id/15929', '/update/downloads/id/15872', '/update/downloads/id/15790', '/update/downloads/id/15758', '/update/downloads/id/15696', '/update/downloads/id/15606', '/update/downloads/id/15502', '/update/downloads/id/15469', '/update/downloads/id/15416', '/update/downloads/id/15368', '/update/downloads/id/15244', '/update/downloads/id/15145', '/update/downloads/id/15087', '/update/downloads/id/15002', '/update/downloads/id/14946', '/update/downloads/id/14857', '/update/downloads/id/14811', '/update/downloads/id/14726', '/update/downloads/id/14655', '/update/downloads/id/14619', '/update/downloads/id/14543', '/update/downloads/id/14518', '/update/downloads/id/14378', '/update/downloads/id/14263', '/update/downloads/id/14325', '/update/downloads/id/14229', '/update/downloads/id/14184', '/update/downloads/id/14126', '/update/downloads/id/14023', '/update/downloads/id/13965', '/update/downloads/id/13921', '/update/downloads/id/13835', '/update/downloads/id/13820', '/update/downloads/id/13795', '/update/downloads/id/13784', '/update/downloads/id/13712', '/update/downloads/id/13754', '/update/downloads/id/13654', '/update/downloads/id/13585', '/update/downloads/id/13534', '/update/downloads/id/13495', '/update/downloads/id/13476', '/update/downloads/id/13441', '/update/downloads/id/13378', '/update/downloads/id/13371', '/update/downloads/id/13335', '/update/downloads/id/13304', '/update/downloads/id/13211', '/update/downloads/id/13166', '/update/downloads/id/13119', '/update/downloads/id/13010', '/update/downloads/id/12964', '/update/downloads/id/12947', '/update/downloads/id/12916', '/update/downloads/id/12858', '/update/downloads/id/12845', '/update/downloads/id/12812', '/update/downloads/id/12808', '/update/downloads/id/12736', '/update/downloads/id/12696', '/update/downloads/id/12514', '/update/downloads/id/12620', '/update/downloads/id/12600', '/update/downloads/id/12543', '/update/downloads/id/12506', '/update/downloads/id/12437', '/update/downloads/id/12429', '/update/downloads/id/12329', '/update/downloads/id/12302', '/update/downloads/id/12233', '/update/downloads/id/12216', '/update/downloads/id/12191', '/update/downloads/id/12145', '/update/downloads/id/12121', '/update/downloads/id/12064', '/update/downloads/id/12062', '/update/downloads/id/12018', '/update/downloads/id/11968', '/update/downloads/id/11933', '/update/downloads/id/11861', '/update/downloads/id/11872', '/update/downloads/id/11852', '/update/downloads/id/11773', '/update/downloads/id/11771', '/update/downloads/id/11718', '/update/downloads/id/11668', '/update/downloads/id/11613', '/update/downloads/id/11557', '/update/downloads/id/11518', '/update/downloads/id/11499', '/update/downloads/id/11449', '/update/downloads/id/11438', '/update/downloads/id/11381', '/update/downloads/id/11328', '/update/downloads/id/11286', '/update/downloads/id/11247', '/update/downloads/id/11195', '/update/downloads/id/11122', '/update/downloads/id/11036', '/update/downloads/id/11028', '/update/downloads/id/10956', '/update/downloads/id/10929', '/update/downloads/id/10923', '/update/downloads/id/10913', '/update/downloads/id/10808', '/update/downloads/id/10769', '/update/downloads/id/10752', '/update/downloads/id/10704', '/update/downloads/id/10597', '/update/downloads/id/10650', '/update/downloads/id/10596', '/update/downloads/id/10513', '/update/downloads/id/10449', '/update/downloads/id/10419', '/update/downloads/id/10409', '/update/downloads/id/10357', '/update/downloads/id/10337', '/update/downloads/id/10301', '/update/downloads/id/10244', '/update/downloads/id/10205', '/update/downloads/id/10129', '/update/downloads/id/10097', '/update/downloads/id/10027', '/update/downloads/id/9965', '/update/downloads/id/9925', '/update/downloads/id/9922', '/update/downloads/id/9878', '/update/downloads/id/9844', '/update/downloads/id/9773', '/update/downloads/id/9758', '/update/downloads/id/9751', '/update/downloads/id/9715', '/update/downloads/id/9677', '/update/downloads/id/9591', '/update/downloads/id/9600', '/update/downloads/id/9545', '/update/downloads/id/9542', '/update/downloads/id/9526', '/update/downloads/id/9508', '/update/downloads/id/9506', '/update/downloads/id/9454', '/update/downloads/id/9451', '/update/downloads/id/9046', '/update/downloads/id/9417', '/update/downloads/id/9395', '/update/downloads/id/9355', '/update/downloads/id/9275', '/update/downloads/id/9271', '/update/downloads/id/9219', '/update/downloads/id/9188', '/update/downloads/id/9187', '/update/downloads/id/9104', '/update/downloads/id/9063', '/update/downloads/id/8994', '/update/downloads/id/8955', '/update/downloads/id/8937', '/update/downloads/id/8888', '/update/downloads/id/8869', '/update/downloads/id/8867', '/update/downloads/id/8806', '/update/downloads/id/8819', '/update/downloads/id/8794', '/update/downloads/id/8781', '/update/downloads/id/8779', '/update/downloads/id/8749', '/update/downloads/id/8719', '/update/downloads/id/8688', '/update/downloads/id/8671', '/update/downloads/id/8670', '/update/downloads/id/8594', '/update/downloads/id/8583', '/update/downloads/id/8566', '/update/downloads/id/8547', '/update/downloads/id/8430', '/update/downloads/id/8427', '/update/downloads/id/8385', '/update/downloads/id/8358', '/update/downloads/id/8321', '/update/downloads/id/8310', '/update/downloads/id/8300', '/update/downloads/id/8208', '/update/downloads/id/8207', '/update/downloads/id/8139', '/update/downloads/id/8119', '/update/downloads/id/8116', '/update/downloads/id/8105', '/update/downloads/id/8072', '/update/downloads/id/8061', '/update/downloads/id/8036', '/update/downloads/id/8033', '/update/downloads/id/7994', '/update/downloads/id/7970', '/update/downloads/id/7968', '/update/downloads/id/7878', '/update/downloads/id/7844', '/update/downloads/id/7805', '/update/downloads/id/7744', '/update/downloads/id/7706', '/update/downloads/id/7659', '/update/downloads/id/7609', '/update/downloads/id/7602', '/update/downloads/id/7558', '/update/downloads/id/7523', '/update/downloads/id/7521', '/update/downloads/id/7477', '/update/downloads/id/7474', '/update/downloads/id/7448', '/update/downloads/id/7453', '/update/downloads/id/7449', '/update/downloads/id/7417', '/update/downloads/id/7348', '/update/downloads/id/7359', '/update/downloads/id/7324', '/update/downloads/id/6860', '/update/downloads/id/7222', '/update/downloads/id/7217', '/update/downloads/id/7180', '/update/downloads/id/7118', '/update/downloads/id/7106', '/update/downloads/id/7091', '/update/downloads/id/7059', '/update/downloads/id/7010', '/update/downloads/id/6974', '/update/downloads/id/6933', '/update/downloads/id/6885', '/update/downloads/id/6861', '/update/downloads/id/6773', '/update/downloads/id/6766', '/update/downloads/id/6742', '/update/downloads/id/6735', '/update/downloads/id/6715', '/update/downloads/id/6698', '/update/downloads/id/6662', '/update/downloads/id/6636', '/update/downloads/id/6600', '/update/downloads/id/6598', '/update/downloads/id/6578', '/update/downloads/id/6550', '/update/downloads/id/6507', '/update/downloads/id/6481', '/update/downloads/id/6455', '/update/downloads/id/6427', '/update/downloads/id/6413', '/update/downloads/id/6382', '/update/downloads/id/6365', '/update/downloads/id/6332', '/update/downloads/id/6287', '/update/downloads/id/6250', '/update/downloads/id/6235', '/update/downloads/id/6197', '/update/downloads/id/6177', '/update/downloads/id/6126', '/update/downloads/id/6085', '/update/downloads/id/6054', '/update/downloads/id/6001', '/update/downloads/id/6010', '/update/downloads/id/5927', '/update/downloads/id/5912', '/update/downloads/id/5899', '/update/downloads/id/5802', '/update/downloads/id/5797', '/update/downloads/id/5782', '/update/downloads/id/5753', '/update/downloads/id/5760', '/update/downloads/id/5704', '/update/downloads/id/5722', '/update/downloads/id/5700', '/update/downloads/id/5666', '/update/downloads/id/5656', '/update/downloads/id/5614', '/update/downloads/id/5635', '/update/downloads/id/5591', '/update/downloads/id/5561', '/update/downloads/id/5519', '/update/downloads/id/5478', '/update/downloads/id/5443', '/update/downloads/id/5408', '/update/downloads/id/5405', '/update/downloads/id/5370', '/update/downloads/id/5329', '/update/downloads/id/5325', '/update/downloads/id/4808', '/update/downloads/id/5205', '/update/downloads/id/5201', '/update/downloads/id/5192', '/update/downloads/id/5155', '/update/downloads/id/5125', '/update/downloads/id/5094', '/update/downloads/id/5091', '/update/downloads/id/5049', '/update/downloads/id/5027', '/update/downloads/id/5017', '/update/downloads/id/5012', '/update/downloads/id/4973', '/update/downloads/id/4939', '/update/downloads/id/4930', '/update/downloads/id/4886', '/update/downloads/id/4842', '/update/downloads/id/4831', '/update/downloads/id/4811', '/update/downloads/id/4764', '/update/downloads/id/4758', '/update/downloads/id/4753', '/update/downloads/id/4719', '/update/downloads/id/4643', '/update/downloads/id/4641', '/update/downloads/id/4623', '/update/downloads/id/4593', '/update/downloads/id/4547', '/update/downloads/id/4545', '/update/downloads/id/4511', '/update/downloads/id/4475', '/update/downloads/id/4472', '/update/downloads/id/4273', '/update/downloads/id/4445', '/update/downloads/id/4409', '/update/downloads/id/4388', '/update/downloads/id/4347', '/update/downloads/id/4319', '/update/downloads/id/4284', '/update/downloads/id/4281', '/update/downloads/id/4227', '/update/downloads/id/4204', '/update/downloads/id/4154', '/update/downloads/id/4121', '/update/downloads/id/4090', '/update/downloads/id/4069', '/update/downloads/id/4054', '/update/downloads/id/4050', '/update/downloads/id/4021', '/update/downloads/id/4013', '/update/downloads/id/3973', '/update/downloads/id/3933', '/update/downloads/id/3910', '/update/downloads/id/3872', '/update/downloads/id/3842', '/update/downloads/id/3829', '/update/downloads/id/3814', '/update/downloads/id/3788', '/update/downloads/id/3742', '/update/downloads/id/3268', '/update/downloads/id/3702', '/update/downloads/id/3662', '/update/downloads/id/3592', '/update/downloads/id/3575', '/update/downloads/id/3557', '/update/downloads/id/3516', '/update/downloads/id/3519', '/update/downloads/id/3492', '/update/downloads/id/3460', '/update/downloads/id/3461', '/update/downloads/id/3436', '/update/downloads/id/3346', '/update/downloads/id/3359', '/update/downloads/id/3324', '/update/downloads/id/3301', '/update/downloads/id/3274', '/update/downloads/id/3207', '/update/downloads/id/3229', '/update/downloads/id/3106', '/update/downloads/id/3182', '/update/downloads/id/3136', '/update/downloads/id/3133', '/update/downloads/id/3121', '/update/downloads/id/3080', '/update/downloads/id/3059', '/update/downloads/id/3042', '/update/downloads/id/3022', '/update/downloads/id/2982', '/update/downloads/id/2974', '/update/downloads/id/2965', '/update/downloads/id/2935', '/update/downloads/id/2929', '/update/downloads/id/2893', '/update/downloads/id/2888', '/update/downloads/id/2857', '/update/downloads/id/2831', '/update/downloads/id/2813', '/update/downloads/id/2803', '/update/downloads/id/2785', '/update/downloads/id/2764', '/update/downloads/id/2583', '/update/downloads/id/2721', '/update/downloads/id/2663', '/update/downloads/id/2616', '/update/downloads/id/2581', '/update/downloads/id/2562', '/update/downloads/id/2508', '/update/downloads/id/2506', '/update/downloads/id/2467', '/update/downloads/id/2408', '/update/downloads/id/2358', '/update/downloads/id/2315', '/update/downloads/id/2282', '/update/downloads/id/2250', '/update/downloads/id/2234', '/update/downloads/id/2233', '/update/downloads/id/2212', '/update/downloads/id/2197', '/update/downloads/id/2185', '/update/downloads/id/2148', '/update/downloads/id/2145', '/update/downloads/id/2144', '/update/downloads/id/2110', '/update/downloads/id/2089', '/update/downloads/id/2066', '/update/downloads/id/2067', '/update/downloads/id/2027', '/update/downloads/id/1977', '/update/downloads/id/1923', '/update/downloads/id/1900', '/update/downloads/id/1920', '/update/downloads/id/1875', '/update/downloads/id/1883', '/update/downloads/id/1835', '/update/downloads/id/1799', '/update/downloads/id/1793', '/update/downloads/id/1769', '/update/downloads/id/1715', '/update/downloads/id/1666', '/update/downloads/id/1682', '/update/downloads/id/1635', '/update/downloads/id/1667', '/update/downloads/id/1416', '/update/downloads/id/1631', '/update/downloads/id/1603', '/update/downloads/id/1562', '/update/downloads/id/1527', '/update/downloads/id/1526', '/update/downloads/id/1496', '/update/downloads/id/1467', '/update/downloads/id/1445', '/update/downloads/id/1441', '/update/downloads/id/1417', '/update/downloads/id/1380', '/update/downloads/id/1352', '/update/downloads/id/1337', '/update/downloads/id/1308', '/update/downloads/id/1310', '/update/downloads/id/1296', '/update/downloads/id/1285', '/update/downloads/id/1260', '/update/downloads/id/1263', '/update/downloads/id/1232', '/update/downloads/id/1229', '/update/downloads/id/1184', '/update/downloads/id/1095', '/update/downloads/id/1073', '/update/downloads/id/1111', '/update/downloads/id/1061', '/update/downloads/id/1042', '/update/downloads/id/1028', '/update/downloads/id/1019', '/update/downloads/id/994', '/update/downloads/id/954', '/update/downloads/id/952', '/update/downloads/id/922', '/update/downloads/id/891', '/update/downloads/id/855', '/update/downloads/id/778', '/update/downloads/id/763', '/update/downloads/id/746', '/update/downloads/id/740', '/update/downloads/id/721', '/update/downloads/id/704', '/update/downloads/id/663', '/update/downloads/id/621', '/update/downloads/id/612', '/update/downloads/id/567', '/update/downloads/id/557', '/update/downloads/id/552', '/update/downloads/id/539', '/update/downloads/id/525', '/update/downloads/id/502', '/update/downloads/id/495', '/update/downloads/id/452', '/update/downloads/id/445', '/update/downloads/id/437']
+2021-11-02 04:26:51： 获取系统/引擎升级包名称信息如下
+['ora-051877.dat', 'ora-051876.dat', 'ora-051875.dat', 'ora-051874.dat', 'ora-051873.dat', 'ora-051872.dat', 'ora-051871.dat', 'ora-051870.dat', 'ora-051869.dat', 'ora-051868.dat', 'ora-051867.dat', 'ora-051866.dat', 'ora-051865.dat', 'ora-051864.dat', 'ora-051863.dat', 'ora-051862.dat', 'ora-051861.dat', 'ora-051860.dat', 'ora-051859.dat', 'ora-051858.dat', 'ora-051857.dat', 'ora-051856.dat', 'ora-051855.dat', 'ora-051854.dat', 'ora-051853.dat', 'ora-051852.dat', 'ora-051851.dat', 'ora-051850.dat', 'ora-051849.dat', 'ora-051848.dat', 'ora-051847.dat', 'ora-051846.dat', 'ora-051845.dat', 'ora-051844.dat', 'ora-051843.dat', 'ora-051842.dat', 'ora-051841.dat', 'ora-051840.dat', 'ora-051839.dat', 'ora-051838.dat', 'ora-051837.dat', 'ora-051836.dat', 'ora-051835.dat', 'ora-051834.dat', 'ora-051833.dat', 'ora-051832.dat', 'ora-051831.dat', 'ora-051830.dat', 'ora-051829.dat', 'ora-051828.dat', 'ora-051827.dat', 'ora-051826.dat', 'ora-051825.dat', 'ora-051824.dat', 'ora-051823.dat', 'ora-051822.dat', 'ora-051821.dat', 'ora-051820.dat', 'ora-051819.dat', 'ora-051818.dat', 'ora-051817.dat', 'ora-051816.dat', 'ora-051815.dat', 'ora-051814.dat', 'ora-051813.dat', 'ora-051812.dat', 'ora-051811.dat', 'ora-051810.dat', 'ora-051809.dat', 'ora-051808.dat', 'ora-051807.dat', 'ora-051806.dat', 'ora-051805.dat', 'ora-051804.dat', 'ora-051803.dat', 'ora-051802.dat', 'ora-051801.dat', 'ora-051800.dat', 'ora-051761.dat', 'ora-051760.dat', 'ora-051759.dat', 'ora-051758.dat', 'ora-051757.dat', 'ora-051756.dat', 'ora-051755.dat', 'ora-051754.dat', 'ora-051753.dat', 'ora-051752.dat', 'ora-051751.dat', 'ora-051750.dat', 'ora-051749.dat', 'ora-051748.dat', 'ora-051747.dat', 'ora-051746.dat', 'ora-051745.dat', 'ora-051744.dat', 'ora-051743.dat', 'ora-051742.dat', 'ora-051741.dat', 'ora-051740.dat', 'ora-051739.dat', 'ora-051738.dat', 'ora-051737.dat', 'ora-051736.dat', 'ora-051735.dat', 'ora-051734.dat', 'ora-051733.dat', 'ora-051732.dat', 'ora-051731.dat', 'ora-051730.dat', 'ora-051729.dat', 'ora-051728.dat', 'ora-051727.dat', 'ora-051726.dat', 'ora-051725.dat', 'ora-051724.dat', 'ora-051723.dat', 'ora-051722.dat', 'ora-051721.dat', 'ora-051720.dat', 'ora-051719.dat', 'ora-051718.dat', 'ora-051717.dat', 'ora-051716.dat', 'ora-051715.dat', 'ora-051714.dat', 'ora-051713.dat', 'ora-051712.dat', 'ora-051711.dat', 'ora-051710.dat', 'ora-051709.dat', 'ora-051708.dat', 'ora-051707.dat', 'ora-051706.dat', 'ora-051705.dat', 'ora-051704.dat', 'ora-051703.dat', 'ora-051702.dat', 'ora-051701.dat', 'ora-051700.dat', 'ora-051657.dat', 'ora-051656.dat', 'ora-051655.dat', 'ora-051654.dat', 'ora-051653.dat', 'ora-051652.dat', 'ora-051651.dat', 'ora-051650.dat', 'ora-051649.dat', 'ora-051648.dat', 'ora-051647.dat', 'ora-051646.dat', 'ora-051645.dat', 'ora-051644.dat', 'ora-051643.dat', 'ora-051642.dat', 'ora-051641.dat', 'ora-051640.dat', 'ora-051639.dat', 'ora-051638.dat', 'ora-051637.dat', 'ora-051636.dat', 'ora-051635.dat', 'ora-051634.dat', 'ora-051633.dat', 'ora-051632.dat', 'ora-051631.dat', 'ora-051630.dat', 'ora-051629.dat', 'ora-051628.dat', 'ora-051627.dat', 'ora-051626.dat', 'ora-051625.dat', 'ora-051624.dat', 'ora-051623.dat', 'ora-051622.dat', 'ora-051621.dat', 'ora-051620.dat', 'ora-051619.dat', 'ora-051618.dat', 'ora-051617.dat', 'ora-051616.dat', 'ora-051615.dat', 'ora-051614.dat', 'ora-051613.dat', 'ora-051612.dat', 'ora-051611.dat', 'ora-051610.dat', 'ora-051609.dat', 'ora-051608.dat', 'ora-051607.dat', 'ora-051606.dat', 'ora-051605.dat', 'ora-051604.dat', 'ora-051603.dat', 'ora-051602.dat', 'ora-051601.dat', 'ora-051600.dat', 'ora-051516.dat', 'ora-051515.dat', 'ora-051514.dat', 'ora-051513.dat', 'ora-051512.dat', 'ora-051511.dat', 'ora-051510.dat', 'ora-051509.dat', 'ora-051508.dat', 'ora-051507.dat', 'ora-051506.dat', 'ora-051505.dat', 'ora-051504.dat', 'ora-051503.dat', 'ora-051502.dat', 'ora-051501.dat', 'ora-051500.dat', 'ora-051424.dat', 'ora-051423.dat', 'ora-051422.dat', 'ora-051421.dat', 'ora-051420.dat', 'ora-051419.dat', 'ora-051418.dat', 'ora-051417.dat', 'ora-051416.dat', 'ora-051415.dat', 'ora-051414.dat', 'ora-051413.dat', 'ora-051412.dat', 'ora-051411.dat', 'ora-051410.dat', 'ora-051409.dat', 'ora-051408.dat', 'ora-051407.dat', 'ora-051406.dat', 'ora-051405.dat', 'ora-051404.dat', 'ora-051403.dat', 'ora-051402.dat', 'ora-051401.dat', 'ora-051400.dat', 'ora-051381.dat', 'ora-051380.dat', 'ora-051379.dat', 'ora-051378.dat', 'ora-051377.dat', 'ora-051376.dat', 'ora-051375.dat', 'ora-051374.dat', 'ora-051373.dat', 'ora-051372.dat', 'ora-051371.dat', 'ora-051370.dat', 'ora-051369.dat', 'ora-051368.dat', 'ora-051367.dat', 'ora-051366.dat', 'ora-051365.dat', 'ora-051364.dat', 'ora-051363.dat', 'ora-051362.dat', 'ora-051361.dat', 'ora-051360.dat', 'ora-051359.dat', 'ora-051358.dat', 'ora-051357.dat', 'ora-051356.dat', 'ora-051355.dat', 'ora-051354.dat', 'ora-051353.dat', 'ora-051352.dat', 'ora-051351.dat', 'ora-051350.dat', 'ora-051349.dat', 'ora-051348.dat', 'ora-051347.dat', 'ora-051346.dat', 'ora-051345.dat', 'ora-051344.dat', 'ora-051343.dat', 'ora-051342.dat', 'ora-051341.dat', 'ora-051340.dat', 'ora-051339.dat', 'ora-051338.dat', 'ora-051337.dat', 'ora-051336.dat', 'ora-051335.dat', 'ora-051334.dat', 'ora-051333.dat', 'ora-051332.dat', 'ora-051331.dat', 'ora-051330.dat', 'ora-051329.dat', 'ora-051328.dat', 'ora-051327.dat', 'ora-051326.dat', 'ora-051325.dat', 'ora-051324.dat', 'ora-051323.dat', 'ora-051322.dat', 'ora-051321.dat', 'ora-051320.dat', 'ora-051319.dat', 'ora-051318.dat', 'ora-051317.dat', 'ora-051316.dat', 'ora-051315.dat', 'ora-051314.dat', 'ora-051313.dat', 'ora-051312.dat', 'ora-051311.dat', 'ora-051310.dat', 'ora-051309.dat', 'ora-051308.dat', 'ora-051307.dat', 'ora-051306.dat', 'ora-051305.dat', 'ora-051304.dat', 'ora-051303.dat', 'ora-051302.dat', 'ora-051301.dat', 'ora-051300.dat', 'ora-051270.dat', 'ora-051269.dat', 'ora-051268.dat', 'ora-051267.dat', 'ora-051266.dat', 'ora-051265.dat', 'ora-051264.dat', 'ora-051263.dat', 'ora-051262.dat', 'ora-051261.dat', 'ora-051260.dat', 'ora-051259.dat', 'ora-051258.dat', 'ora-051257.dat', 'ora-051256.dat', 'ora-051255.dat', 'ora-051254.dat', 'ora-051253.dat', 'ora-051252.dat', 'ora-051251.dat', 'ora-051250.dat', 'ora-051249.dat', 'ora-051248.dat', 'ora-051247.dat', 'ora-051246.dat', 'ora-051245.dat', 'ora-051244.dat', 'ora-051243.dat', 'ora-051242.dat', 'ora-051241.dat', 'ora-051240.dat', 'ora-051239.dat', 'ora-051238.dat', 'ora-051237.dat', 'ora-051236.dat', 'ora-051235.dat', 'ora-051234.dat', 'ora-051233.dat', 'ora-051232.dat', 'ora-051231.dat', 'ora-051230.dat', 'ora-051229.dat', 'ora-051228.dat', 'ora-051227.dat', 'ora-051226.dat', 'ora-051225.dat', 'ora-051224.dat', 'ora-051223.dat', 'ora-051222.dat', 'ora-051221.dat', 'ora-051220.dat', 'ora-051219.dat', 'ora-051218.dat', 'ora-051217.dat', 'ora-051216.dat', 'ora-051215.dat', 'ora-051214.dat', 'ora-051213.dat', 'ora-051212.dat', 'ora-051211.dat', 'ora-051210.dat', 'ora-051209.dat', 'ora-051208.dat', 'ora-051207.dat', 'ora-051206.dat', 'ora-051205.dat', 'ora-051204.dat', 'ora-051203.dat', 'ora-051202.dat', 'ora-051201.dat', 'ora-051200.dat', 'ora-051167.dat', 'ora-051166.dat', 'ora-051165.dat', 'ora-051164.dat', 'ora-051163.dat', 'ora-051162.dat', 'ora-051161.dat', 'ora-051160.dat', 'ora-051159.dat', 'ora-051158.dat', 'ora-051157.dat', 'ora-051156.dat', 'ora-051155.dat', 'ora-051154.dat', 'ora-051153.dat', 'ora-051152.dat', 'ora-051151.dat', 'ora-051150.dat', 'ora-051149.dat', 'ora-051148.dat', 'ora-051147.dat', 'ora-051146.dat', 'ora-051145.dat', 'ora-051144.dat', 'ora-051143.dat', 'ora-051142.dat', 'ora-051141.dat', 'ora-051140.dat', 'ora-051139.dat', 'ora-051138.dat', 'ora-051137.dat', 'ora-051136.dat', 'ora-051135.dat', 'ora-051134.dat', 'ora-051133.dat', 'ora-051132.dat', 'ora-051131.dat', 'ora-051130.dat', 'ora-051129.dat', 'ora-051128.dat', 'ora-051127.dat', 'ora-051126.dat', 'ora-051125.dat', 'ora-051124.dat', 'ora-051123.dat', 'ora-051122.dat', 'ora-051121.dat', 'ora-051120.dat', 'ora-051119.dat', 'ora-051118.dat', 'ora-051117.dat', 'ora-051116.dat', 'ora-051115.dat', 'ora-051114.dat', 'ora-051113.dat', 'ora-051112.dat', 'ora-051111.dat', 'ora-051110.dat', 'ora-051109.dat', 'ora-051108.dat', 'ora-051107.dat', 'ora-051106.dat', 'ora-051105.dat', 'ora-051104.dat', 'ora-051103.dat', 'ora-051102.dat', 'ora-051101.dat', 'ora-051100.dat', 'ora-051058.dat', 'ora-051057.dat', 'ora-051056.dat', 'ora-051055.dat', 'ora-051054.dat', 'ora-051053.dat', 'ora-051052.dat', 'ora-051051.dat', 'ora-051050.dat', 'ora-051049.dat', 'ora-051048.dat', 'ora-051047.dat', 'ora-051046.dat', 'ora-051045.dat', 'ora-051044.dat', 'ora-051043.dat', 'ora-051042.dat', 'ora-051041.dat', 'ora-051040.dat', 'ora-051039.dat', 'ora-051038.dat', 'ora-051037.dat', 'ora-051036.dat', 'ora-051035.dat', 'ora-051034.dat', 'ora-051033.dat', 'ora-051032.dat', 'ora-051031.dat', 'ora-051030.dat', 'ora-051029.dat', 'ora-051028.dat', 'ora-051027.dat', 'ora-051026.dat', 'ora-051025.dat', 'ora-051024.dat', 'ora-051023.dat', 'ora-051022.dat', 'ora-051021.dat', 'ora-051020.dat', 'ora-051019.dat', 'ora-051018.dat', 'ora-051017.dat', 'ora-051016.dat', 'ora-051015.dat', 'ora-051014.dat', 'ora-051013.dat', 'ora-051012.dat', 'ora-051011.dat', 'ora-051010.dat', 'ora-051009.dat', 'ora-051008.dat', 'ora-051007.dat', 'ora-051006.dat', 'ora-051005.dat', 'ora-051004.dat', 'ora-051003.dat', 'ora-051002.dat', 'ora-051001.dat', 'ora-051000.dat', 'ora-050918.dat', 'ora-050917.dat', 'ora-050916.dat', 'ora-050915.dat', 'ora-050914.dat', 'ora-050913.dat', 'ora-050912.dat', 'ora-050911.dat', 'ora-050910.dat', 'ora-050909.dat', 'ora-050908.dat', 'ora-050907.dat', 'ora-050906.dat', 'ora-050905.dat', 'ora-050904.dat', 'ora-050903.dat', 'ora-050902.dat', 'ora-050901.dat', 'ora-050900.dat', 'ora-050821.dat', 'ora-050820.dat', 'ora-050819.dat', 'ora-050818.dat', 'ora-050817.dat', 'ora-050816.dat', 'ora-050815.dat', 'ora-050814.dat', 'ora-050813.dat', 'ora-050812.dat', 'ora-050811.dat', 'ora-050810.dat', 'ora-050809.dat', 'ora-050808.dat', 'ora-050807.dat', 'ora-050806.dat', 'ora-050805.dat', 'ora-050804.dat', 'ora-050803.dat', 'ora-050802.dat', 'ora-050801.dat', 'ora-050800.dat', 'ora-050741.dat', 'ora-050740.dat', 'ora-050739.dat', 'ora-050738.dat', 'ora-050737.dat', 'ora-050736.dat', 'ora-050735.dat', 'ora-050734.dat', 'ora-050733.dat', 'ora-050732.dat', 'ora-050731.dat', 'ora-050730.dat', 'ora-050729.dat', 'ora-050728.dat', 'ora-050727.dat', 'ora-050726.dat', 'ora-050725.dat', 'ora-050724.dat', 'ora-050723.dat', 'ora-050722.dat', 'ora-050721.dat', 'ora-050720.dat', 'ora-050719.dat', 'ora-050718.dat', 'ora-050717.dat', 'ora-050716.dat', 'ora-050715.dat', 'ora-050714.dat', 'ora-050713.dat', 'ora-050712.dat', 'ora-050711.dat', 'ora-050710.dat', 'ora-050709.dat', 'ora-050708.dat', 'ora-050707.dat', 'ora-050706.dat', 'ora-050705.dat', 'ora-050704.dat', 'ora-050703.dat', 'ora-050702.dat', 'ora-050701.dat', 'ora-050700.dat', 'ora-050622.dat', 'ora-050621.dat', 'ora-050620.dat', 'ora-050619.dat', 'ora-050618.dat', 'ora-050617.dat', 'ora-050616.dat', 'ora-050615.dat', 'ora-050614.dat', 'ora-050613.dat', 'ora-050612.dat', 'ora-050611.dat', 'ora-050610.dat', 'ora-050609.dat', 'ora-050608.dat', 'ora-050607.dat', 'ora-050606.dat', 'ora-050605.dat', 'ora-050604.dat', 'ora-050603.dat', 'ora-050602.dat', 'ora-050601.dat', 'ora-050600.dat', 'ora-050500.dat', 'ora-050406.dat', 'ora-050405.dat', 'ora-050404.dat', 'ora-050403.dat', 'ora-050402.dat', 'ora-050401.dat', 'ora-050400.dat', 'ora-050304.dat', 'ora-050303.dat', 'ora-050302.dat', 'ora-050301.dat', 'ora-050300.dat', 'ora-050206.dat', 'ora-050205.dat', 'ora-050204.dat', 'ora-050203.dat', 'ora-050202.dat', 'ora-050201.dat', 'ora-050200.dat', 'ora-050101.dat', 'ora-050100.dat', 'ora-050009.dat', 'ora-050008.dat', 'ora-050007.dat', 'ora-050006.dat', 'ora-050005.dat', 'ora-050004.dat', 'ora-050003.dat', 'ora-050002.dat', 'ora-050001.dat']
+2021-11-02 04:26:51： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:51： 开始下载系统/引擎升级包
+2021-11-02 04:26:51： 已下载40个升级包
+2021-11-02 04:26:51： 系统/引擎升级包下载完成
+
+2021-11-02 04:26:51： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0->RSAS V6.0系统升级包”
+2021-11-02 04:26:51： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120447', '/update/downloads/id/119898', '/update/downloads/id/119126', '/update/downloads/id/119028', '/update/downloads/id/118532', '/update/downloads/id/117014', '/update/downloads/id/116005', '/update/downloads/id/113319', '/update/downloads/id/112755', '/update/downloads/id/111678', '/update/downloads/id/111461', '/update/downloads/id/108296', '/update/downloads/id/106531', '/update/downloads/id/104287', '/update/downloads/id/102843', '/update/downloads/id/102577', '/update/downloads/id/101375', '/update/downloads/id/100835', '/update/downloads/id/33356', '/update/downloads/id/32816', '/update/downloads/id/32024', '/update/downloads/id/29667', '/update/downloads/id/28251', '/update/downloads/id/27502', '/update/downloads/id/27070', '/update/downloads/id/25706', '/update/downloads/id/24865', '/update/downloads/id/22574', '/update/downloads/id/22127', '/update/downloads/id/21576', '/update/downloads/id/21294', '/update/downloads/id/21233', '/update/downloads/id/21178', '/update/downloads/id/20976', '/update/downloads/id/20382', '/update/downloads/id/20062', '/update/downloads/id/19949', '/update/downloads/id/19606', '/update/downloads/id/18674', '/update/downloads/id/18430', '/update/downloads/id/18339', '/update/downloads/id/18057', '/update/downloads/id/17288', '/update/downloads/id/16663', '/update/downloads/id/15699', '/update/downloads/id/15568', '/update/downloads/id/15530', '/update/downloads/id/14815', '/update/downloads/id/14151', '/update/downloads/id/14116', '/update/downloads/id/13769', '/update/downloads/id/13498', '/update/downloads/id/13150', '/update/downloads/id/13096', '/update/downloads/id/12662', '/update/downloads/id/12495', '/update/downloads/id/12111', '/update/downloads/id/11458', '/update/downloads/id/10902', '/update/downloads/id/10610', '/update/downloads/id/10547', '/update/downloads/id/10515', '/update/downloads/id/9941', '/update/downloads/id/9793', '/update/downloads/id/9604', '/update/downloads/id/9200', '/update/downloads/id/9165', '/update/downloads/id/9054', '/update/downloads/id/8796', '/update/downloads/id/8488', '/update/downloads/id/8355', '/update/downloads/id/8171', '/update/downloads/id/8154', '/update/downloads/id/7802', '/update/downloads/id/7572', '/update/downloads/id/7360', '/update/downloads/id/7138', '/update/downloads/id/6818', '/update/downloads/id/6']
+2021-11-02 04:26:51： 获取系统/引擎升级包名称信息如下
+['sys-V6.0R04F00SP11.dat', 'sys-V6.0R04F00SP10.dat', 'sys-V6.0R04F00SP09.dat', 'sys-V6.0R04F00SP08.dat', 'sys-V6.0R04F00SP07.dat', 'sys-V6.0R04F00SP06.dat', 'sys-V6.0R04F00SP05.dat', 'sys-V6.0R04F00SP04.dat', 'sys-V6.0R04F00SP03.dat', 'sys-V6.0R04F00SP02.dat', 'sys-V6.0R04F00SP01.dat', 'sys-V6.0R04F00.dat', 'sys-V6.0R03F01SP02.dat', 'sys-V6.0R03F01SP01.dat', 'sys-V6.0R03F01.dat', 'sys-V6.0R03F00SP05.dat', 'sys-V6.0R03F00SP04.dat', 'sys-V6.0R03F00SP03.dat', 'sys-V6.0R03F00SP02.dat', 'sys-V6.0R03F00SP01.dat', 'sys-V6.0R03F00.dat', 'sys-V6.0R02F04SP05.dat', 'sys-V6.0R02F04SP04.dat', 'sys-V6.0R02F04SP03.dat', 'sys-V6.0R02F04SP02.dat', 'sys-V6.0R02F04SP01.dat', 'sys-V6.0R02F04.dat', 'sys-V6.0R02F03SP13.dat', 'sys-V6.0R02F03SP12.dat', 'sys-V6.0R02F03SP11.dat', 'sys-V6.0R02F03SP10.dat', 'sys-V6.0R02F03SP09.dat', 'sys-V6.0R02F03SP08.dat', 'sys-V6.0R02F03SP07.dat', 'sys-V6.0R02F03SP06.dat', 'sys-V6.0R02F03SP05.dat', 'sys-V6.0R02F03SP04.dat', 'sys-V6.0R02F03SP03.dat', 'sys-V6.0R02F03SP02.dat', 'sys-V6.0R02F03SP01.dat', 'sys-V6.0R02F03.dat', 'sys-V6.0R02F02SP02.dat', 'sys-V6.0R02F02SP01.dat', 'sys-V6.0R02F02.dat', 'sys-V6.0R02F01SP08.dat', 'sys-V6.0R02F01SP07.dat', 'sys-V6.0R02F01SP06.dat', 'sys-V6.0R02F01SP05.dat', 'sys-V6.0R02F01SP04.dat', 'sys-V6.0R02F01SP03.dat', 'sys-V6.0R02F01SP02.dat', 'sys-V6.0R02F01SP01.dat', 'sys-V6.0R02F01.dat', 'sys-V6.0R02F00SP08.dat', 'sys-V6.0R02F00SP07.dat', 'sys-V6.0R02F00SP06.dat', 'sys-V6.0R02F00SP05.dat', 'sys-V6.0R02F00SP04.dat', 'sys-V6.0R02F00SP03.dat', 'sys-V6.0R02F00SP02.dat', 'sys-V6.0R02F00SP01.dat', 'sys-6.0.2.0.dat', 'sys-6.0.1.14.dat', 'sys-6.0.1.13.dat', 'sys-6.0.1.12.dat', 'sys-6.0.1.11.dat', 'sys-6.0.1.10.dat', 'sys-6.0.1.9.dat', 'sys-6.0.1.8.dat', 'sys-6.0.1.7.dat', 'sys-6.0.1.6.dat', 'sys-6.0.1.5.dat', 'sys-6.0.1.4.dat', 'sys-6.0.1.3.dat', 'sys-6.0.1.2.dat', 'sys-6.0.1.1.dat', 'sys-6.0.1.0.dat', 'sys-6.0.0.2.dat', 'sys-6.0.0.1.dat']
+2021-11-02 04:26:51： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:26:51： 开始下载系统/引擎升级包
+2021-11-02 04:26:52： 下载系统/引擎升级包：rsas-sys-V6.0R03F00SP05.dat
+2021-11-02 04:26:52： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/102577
+2021-11-02 04:26:52： 下载系统/引擎升级包：rsas-sys-V6.0R03F00SP04.dat
+2021-11-02 04:26:52： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/101375
+2021-11-02 04:26:53： 下载系统/引擎升级包：rsas-sys-V6.0R03F00SP03.dat
+2021-11-02 04:26:53： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/100835
+2021-11-02 04:27:02： 下载系统/引擎升级包：rsas-sys-V6.0R03F00SP02.dat
+2021-11-02 04:27:02： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/33356
+2021-11-02 04:27:09： 下载系统/引擎升级包：rsas-sys-V6.0R03F00SP01.dat
+2021-11-02 04:27:09： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/32816
+2021-11-02 04:27:20： 下载系统/引擎升级包：rsas-sys-V6.0R03F00.dat
+2021-11-02 04:27:20： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/32024
+2021-11-02 04:44:37： 下载系统/引擎升级包：rsas-sys-V6.0R02F04SP05.dat
+2021-11-02 04:44:37： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/29667
+2021-11-02 04:44:38： 下载系统/引擎升级包：rsas-sys-V6.0R02F04SP04.dat
+2021-11-02 04:44:38： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/28251
+2021-11-02 04:44:38： 下载系统/引擎升级包：rsas-sys-V6.0R02F04SP03.dat
+2021-11-02 04:44:38： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/27502
+2021-11-02 04:44:53： 下载系统/引擎升级包：rsas-sys-V6.0R02F04SP02.dat
+2021-11-02 04:44:53： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/27070
+2021-11-02 04:45:14： 下载系统/引擎升级包：rsas-sys-V6.0R02F04SP01.dat
+2021-11-02 04:45:14： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/25706
+2021-11-02 04:45:42： 下载系统/引擎升级包：rsas-sys-V6.0R02F04.dat
+2021-11-02 04:45:42： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/24865
+2021-11-02 04:47:20： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP13.dat
+2021-11-02 04:47:20： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/22574
+2021-11-02 04:47:20： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP12.dat
+2021-11-02 04:47:20： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/22127
+2021-11-02 04:47:21： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP11.dat
+2021-11-02 04:47:21： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/21576
+2021-11-02 04:47:37： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP10.dat
+2021-11-02 04:47:37： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/21294
+2021-11-02 04:47:37： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP09.dat
+2021-11-02 04:47:37： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/21233
+2021-11-02 04:47:37： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP08.dat
+2021-11-02 04:47:37： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/21178
+2021-11-02 04:47:38： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP07.dat
+2021-11-02 04:47:38： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/20976
+2021-11-02 04:48:21： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP06.dat
+2021-11-02 04:48:21： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/20382
+2021-11-02 04:48:34： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP05.dat
+2021-11-02 04:48:34： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/20062
+2021-11-02 04:48:38： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP04.dat
+2021-11-02 04:48:38： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/19949
+2021-11-02 04:48:44： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP03.dat
+2021-11-02 04:48:44： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/19606
+2021-11-02 04:48:45： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP02.dat
+2021-11-02 04:48:45： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/18674
+2021-11-02 04:48:48： 下载系统/引擎升级包：rsas-sys-V6.0R02F03SP01.dat
+2021-11-02 04:48:48： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/18430
+2021-11-02 04:48:52： 已下载40个升级包
+2021-11-02 04:48:52： 系统/引擎升级包下载完成
+
+2021-11-02 04:48:52： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0->RSAS V6.0系统插件升级包”
+2021-11-02 04:48:52： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120800', '/update/downloads/id/120414', '/update/downloads/id/120342', '/update/downloads/id/119900', '/update/downloads/id/119869', '/update/downloads/id/119513', '/update/downloads/id/119373', '/update/downloads/id/118942', '/update/downloads/id/118556', '/update/downloads/id/118504', '/update/downloads/id/118160', '/update/downloads/id/117777', '/update/downloads/id/117721', '/update/downloads/id/117165', '/update/downloads/id/117134', '/update/downloads/id/116733', '/update/downloads/id/116698', '/update/downloads/id/116264', '/update/downloads/id/115967', '/update/downloads/id/115860', '/update/downloads/id/115832', '/update/downloads/id/115640', '/update/downloads/id/115399', '/update/downloads/id/115259', '/update/downloads/id/115221', '/update/downloads/id/115140', '/update/downloads/id/115106', '/update/downloads/id/115078', '/update/downloads/id/115041', '/update/downloads/id/115012', '/update/downloads/id/114982', '/update/downloads/id/114937', '/update/downloads/id/114878', '/update/downloads/id/114847', '/update/downloads/id/114808', '/update/downloads/id/114771', '/update/downloads/id/114753', '/update/downloads/id/114718', '/update/downloads/id/114701', '/update/downloads/id/114659', '/update/downloads/id/114637', '/update/downloads/id/114317', '/update/downloads/id/114215', '/update/downloads/id/113786', '/update/downloads/id/113748', '/update/downloads/id/113604', '/update/downloads/id/113358', '/update/downloads/id/112960', '/update/downloads/id/112786', '/update/downloads/id/112517', '/update/downloads/id/112106', '/update/downloads/id/112060', '/update/downloads/id/111675', '/update/downloads/id/111513', '/update/downloads/id/111095', '/update/downloads/id/111082', '/update/downloads/id/111002', '/update/downloads/id/110821', '/update/downloads/id/110631', '/update/downloads/id/110152', '/update/downloads/id/110121', '/update/downloads/id/109796', '/update/downloads/id/109752', '/update/downloads/id/109695', '/update/downloads/id/109504', '/update/downloads/id/109311', '/update/downloads/id/109289', '/update/downloads/id/108873', '/update/downloads/id/108774', '/update/downloads/id/108567', '/update/downloads/id/108456', '/update/downloads/id/108385', '/update/downloads/id/108350', '/update/downloads/id/108317', '/update/downloads/id/108293', '/update/downloads/id/108261', '/update/downloads/id/108221', '/update/downloads/id/107881', '/update/downloads/id/107658', '/update/downloads/id/107583', '/update/downloads/id/107538', '/update/downloads/id/107427', '/update/downloads/id/107032', '/update/downloads/id/106612', '/update/downloads/id/106565', '/update/downloads/id/106313', '/update/downloads/id/106109', '/update/downloads/id/106108', '/update/downloads/id/105940', '/update/downloads/id/105837', '/update/downloads/id/105708', '/update/downloads/id/105457', '/update/downloads/id/105251', '/update/downloads/id/105052', '/update/downloads/id/104839', '/update/downloads/id/104712', '/update/downloads/id/104435', '/update/downloads/id/104064', '/update/downloads/id/103825', '/update/downloads/id/103667', '/update/downloads/id/103553', '/update/downloads/id/103458', '/update/downloads/id/103169', '/update/downloads/id/102749', '/update/downloads/id/102582', '/update/downloads/id/102566', '/update/downloads/id/102448', '/update/downloads/id/102351', '/update/downloads/id/101770', '/update/downloads/id/101737', '/update/downloads/id/101679', '/update/downloads/id/101614', '/update/downloads/id/101505', '/update/downloads/id/101341', '/update/downloads/id/101271', '/update/downloads/id/101191', '/update/downloads/id/101027', '/update/downloads/id/100845', '/update/downloads/id/100501', '/update/downloads/id/100142', '/update/downloads/id/33400', '/update/downloads/id/33053', '/update/downloads/id/32703', '/update/downloads/id/32391', '/update/downloads/id/32366', '/update/downloads/id/32217', '/update/downloads/id/31965', '/update/downloads/id/31809', '/update/downloads/id/31658', '/update/downloads/id/31583', '/update/downloads/id/31171', '/update/downloads/id/30558', '/update/downloads/id/30391', '/update/downloads/id/30347', '/update/downloads/id/30162', '/update/downloads/id/29824', '/update/downloads/id/29763', '/update/downloads/id/29520', '/update/downloads/id/29454', '/update/downloads/id/29406', '/update/downloads/id/29373', '/update/downloads/id/29077', '/update/downloads/id/28802', '/update/downloads/id/28722', '/update/downloads/id/28675', '/update/downloads/id/28622', '/update/downloads/id/28308', '/update/downloads/id/28307', '/update/downloads/id/28298', '/update/downloads/id/28137', '/update/downloads/id/28058', '/update/downloads/id/28019', '/update/downloads/id/27853', '/update/downloads/id/27495', '/update/downloads/id/27477', '/update/downloads/id/27343', '/update/downloads/id/27197', '/update/downloads/id/27180', '/update/downloads/id/26777', '/update/downloads/id/26404', '/update/downloads/id/25910', '/update/downloads/id/25552', '/update/downloads/id/25211', '/update/downloads/id/25176', '/update/downloads/id/24793', '/update/downloads/id/24406', '/update/downloads/id/24059', '/update/downloads/id/24020', '/update/downloads/id/23599', '/update/downloads/id/23427', '/update/downloads/id/23289', '/update/downloads/id/23023', '/update/downloads/id/23016', '/update/downloads/id/22735', '/update/downloads/id/22522', '/update/downloads/id/22173', '/update/downloads/id/21917', '/update/downloads/id/21799', '/update/downloads/id/21678', '/update/downloads/id/21650', '/update/downloads/id/21537', '/update/downloads/id/21352', '/update/downloads/id/21187', '/update/downloads/id/21085', '/update/downloads/id/21009', '/update/downloads/id/20977', '/update/downloads/id/20858', '/update/downloads/id/20838', '/update/downloads/id/20739', '/update/downloads/id/20623', '/update/downloads/id/20411', '/update/downloads/id/20267', '/update/downloads/id/20124', '/update/downloads/id/20113', '/update/downloads/id/20087', '/update/downloads/id/20001', '/update/downloads/id/19857', '/update/downloads/id/19745', '/update/downloads/id/19553', '/update/downloads/id/19407', '/update/downloads/id/19397', '/update/downloads/id/19310', '/update/downloads/id/19292', '/update/downloads/id/19161', '/update/downloads/id/18973', '/update/downloads/id/18863', '/update/downloads/id/18808', '/update/downloads/id/18688', '/update/downloads/id/18579', '/update/downloads/id/18437', '/update/downloads/id/18426', '/update/downloads/id/18324', '/update/downloads/id/18140', '/update/downloads/id/18031', '/update/downloads/id/17889', '/update/downloads/id/17792', '/update/downloads/id/17780', '/update/downloads/id/17760', '/update/downloads/id/17656', '/update/downloads/id/17616', '/update/downloads/id/17608', '/update/downloads/id/17379', '/update/downloads/id/17282', '/update/downloads/id/17143', '/update/downloads/id/17091', '/update/downloads/id/16954', '/update/downloads/id/16916', '/update/downloads/id/16662', '/update/downloads/id/16516', '/update/downloads/id/16513', '/update/downloads/id/16415', '/update/downloads/id/16257', '/update/downloads/id/16187', '/update/downloads/id/16111', '/update/downloads/id/16035', '/update/downloads/id/15957', '/update/downloads/id/15941', '/update/downloads/id/15864', '/update/downloads/id/15849', '/update/downloads/id/15825', '/update/downloads/id/15806', '/update/downloads/id/15736', '/update/downloads/id/15610', '/update/downloads/id/15602', '/update/downloads/id/15521', '/update/downloads/id/15442', '/update/downloads/id/15424', '/update/downloads/id/15423', '/update/downloads/id/15243', '/update/downloads/id/15168', '/update/downloads/id/15081', '/update/downloads/id/15018', '/update/downloads/id/14945', '/update/downloads/id/14800', '/update/downloads/id/14765', '/update/downloads/id/14646', '/update/downloads/id/14610', '/update/downloads/id/14541', '/update/downloads/id/14381', '/update/downloads/id/14317', '/update/downloads/id/14199', '/update/downloads/id/14177', '/update/downloads/id/14102', '/update/downloads/id/13997', '/update/downloads/id/13962', '/update/downloads/id/13933', '/update/downloads/id/13896', '/update/downloads/id/13891', '/update/downloads/id/13831', '/update/downloads/id/13716', '/update/downloads/id/13650', '/update/downloads/id/13544', '/update/downloads/id/13517', '/update/downloads/id/13493', '/update/downloads/id/13457', '/update/downloads/id/13435', '/update/downloads/id/13370', '/update/downloads/id/13270', '/update/downloads/id/13158', '/update/downloads/id/13151', '/update/downloads/id/13003', '/update/downloads/id/12969', '/update/downloads/id/12951', '/update/downloads/id/12906', '/update/downloads/id/12846', '/update/downloads/id/12790', '/update/downloads/id/12687', '/update/downloads/id/12633', '/update/downloads/id/12581', '/update/downloads/id/12531', '/update/downloads/id/12492', '/update/downloads/id/12399', '/update/downloads/id/12287', '/update/downloads/id/12238', '/update/downloads/id/12183', '/update/downloads/id/12106', '/update/downloads/id/12063', '/update/downloads/id/12007', '/update/downloads/id/11917', '/update/downloads/id/11867', '/update/downloads/id/11765', '/update/downloads/id/11661', '/update/downloads/id/11555', '/update/downloads/id/11448', '/update/downloads/id/11425', '/update/downloads/id/11313', '/update/downloads/id/11240', '/update/downloads/id/11110', '/update/downloads/id/11015', '/update/downloads/id/10912', '/update/downloads/id/10900', '/update/downloads/id/10764', '/update/downloads/id/10750', '/update/downloads/id/10644', '/update/downloads/id/10545', '/update/downloads/id/10509', '/update/downloads/id/10408', '/update/downloads/id/10294', '/update/downloads/id/10198', '/update/downloads/id/10085', '/update/downloads/id/9947', '/update/downloads/id/9923', '/update/downloads/id/9700', '/update/downloads/id/9584', '/update/downloads/id/9502', '/update/downloads/id/9413', '/update/downloads/id/9274', '/update/downloads/id/9183', '/update/downloads/id/9062', '/update/downloads/id/8954', '/update/downloads/id/8862', '/update/downloads/id/8817', '/update/downloads/id/8780', '/update/downloads/id/8718', '/update/downloads/id/8593', '/update/downloads/id/8564', '/update/downloads/id/8393', '/update/downloads/id/8362', '/update/downloads/id/8319', '/update/downloads/id/8304', '/update/downloads/id/8211', '/update/downloads/id/8124', '/update/downloads/id/8063', '/update/downloads/id/8035', '/update/downloads/id/7980', '/update/downloads/id/7880', '/update/downloads/id/7753', '/update/downloads/id/7664', '/update/downloads/id/7571', '/update/downloads/id/7227', '/update/downloads/id/7144']
+2021-11-02 04:48:52： 获取系统/引擎升级包名称信息如下
+['vulsys-V6.0R02F01.2503.dat', 'vulsys-V6.0R02F01.2502.dat', 'vulsys-V6.0R02F01.2501.dat', 'vulsys-V6.0R02F01.2500.dat', 'vulsys-V6.0R02F01.2409.dat', 'vulsys-V6.0R02F01.2408.dat', 'vulsys-V6.0R02F01.2407.dat', 'vulsys-V6.0R02F01.2406.dat', 'vulsys-V6.0R02F01.2405.dat', 'vulsys-V6.0R02F01.2404.dat', 'vulsys-V6.0R02F01.2403.dat', 'vulsys-V6.0R02F01.2402.dat', 'vulsys-V6.0R02F01.2401.dat', 'vulsys-V6.0R02F01.2400.dat', 'vulsys-V6.0R02F01.2307.dat', 'vulsys-V6.0R02F01.2306.dat', 'vulsys-V6.0R02F01.2305.dat', 'vulsys-V6.0R02F01.2304.dat', 'vulsys-V6.0R02F01.2303.dat', 'vulsys-V6.0R02F01.2302.dat', 'vulsys-V6.0R02F01.2301.dat', 'vulsys-V6.0R02F01.2300.dat', 'vulsys-V6.0R02F01.2219.dat', 'vulsys-V6.0R02F01.2218.dat', 'vulsys-V6.0R02F01.2217.dat', 'vulsys-V6.0R02F01.2216.dat', 'vulsys-V6.0R02F01.2215.dat', 'vulsys-V6.0R02F01.2214.dat', 'vulsys-V6.0R02F01.2213.dat', 'vulsys-V6.0R02F01.2212.dat', 'vulsys-V6.0R02F01.2211.dat', 'vulsys-V6.0R02F01.2210.dat', 'vulsys-V6.0R02F01.2209.dat', 'vulsys-V6.0R02F01.2208.dat', 'vulsys-V6.0R02F01.2207.dat', 'vulsys-V6.0R02F01.2206.dat', 'vulsys-V6.0R02F01.2205.dat', 'vulsys-V6.0R02F01.2204.dat', 'vulsys-V6.0R02F01.2203.dat', 'vulsys-V6.0R02F01.2202.dat', 'vulsys-V6.0R02F01.2201.dat', 'vulsys-V6.0R02F01.2200.dat', 'vulsys-V6.0R02F01.2110.dat', 'vulsys-V6.0R02F01.2109.dat', 'vulsys-V6.0R02F01.2108.dat', 'vulsys-V6.0R02F01.2107.dat', 'vulsys-V6.0R02F01.2106.dat', 'vulsys-V6.0R02F01.2105.dat', 'vulsys-V6.0R02F01.2104.dat', 'vulsys-V6.0R02F01.2103.dat', 'vulsys-V6.0R02F01.2102.dat', 'vulsys-V6.0R02F01.2101.dat', 'vulsys-V6.0R02F01.2100.dat', 'vulsys-V6.0R02F01.2014.dat', 'vulsys-V6.0R02F01.2013.dat', 'vulsys-V6.0R02F01.2012.dat', 'vulsys-V6.0R02F01.2011.dat', 'vulsys-V6.0R02F01.2010.dat', 'vulsys-V6.0R02F01.2009.dat', 'vulsys-V6.0R02F01.2008.dat', 'vulsys-V6.0R02F01.2007.dat', 'vulsys-V6.0R02F01.2006.dat', 'vulsys-V6.0R02F01.2005.dat', 'vulsys-V6.0R02F01.2004.dat', 'vulsys-V6.0R02F01.2003.dat', 'vulsys-V6.0R02F01.2002.dat', 'vulsys-V6.0R02F01.2001.dat', 'vulsys-V6.0R02F01.2000.dat', 'vulsys-V6.0R02F01.1919.dat', 'vulsys-V6.0R02F01.1918.dat', 'vulsys-V6.0R02F01.1917.dat', 'vulsys-V6.0R02F01.1916.dat', 'vulsys-V6.0R02F01.1915.dat', 'vulsys-V6.0R02F01.1914.dat', 'vulsys-V6.0R02F01.1913.dat', 'vulsys-V6.0R02F01.1912.dat', 'vulsys-V6.0R02F01.1911.dat', 'vulsys-V6.0R02F01.1910.dat', 'vulsys-V6.0R02F01.1909.dat', 'vulsys-V6.0R02F01.1908.dat', 'vulsys-V6.0R02F01.1907.dat', 'vulsys-V6.0R02F01.1906.dat', 'vulsys-V6.0R02F01.1905.dat', 'vulsys-V6.0R02F01.1904.dat', 'vulsys-V6.0R02F01.1903.dat', 'vulsys-V6.0R02F01.1902.dat', 'vulsys-V6.0R02F01.1901.dat', 'vulsys-V6.0R02F01.1900.dat', 'vulsys-V6.0R02F01.1812.dat', 'vulsys-V6.0R02F01.1811.dat', 'vulsys-V6.0R02F01.1810.dat', 'vulsys-V6.0R02F01.1809.dat', 'vulsys-V6.0R02F01.1808.dat', 'vulsys-V6.0R02F01.1807.dat', 'vulsys-V6.0R02F01.1806.dat', 'vulsys-V6.0R02F01.1805.dat', 'vulsys-V6.0R02F01.1804.dat', 'vulsys-V6.0R02F01.1803.dat', 'vulsys-V6.0R02F01.1802.dat', 'vulsys-V6.0R02F01.1801.dat', 'vulsys-V6.0R02F01.1800.dat', 'vulsys-V6.0R02F01.1713.dat', 'vulsys-V6.0R02F01.1712.dat', 'vulsys-V6.0R02F01.1711.dat', 'vulsys-V6.0R02F01.1710.dat', 'vulsys-V6.0R02F01.1709.dat', 'vulsys-V6.0R02F01.1708.dat', 'vulsys-V6.0R02F01.1707.dat', 'vulsys-V6.0R02F01.1706.dat', 'vulsys-V6.0R02F01.1705.dat', 'vulsys-V6.0R02F01.1704.dat', 'vulsys-V6.0R02F01.1703.dat', 'vulsys-V6.0R02F01.1702.dat', 'vulsys-V6.0R02F01.1701.dat', 'vulsys-V6.0R02F01.1700.dat', 'vulsys-V6.0R02F01.1608.dat', 'vulsys-V6.0R02F01.1607.dat', 'vulsys-V6.0R02F01.1606.dat', 'vulsys-V6.0R02F01.1605.dat', 'vulsys-V6.0R02F01.1604.dat', 'vulsys-V6.0R02F01.1603.dat', 'vulsys-V6.0R02F01.1602.dat', 'vulsys-V6.0R02F01.1601.dat', 'vulsys-V6.0R02F01.1600.dat', 'vulsys-V6.0R02F01.1511.dat', 'vulsys-V6.0R02F01.1510.dat', 'vulsys-V6.0R02F01.1509.dat', 'vulsys-V6.0R02F01.1508.dat', 'vulsys-V6.0R02F01.1507.dat', 'vulsys-V6.0R02F01.1506.dat', 'vulsys-V6.0R02F01.1505.dat', 'vulsys-V6.0R02F01.1504.dat', 'vulsys-V6.0R02F01.1503.dat', 'vulsys-V6.0R02F01.1502.dat', 'vulsys-V6.0R02F01.1501.dat', 'vulsys-V6.0R02F01.1500.dat', 'vulsys-V6.0R02F01.1417.dat', 'vulsys-V6.0R02F01.1416.dat', 'vulsys-V6.0R02F01.1415.dat', 'vulsys-V6.0R02F01.1414.dat', 'vulsys-V6.0R02F01.1413.dat', 'vulsys-V6.0R02F01.1412.dat', 'vulsys-V6.0R02F01.1411.dat', 'vulsys-V6.0R02F01.1410.dat', 'vulsys-V6.0R02F01.1409.dat', 'vulsys-V6.0R02F01.1408.dat', 'vulsys-V6.0R02F01.1407.dat', 'vulsys-V6.0R02F01.1406.dat', 'vulsys-V6.0R02F01.1405.dat', 'vulsys-V6.0R02F01.1404.dat', 'vulsys-V6.0R02F01.1403.dat', 'vulsys-V6.0R02F01.1402.dat', 'vulsys-V6.0R02F01.1401.dat', 'vulsys-V6.0R02F01.1400.dat', 'vulsys-V6.0R02F01.1308.dat', 'vulsys-V6.0R02F01.1307.dat', 'vulsys-V6.0R02F01.1306.dat', 'vulsys-V6.0R02F01.1305.dat', 'vulsys-V6.0R02F01.1304.dat', 'vulsys-V6.0R02F01.1303.dat', 'vulsys-V6.0R02F01.1302.dat', 'vulsys-V6.0R02F01.1301.dat', 'vulsys-V6.0R02F01.1300.dat', 'vulsys-V6.0R02F01.1208.dat', 'vulsys-V6.0R02F01.1207.dat', 'vulsys-V6.0R02F01.1206.dat', 'vulsys-V6.0R02F01.1205.dat', 'vulsys-V6.0R02F01.1204.dat', 'vulsys-V6.0R02F01.1203.dat', 'vulsys-V6.0R02F01.1202.dat', 'vulsys-V6.0R02F01.1201.dat', 'vulsys-V6.0R02F01.1200.dat', 'vulsys-V6.0R02F01.1106.dat', 'vulsys-V6.0R02F01.1105.dat', 'vulsys-V6.0R02F01.1104.dat', 'vulsys-V6.0R02F01.1103.dat', 'vulsys-V6.0R02F01.1102.dat', 'vulsys-V6.0R02F01.1101.dat', 'vulsys-V6.0R02F01.1100.dat', 'vulsys-V6.0R02F01.1007.dat', 'vulsys-V6.0R02F01.1006.dat', 'vulsys-V6.0R02F01.1005.dat', 'vulsys-V6.0R02F01.1004.dat', 'vulsys-V6.0R02F01.1003.dat', 'vulsys-V6.0R02F01.1002.dat', 'vulsys-V6.0R02F01.1001.dat', 'vulsys-V6.0R02F01.1000.dat', 'vulsys-V6.0R02F01.0905.dat', 'vulsys-V6.0R02F01.0904.dat', 'vulsys-V6.0R02F01.0903.dat', 'vulsys-V6.0R02F01.0902.dat', 'vulsys-V6.0R02F01.0901.dat', 'vulsys-V6.0R02F01.0900.dat', 'vulsys-V6.0R02F01.0808.dat', 'vulsys-V6.0R02F01.0807.dat', 'vulsys-V6.0R02F01.0806.dat', 'vulsys-V6.0R02F01.0805.dat', 'vulsys-V6.0R02F01.0804.dat', 'vulsys-V6.0R02F01.0803.dat', 'vulsys-V6.0R02F01.0802.dat', 'vulsys-V6.0R02F01.0801.dat', 'vulsys-V6.0R02F01.0800.dat', 'vulsys-V6.0R02F01.0707.dat', 'vulsys-V6.0R02F01.0706.dat', 'vulsys-V6.0R02F01.0705.dat', 'vulsys-V6.0R02F01.0704.dat', 'vulsys-V6.0R02F01.0703.dat', 'vulsys-V6.0R02F01.0702.dat', 'vulsys-V6.0R02F01.0701.dat', 'vulsys-V6.0R02F01.0700.dat', 'vulsys-V6.0R02F01.0608.dat', 'vulsys-V6.0R02F01.0607.dat', 'vulsys-V6.0R02F01.0606.dat', 'vulsys-V6.0R02F01.0605.dat', 'vulsys-V6.0R02F01.0604.dat', 'vulsys-V6.0R02F01.0603.dat', 'vulsys-V6.0R02F01.0602.dat', 'vulsys-V6.0R02F01.0601.dat', 'vulsys-V6.0R02F01.0600.dat', 'vulsys-V6.0R02F01.0509.dat', 'vulsys-V6.0R02F01.0508.dat', 'vulsys-V6.0R02F01.0507.dat', 'vulsys-V6.0R02F01.0506.dat', 'vulsys-V6.0R02F01.0505.dat', 'vulsys-V6.0R02F01.0504.dat', 'vulsys-V6.0R02F01.0503.dat', 'vulsys-V6.0R02F01.0502.dat', 'vulsys-V6.0R02F01.0501.dat', 'vulsys-V6.0R02F01.0500.dat', 'vulsys-V6.0R02F01.0413.dat', 'vulsys-V6.0R02F01.0412.dat', 'vulsys-V6.0R02F01.0411.dat', 'vulsys-V6.0R02F01.0410.dat', 'vulsys-V6.0R02F01.0409.dat', 'vulsys-V6.0R02F01.0408.dat', 'vulsys-V6.0R02F01.0407.dat', 'vulsys-V6.0R02F01.0406.dat', 'vulsys-V6.0R02F01.0405.dat', 'vulsys-V6.0R02F01.0404.dat', 'vulsys-V6.0R02F01.0403.dat', 'vulsys-V6.0R02F01.0402.dat', 'vulsys-V6.0R02F01.0401.dat', 'vulsys-V6.0R02F01.0400.dat', 'vulsys-V6.0R02F01.0312.dat', 'vulsys-V6.0R02F01.0311.dat', 'vulsys-V6.0R02F01.0310.dat', 'vulsys-V6.0R02F01.0309.dat', 'vulsys-V6.0R02F01.0308.dat', 'vulsys-V6.0R02F01.0307.dat', 'vulsys-V6.0R02F01.0306.dat', 'vulsys-V6.0R02F01.0305.dat', 'vulsys-V6.0R02F01.0304.dat', 'vulsys-V6.0R02F01.0303.dat', 'vulsys-V6.0R02F01.0302.dat', 'vulsys-V6.0R02F01.0301.dat', 'vulsys-V6.0R02F01.0300.dat', 'vulsys-V6.0R02F01.0213.dat', 'vulsys-V6.0R02F01.0212.dat', 'vulsys-V6.0R02F01.0211.dat', 'vulsys-V6.0R02F01.0210.dat', 'vulsys-V6.0R02F01.0209.dat', 'vulsys-V6.0R02F01.0208.dat', 'vulsys-V6.0R02F01.0207.dat', 'vulsys-V6.0R02F01.0206.dat', 'vulsys-V6.0R02F01.0205.dat', 'vulsys-V6.0R02F01.0204.dat', 'vulsys-V6.0R02F01.0203.dat', 'vulsys-V6.0R02F01.0202.dat', 'vulsys-V6.0R02F01.0201.dat', 'vulsys-V6.0R02F01.0200.dat', 'vulsys-V6.0R02F01.0144.dat', 'vulsys-V6.0R02F01.0143.dat', 'vulsys-V6.0R02F01.0142.dat', 'vulsys-V6.0R02F01.0141.dat', 'vulsys-V6.0R02F01.0140.dat', 'vulsys-V6.0R02F01.0139.dat', 'vulsys-V6.0R02F00.0138.dat', 'vulsys-V6.0R02F00.0137.dat', 'vulsys-V6.0R02F00.0136.dat', 'vulsys-V6.0R02F00.0135.dat', 'vulsys-V6.0R02F00.0134.dat', 'vulsys-V6.0R02F00.0133.dat', 'vulsys-V6.0R02F00.0132.dat', 'vulsys-V6.0R02F00.0131.dat', 'vulsys-V6.0R02F00.0130.dat', 'vulsys-V6.0R02F00.0129.dat', 'vulsys-V6.0R02F00.0128.dat', 'vulsys-V6.0R02F00.0127.dat', 'vulsys-V6.0R02F00.0126.dat', 'vulsys-V6.0R02F00.0125.dat', 'vulsys-V6.0R02F00.0124.dat', 'vulsys-V6.0R02F00.0123.dat', 'vulsys-V6.0R02F00.0122.dat', 'vulsys-V6.0R02F00.0121.dat', 'vulsys-V6.0R02F00.0120.dat', 'vulsys-V6.0R02F00.0119.dat', 'vulsys-V6.0R02F00.0118.dat', 'vulsys-V6.0R02F00.0117.dat', 'vulsys-V6.0R02F00.0116.dat', 'vulsys-V6.0R02F00.0115.dat', 'vulsys-V6.0R02F00.0114.dat', 'vulsys-V6.0R02F00.0113.dat', 'vulsys-V6.0R02F00.0112.dat', 'vulsys-V6.0R02F00.0111.dat', 'vulsys-V6.0R02F00.0110.dat', 'vulsys-V6.0R02F00.0109.dat', 'vulsys-V6.0R02F00.0108.dat', 'vulsys-V6.0R02F00.0107.dat', 'vulsys-V6.0R02F00.0106.dat', 'vulsys-V6.0R02F00.0105.dat', 'vulsys-V6.0R02F00.0104.dat', 'vulsys-V6.0R02F00.0103.dat', 'vulsys-V6.0R02F00.0102.dat', 'vulsys-V6.0R02F00.0101.dat', 'vulsys-V6.0R02F00.0100.dat', 'vulsys-6.0.0.36.dat', 'vulsys-6.0.0.35.dat', 'vulsys-6.0.0.34.dat', 'vulsys-6.0.0.33.dat', 'vulsys-6.0.0.32.dat', 'vulsys-6.0.0.31.dat', 'vulsys-6.0.0.30.dat', 'vulsys-6.0.0.29.dat', 'vulsys-6.0.0.28.dat', 'vulsys-6.0.0.27.dat', 'vulsys-6.0.0.26.dat', 'vulsys-6.0.0.25.dat', 'vulsys-6.0.0.24.dat', 'vulsys-6.0.0.23.dat', 'vulsys-6.0.0.22.dat', 'vulsys-6.0.0.21.dat', 'vulsys-6.0.0.20.dat', 'vulsys-6.0.0.19.dat', 'vulsys-6.0.0.18.dat', 'vulsys-6.0.0.17.dat', 'vulsys-6.0.0.16.dat', 'vulsys-6.0.0.15.dat', 'vulsys-6.0.0.14.dat', 'vulsys-6.0.0.13.dat', 'vulsys-6.0.0.12.dat', 'vulsys-6.0.0.11.dat', 'vulsys-6.0.0.10.dat', 'vulsys-6.0.0.9.dat', 'vulsys-6.0.0.8.dat', 'vulsys-6.0.0.7.dat', 'vulsys-6.0.0.6.dat', 'vulsys-6.0.0.5.dat', 'vulsys-6.0.0.4.dat', 'vulsys-6.0.0.3.dat', 'vulsys-6.0.0.2.dat', 'vulsys-6.0.0.1.dat']
+2021-11-02 04:48:52： 获取系统/引擎升级包名称信息完成
+2021-11-02 04:48:52： 开始下载系统/引擎升级包
+2021-11-02 04:48:52： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2501.dat
+2021-11-02 04:48:52： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/120342
+2021-11-02 04:49:06： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2500.dat
+2021-11-02 04:49:06： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119900
+2021-11-02 04:51:33： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2409.dat
+2021-11-02 04:51:33： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119869
+2021-11-02 04:53:53： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2408.dat
+2021-11-02 04:53:53： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119513
+2021-11-02 04:54:07： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2407.dat
+2021-11-02 04:54:07： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119373
+2021-11-02 04:55:39： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2406.dat
+2021-11-02 04:55:39： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118942
+2021-11-02 04:57:53： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2405.dat
+2021-11-02 04:57:53： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118556
+2021-11-02 04:59:54： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2404.dat
+2021-11-02 04:59:54： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118504
+2021-11-02 05:00:05： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2403.dat
+2021-11-02 05:00:05： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118160
+2021-11-02 05:02:38： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2402.dat
+2021-11-02 05:02:38： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117777
+2021-11-02 05:05:01： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2401.dat
+2021-11-02 05:05:01： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117721
+2021-11-02 05:05:20： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2400.dat
+2021-11-02 05:05:20： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117165
+2021-11-02 05:11:37： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2307.dat
+2021-11-02 05:11:37： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117134
+2021-11-02 05:15:07： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2306.dat
+2021-11-02 05:15:07： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/116733
+2021-11-02 05:22:25： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2305.dat
+2021-11-02 05:22:25： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/116698
+2021-11-02 05:22:36： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2304.dat
+2021-11-02 05:22:36： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/116264
+2021-11-02 05:24:42： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2303.dat
+2021-11-02 05:24:42： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115967
+2021-11-02 05:24:42： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2302.dat
+2021-11-02 05:24:42： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115860
+2021-11-02 05:26:39： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2301.dat
+2021-11-02 05:26:39： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115832
+2021-11-02 05:26:51： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2300.dat
+2021-11-02 05:26:51： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115640
+2021-11-02 05:28:58： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2219.dat
+2021-11-02 05:28:58： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115399
+2021-11-02 05:31:02： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2218.dat
+2021-11-02 05:31:02： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115259
+2021-11-02 05:31:02： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2217.dat
+2021-11-02 05:31:02： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115221
+2021-11-02 05:31:02： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2216.dat
+2021-11-02 05:31:02： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115140
+2021-11-02 05:31:03： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2215.dat
+2021-11-02 05:31:03： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115106
+2021-11-02 05:31:03： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2214.dat
+2021-11-02 05:31:03： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115078
+2021-11-02 05:31:03： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2213.dat
+2021-11-02 05:31:03： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115041
+2021-11-02 05:31:03： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2212.dat
+2021-11-02 05:31:03： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115012
+2021-11-02 05:33:10： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2211.dat
+2021-11-02 05:33:10： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114982
+2021-11-02 05:33:10： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2210.dat
+2021-11-02 05:33:10： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114937
+2021-11-02 05:33:21： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2209.dat
+2021-11-02 05:33:21： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114878
+2021-11-02 05:33:21： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2208.dat
+2021-11-02 05:33:21： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114847
+2021-11-02 05:33:21： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2207.dat
+2021-11-02 05:33:21： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114808
+2021-11-02 05:33:22： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2206.dat
+2021-11-02 05:33:22： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114771
+2021-11-02 05:33:22： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2205.dat
+2021-11-02 05:33:22： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114753
+2021-11-02 05:33:22： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2204.dat
+2021-11-02 05:33:22： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114718
+2021-11-02 05:33:22： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2203.dat
+2021-11-02 05:33:22： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114701
+2021-11-02 05:33:23： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.2202.dat
+2021-11-02 05:33:23： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114659
+2021-11-02 05:33:23： 已下载40个升级包
+2021-11-02 05:33:23： 系统/引擎升级包下载完成
+
+2021-11-02 05:33:23： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0->RSAS V6.0 Web插件升级包”
+2021-11-02 05:33:23： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120831', '/update/downloads/id/120348', '/update/downloads/id/119905', '/update/downloads/id/119593', '/update/downloads/id/119136', '/update/downloads/id/118857', '/update/downloads/id/118704', '/update/downloads/id/118335', '/update/downloads/id/117932', '/update/downloads/id/117550', '/update/downloads/id/117158', '/update/downloads/id/116933', '/update/downloads/id/116470', '/update/downloads/id/116087', '/update/downloads/id/115671', '/update/downloads/id/115373', '/update/downloads/id/115294', '/update/downloads/id/115260', '/update/downloads/id/115223', '/update/downloads/id/115143', '/update/downloads/id/115107', '/update/downloads/id/115074', '/update/downloads/id/115043', '/update/downloads/id/114984', '/update/downloads/id/114933', '/update/downloads/id/114883', '/update/downloads/id/114846', '/update/downloads/id/114806', '/update/downloads/id/114797', '/update/downloads/id/114764', '/update/downloads/id/114713', '/update/downloads/id/114692', '/update/downloads/id/114657', '/update/downloads/id/114335', '/update/downloads/id/114035', '/update/downloads/id/113590', '/update/downloads/id/113350', '/update/downloads/id/112816', '/update/downloads/id/112313', '/update/downloads/id/111925', '/update/downloads/id/111549', '/update/downloads/id/111324', '/update/downloads/id/111019', '/update/downloads/id/110864', '/update/downloads/id/110469', '/update/downloads/id/110050', '/update/downloads/id/109793', '/update/downloads/id/109699', '/update/downloads/id/109497', '/update/downloads/id/109369', '/update/downloads/id/108884', '/update/downloads/id/108692', '/update/downloads/id/108620', '/update/downloads/id/108556', '/update/downloads/id/108429', '/update/downloads/id/108392', '/update/downloads/id/108349', '/update/downloads/id/108341', '/update/downloads/id/108284', '/update/downloads/id/108054', '/update/downloads/id/107666', '/update/downloads/id/107586', '/update/downloads/id/107551', '/update/downloads/id/107465', '/update/downloads/id/107211', '/update/downloads/id/106780', '/update/downloads/id/106399', '/update/downloads/id/106314', '/update/downloads/id/106116', '/update/downloads/id/105913', '/update/downloads/id/105825', '/update/downloads/id/105645', '/update/downloads/id/105409', '/update/downloads/id/104993', '/update/downloads/id/104703', '/update/downloads/id/104647', '/update/downloads/id/104252', '/update/downloads/id/103902', '/update/downloads/id/103633', '/update/downloads/id/103352', '/update/downloads/id/103160', '/update/downloads/id/102940', '/update/downloads/id/102580', '/update/downloads/id/102534', '/update/downloads/id/102220', '/update/downloads/id/101726', '/update/downloads/id/101163', '/update/downloads/id/101003', '/update/downloads/id/100641', '/update/downloads/id/100316', '/update/downloads/id/33382', '/update/downloads/id/32904', '/update/downloads/id/32218', '/update/downloads/id/32191', '/update/downloads/id/32154', '/update/downloads/id/31808', '/update/downloads/id/31337', '/update/downloads/id/30944', '/update/downloads/id/30358', '/update/downloads/id/29971', '/update/downloads/id/29799', '/update/downloads/id/29549', '/update/downloads/id/29459', '/update/downloads/id/29184', '/update/downloads/id/28874', '/update/downloads/id/28623', '/update/downloads/id/28459', '/update/downloads/id/28309', '/update/downloads/id/28057', '/update/downloads/id/28030', '/update/downloads/id/27999', '/update/downloads/id/27640', '/update/downloads/id/27360', '/update/downloads/id/27350', '/update/downloads/id/26979', '/update/downloads/id/26582', '/update/downloads/id/25809', '/update/downloads/id/25746', '/update/downloads/id/25310', '/update/downloads/id/25158', '/update/downloads/id/24939', '/update/downloads/id/24614', '/update/downloads/id/24206', '/update/downloads/id/23728', '/update/downloads/id/23433', '/update/downloads/id/23286', '/update/downloads/id/23285', '/update/downloads/id/22896', '/update/downloads/id/22637', '/update/downloads/id/22421', '/update/downloads/id/22281', '/update/downloads/id/21962', '/update/downloads/id/21856', '/update/downloads/id/21705', '/update/downloads/id/21619', '/update/downloads/id/21556', '/update/downloads/id/21466', '/update/downloads/id/21236', '/update/downloads/id/21128', '/update/downloads/id/21017', '/update/downloads/id/21011', '/update/downloads/id/20903', '/update/downloads/id/20842', '/update/downloads/id/20783', '/update/downloads/id/20645', '/update/downloads/id/20471', '/update/downloads/id/20319', '/update/downloads/id/20201', '/update/downloads/id/20099', '/update/downloads/id/20065', '/update/downloads/id/19933', '/update/downloads/id/19810', '/update/downloads/id/19617', '/update/downloads/id/19482', '/update/downloads/id/19266', '/update/downloads/id/19231', '/update/downloads/id/19104', '/update/downloads/id/19078', '/update/downloads/id/18900', '/update/downloads/id/18742', '/update/downloads/id/18635', '/update/downloads/id/18536', '/update/downloads/id/18500', '/update/downloads/id/18449', '/update/downloads/id/18372', '/update/downloads/id/18334', '/update/downloads/id/18244', '/update/downloads/id/18080', '/update/downloads/id/18010', '/update/downloads/id/17950', '/update/downloads/id/17855', '/update/downloads/id/17697', '/update/downloads/id/17607', '/update/downloads/id/17457', '/update/downloads/id/17381', '/update/downloads/id/17275', '/update/downloads/id/17199', '/update/downloads/id/17188', '/update/downloads/id/17167', '/update/downloads/id/17141', '/update/downloads/id/17113', '/update/downloads/id/17016', '/update/downloads/id/16868', '/update/downloads/id/16784', '/update/downloads/id/16586', '/update/downloads/id/16472', '/update/downloads/id/16237', '/update/downloads/id/16098', '/update/downloads/id/15928', '/update/downloads/id/15789', '/update/downloads/id/15694', '/update/downloads/id/15609', '/update/downloads/id/15497', '/update/downloads/id/15354', '/update/downloads/id/15140', '/update/downloads/id/14998', '/update/downloads/id/14853', '/update/downloads/id/14798', '/update/downloads/id/14788', '/update/downloads/id/14720', '/update/downloads/id/14564', '/update/downloads/id/14515', '/update/downloads/id/14507', '/update/downloads/id/14373', '/update/downloads/id/14254', '/update/downloads/id/14222', '/update/downloads/id/14112', '/update/downloads/id/14003', '/update/downloads/id/13964', '/update/downloads/id/13920', '/update/downloads/id/13775', '/update/downloads/id/13714', '/update/downloads/id/13574', '/update/downloads/id/13463', '/update/downloads/id/13346', '/update/downloads/id/13310', '/update/downloads/id/13204', '/update/downloads/id/13123', '/update/downloads/id/12961', '/update/downloads/id/12855', '/update/downloads/id/12811', '/update/downloads/id/12738', '/update/downloads/id/12623', '/update/downloads/id/12545', '/update/downloads/id/12440', '/update/downloads/id/12332', '/update/downloads/id/12229', '/update/downloads/id/12146', '/update/downloads/id/12045', '/update/downloads/id/11966', '/update/downloads/id/11859', '/update/downloads/id/11715', '/update/downloads/id/11615', '/update/downloads/id/11502', '/update/downloads/id/11382', '/update/downloads/id/11287', '/update/downloads/id/11197', '/update/downloads/id/11038', '/update/downloads/id/10959', '/update/downloads/id/10924', '/update/downloads/id/10806', '/update/downloads/id/10696', '/update/downloads/id/10602', '/update/downloads/id/10459', '/update/downloads/id/10420', '/update/downloads/id/10340', '/update/downloads/id/10245', '/update/downloads/id/10131', '/update/downloads/id/10032', '/update/downloads/id/9881', '/update/downloads/id/9841', '/update/downloads/id/9784', '/update/downloads/id/9642', '/update/downloads/id/9546', '/update/downloads/id/9456', '/update/downloads/id/9450', '/update/downloads/id/9353']
+2021-11-02 05:33:23： 获取系统/引擎升级包名称信息如下
+['vulweb-V6.0R02F00.2402.dat', 'vulweb-V6.0R02F00.2401.dat', 'vulweb-V6.0R02F00.2400.dat', 'vulweb-V6.0R02F00.2307.dat', 'vulweb-V6.0R02F00.2306.dat', 'vulweb-V6.0R02F00.2305.dat', 'vulweb-V6.0R02F00.2304.dat', 'vulweb-V6.0R02F00.2303.dat', 'vulweb-V6.0R02F00.2302.dat', 'vulweb-V6.0R02F00.2301.dat', 'vulweb-V6.0R02F00.2300.dat', 'vulweb-V6.0R02F00.2204.dat', 'vulweb-V6.0R02F00.2203.dat', 'vulweb-V6.0R02F00.2202.dat', 'vulweb-V6.0R02F00.2201.dat', 'vulweb-V6.0R02F00.2200.dat', 'vulweb-V6.0R02F00.2117.dat', 'vulweb-V6.0R02F00.2116.dat', 'vulweb-V6.0R02F00.2115.dat', 'vulweb-V6.0R02F00.2114.dat', 'vulweb-V6.0R02F00.2113.dat', 'vulweb-V6.0R02F00.2112.dat', 'vulweb-V6.0R02F00.2111.dat', 'vulweb-V6.0R02F00.2110.dat', 'vulweb-V6.0R02F00.2109.dat', 'vulweb-V6.0R02F00.2108.dat', 'vulweb-V6.0R02F00.2107.dat', 'vulweb-V6.0R02F00.2106.dat', 'vulweb-V6.0R02F00.2105.dat', 'vulweb-V6.0R02F00.2104.dat', 'vulweb-V6.0R02F00.2103.dat', 'vulweb-V6.0R02F00.2102.dat', 'vulweb-V6.0R02F00.2101.dat', 'vulweb-V6.0R02F00.2100.dat', 'vulweb-V6.0R02F00.2006.dat', 'vulweb-V6.0R02F00.2005.dat', 'vulweb-V6.0R02F00.2004.dat', 'vulweb-V6.0R02F00.2003.dat', 'vulweb-V6.0R02F00.2002.dat', 'vulweb-V6.0R02F00.2001.dat', 'vulweb-V6.0R02F00.2000.dat', 'vulweb-V6.0R02F00.1909.dat', 'vulweb-V6.0R02F00.1908.dat', 'vulweb-V6.0R02F00.1907.dat', 'vulweb-V6.0R02F00.1906.dat', 'vulweb-V6.0R02F00.1905.dat', 'vulweb-V6.0R02F00.1904.dat', 'vulweb-V6.0R02F00.1903.dat', 'vulweb-V6.0R02F00.1902.dat', 'vulweb-V6.0R02F00.1901.dat', 'vulweb-V6.0R02F00.1900.dat', 'vulweb-V6.0R02F00.1817.dat', 'vulweb-V6.0R02F00.1816.dat', 'vulweb-V6.0R02F00.1815.dat', 'vulweb-V6.0R02F00.1814.dat', 'vulweb-V6.0R02F00.1813.dat', 'vulweb-V6.0R02F00.1812.dat', 'vulweb-V6.0R02F00.1811.dat', 'vulweb-V6.0R02F00.1810.dat', 'vulweb-V6.0R02F00.1809.dat', 'vulweb-V6.0R02F00.1808.dat', 'vulweb-V6.0R02F00.1807.dat', 'vulweb-V6.0R02F00.1806.dat', 'vulweb-V6.0R02F00.1805.dat', 'vulweb-V6.0R02F00.1804.dat', 'vulweb-V6.0R02F00.1803.dat', 'vulweb-V6.0R02F00.1802.dat', 'vulweb-V6.0R02F00.1801.dat', 'vulweb-V6.0R02F00.1800.dat', 'vulweb-V6.0R02F00.1709.dat', 'vulweb-V6.0R02F00.1708.dat', 'vulweb-V6.0R02F00.1707.dat', 'vulweb-V6.0R02F00.1706.dat', 'vulweb-V6.0R02F00.1705.dat', 'vulweb-V6.0R02F00.1704.dat', 'vulweb-V6.0R02F00.1703.dat', 'vulweb-V6.0R02F00.1702.dat', 'vulweb-V6.0R02F00.1701.dat', 'vulweb-V6.0R02F00.1700.dat', 'vulweb-V6.0R02F00.1607.dat', 'vulweb-V6.0R02F00.1606.dat', 'vulweb-V6.0R02F00.1605.dat', 'vulweb-V6.0R02F00.1604.dat', 'vulweb-V6.0R02F00.1603.dat', 'vulweb-V6.0R02F00.1602.dat', 'vulweb-V6.0R02F00.1601.dat', 'vulweb-V6.0R02F00.1600.dat', 'vulweb-V6.0R02F00.1505.dat', 'vulweb-V6.0R02F00.1504.dat', 'vulweb-V6.0R02F00.1503.dat', 'vulweb-V6.0R02F00.1502.dat', 'vulweb-V6.0R02F00.1501.dat', 'vulweb-V6.0R02F00.1500.dat', 'vulweb-V6.0R02F00.1407.dat', 'vulweb-V6.0R02F00.1406.dat', 'vulweb-V6.0R02F00.1405.dat', 'vulweb-V6.0R02F00.1404.dat', 'vulweb-V6.0R02F00.1403.dat', 'vulweb-V6.0R02F00.1402.dat', 'vulweb-V6.0R02F00.1401.dat', 'vulweb-V6.0R02F00.1400.dat', 'vulweb-V6.0R02F00.1311.dat', 'vulweb-V6.0R02F00.1310.dat', 'vulweb-V6.0R02F00.1309.dat', 'vulweb-V6.0R02F00.1308.dat', 'vulweb-V6.0R02F00.1307.dat', 'vulweb-V6.0R02F00.1306.dat', 'vulweb-V6.0R02F00.1305.dat', 'vulweb-V6.0R02F00.1304.dat', 'vulweb-V6.0R02F00.1303.dat', 'vulweb-V6.0R02F00.1302.dat', 'vulweb-V6.0R02F00.1301.dat', 'vulweb-V6.0R02F00.1300.dat', 'vulweb-V6.0R02F00.1206.dat', 'vulweb-V6.0R02F00.1205.dat', 'vulweb-V6.0R02F00.1204.dat', 'vulweb-V6.0R02F00.1203.dat', 'vulweb-V6.0R02F00.1202.dat', 'vulweb-V6.0R02F00.1201.dat', 'vulweb-V6.0R02F00.1200.dat', 'vulweb-V6.0R02F00.1105.dat', 'vulweb-V6.0R02F00.1104.dat', 'vulweb-V6.0R02F00.1103.dat', 'vulweb-V6.0R02F00.1102.dat', 'vulweb-V6.0R02F00.1101.dat', 'vulweb-V6.0R02F00.1100.dat', 'vulweb-V6.0R02F00.1008.dat', 'vulweb-V6.0R02F00.1007.dat', 'vulweb-V6.0R02F00.1006.dat', 'vulweb-V6.0R02F00.1005.dat', 'vulweb-V6.0R02F00.1004.dat', 'vulweb-V6.0R02F00.1003.dat', 'vulweb-V6.0R02F00.1002.dat', 'vulweb-V6.0R02F00.1001.dat', 'vulweb-V6.0R02F00.1000.dat', 'vulweb-V6.0R02F00.0907.dat', 'vulweb-V6.0R02F00.0906.dat', 'vulweb-V6.0R02F00.0905.dat', 'vulweb-V6.0R02F00.0904.dat', 'vulweb-V6.0R02F00.0903.dat', 'vulweb-V6.0R02F00.0902.dat', 'vulweb-V6.0R02F00.0901.dat', 'vulweb-V6.0R02F00.0900.dat', 'vulweb-V6.0R02F00.0805.dat', 'vulweb-V6.0R02F00.0804.dat', 'vulweb-V6.0R02F00.0803.dat', 'vulweb-V6.0R02F00.0802.dat', 'vulweb-V6.0R02F00.0801.dat', 'vulweb-V6.0R02F00.0800.dat', 'vulweb-V6.0R02F00.0705.dat', 'vulweb-V6.0R02F00.0704.dat', 'vulweb-V6.0R02F00.0703.dat', 'vulweb-V6.0R02F00.0702.dat', 'vulweb-V6.0R02F00.0701.dat', 'vulweb-V6.0R02F00.0700.dat', 'vulweb-V6.0R02F00.0608.dat', 'vulweb-V6.0R02F00.0607.dat', 'vulweb-V6.0R02F00.0606.dat', 'vulweb-V6.0R02F00.0605.dat', 'vulweb-V6.0R02F00.0604.dat', 'vulweb-V6.0R02F00.0603.dat', 'vulweb-V6.0R02F00.0602.dat', 'vulweb-V6.0R02F00.0601.dat', 'vulweb-V6.0R02F00.0600.dat', 'vulweb-V6.0R02F00.0509.dat', 'vulweb-V6.0R02F00.0508.dat', 'vulweb-V6.0R02F00.0507.dat', 'vulweb-V6.0R02F00.0506.dat', 'vulweb-V6.0R02F00.0505.dat', 'vulweb-V6.0R02F00.0504.dat', 'vulweb-V6.0R02F00.0503.dat', 'vulweb-V6.0R02F00.0502.dat', 'vulweb-V6.0R02F00.0501.dat', 'vulweb-V6.0R02F00.0500.dat', 'vulweb-V6.0R02F00.0417.dat', 'vulweb-V6.0R02F00.0416.dat', 'vulweb-V6.0R02F00.0415.dat', 'vulweb-V6.0R02F00.0414.dat', 'vulweb-V6.0R02F00.0413.dat', 'vulweb-V6.0R02F00.0412.dat', 'vulweb-V6.0R02F00.0411.dat', 'vulweb-V6.0R02F00.0410.dat', 'vulweb-V6.0R02F00.0409.dat', 'vulweb-V6.0R02F00.0408.dat', 'vulweb-V6.0R02F00.0407.dat', 'vulweb-V6.0R02F00.0406.dat', 'vulweb-V6.0R02F00.0405.dat', 'vulweb-V6.0R02F00.0404.dat', 'vulweb-V6.0R02F00.0403.dat', 'vulweb-V6.0R02F00.0402.dat', 'vulweb-V6.0R02F00.0401.dat', 'vulweb-V6.0R02F00.0400.dat', 'vulweb-V6.0R02F00.0308.dat', 'vulweb-V6.0R02F00.0307.dat', 'vulweb-V6.0R02F00.0306.dat', 'vulweb-V6.0R02F00.0305.dat', 'vulweb-V6.0R02F00.0304.dat', 'vulweb-V6.0R02F00.0303.dat', 'vulweb-V6.0R02F00.0302.dat', 'vulweb-V6.0R02F00.0301.dat', 'vulweb-V6.0R02F00.0300.dat', 'vulweb-V6.0R02F00.0210.dat', 'vulweb-V6.0R02F00.0209.dat', 'vulweb-V6.0R02F00.0208.dat', 'vulweb-V6.0R02F00.0207.dat', 'vulweb-V6.0R02F00.0206.dat', 'vulweb-V6.0R02F00.0205.dat', 'vulweb-V6.0R02F00.0204.dat', 'vulweb-V6.0R02F00.0203.dat', 'vulweb-V6.0R02F00.0202.dat', 'vulweb-V6.0R02F00.0201.dat', 'vulweb-V6.0R02F00.0200.dat', 'vulweb-V6.0R02F00.0130.dat', 'vulweb-V6.0R02F00.0129.dat', 'vulweb-V6.0R02F00.0128.dat', 'vulweb-V6.0R02F00.0127.dat', 'vulweb-V6.0R02F00.0126.dat', 'vulweb-V6.0R02F00.0125.dat', 'vulweb-V6.0R02F00.0124.dat', 'vulweb-V6.0R02F00.0123.dat', 'vulweb-V6.0R02F00.0122.dat', 'vulweb-V6.0R02F00.0121.dat', 'vulweb-V6.0R02F00.0120.dat', 'vulweb-V6.0R02F00.0119.dat', 'vulweb-V6.0R02F00.0118.dat', 'vulweb-V6.0R02F00.0117.dat', 'vulweb-V6.0R02F00.0116.dat', 'vulweb-V6.0R02F00.0115.dat', 'vulweb-V6.0R02F00.0114.dat', 'vulweb-V6.0R02F00.0113.dat', 'vulweb-V6.0R02F00.0112.dat', 'vulweb-V6.0R02F00.0111.dat', 'vulweb-V6.0R02F00.0110.dat', 'vulweb-V6.0R02F00.0109.dat', 'vulweb-V6.0R02F00.0108.dat', 'vulweb-V6.0R02F00.0107.dat', 'vulweb-V6.0R02F00.0106.dat', 'vulweb-V6.0R02F00.0105.dat', 'vulweb-V6.0R02F00.0104.dat', 'vulweb-V6.0R02F00.0103.dat', 'vulweb-V6.0R02F00.0102.dat', 'vulweb-V6.0R02F00.0101.dat', 'vulweb-V6.0R02F00.0100.dat', 'vulweb-6.0.0.14.dat', 'vulweb-6.0.0.13.dat', 'vulweb-6.0.0.12.dat', 'vulweb-6.0.0.11.dat', 'vulweb-6.0.0.10.dat', 'vulweb-6.0.0.9.dat', 'vulweb-6.0.0.8.dat', 'vulweb-6.0.0.7.dat', 'vulweb-6.0.0.6.dat', 'vulweb-6.0.0.5.dat', 'vulweb-6.0.0.4.dat', 'vulweb-6.0.0.3.dat', 'vulweb-6.0.0.2.dat', 'vulweb-6.0.0.1.dat']
+2021-11-02 05:33:23： 获取系统/引擎升级包名称信息完成
+2021-11-02 05:33:23： 开始下载系统/引擎升级包
+2021-11-02 05:33:23： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2400.dat
+2021-11-02 05:33:23： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119905
+2021-11-02 05:33:25： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2307.dat
+2021-11-02 05:33:25： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119593
+2021-11-02 05:33:26： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2306.dat
+2021-11-02 05:33:26： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/119136
+2021-11-02 05:33:27： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2305.dat
+2021-11-02 05:33:27： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118857
+2021-11-02 05:33:28： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2304.dat
+2021-11-02 05:33:28： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118704
+2021-11-02 05:33:30： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2303.dat
+2021-11-02 05:33:30： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/118335
+2021-11-02 05:33:31： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2302.dat
+2021-11-02 05:33:31： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117932
+2021-11-02 05:33:32： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2301.dat
+2021-11-02 05:33:32： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117550
+2021-11-02 05:33:33： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2300.dat
+2021-11-02 05:33:33： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/117158
+2021-11-02 05:33:34： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2204.dat
+2021-11-02 05:33:34： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/116933
+2021-11-02 05:33:35： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2203.dat
+2021-11-02 05:33:35： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/116470
+2021-11-02 05:33:36： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2202.dat
+2021-11-02 05:33:36： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/116087
+2021-11-02 05:33:37： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2201.dat
+2021-11-02 05:33:37： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115671
+2021-11-02 05:33:38： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2200.dat
+2021-11-02 05:33:38： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115373
+2021-11-02 05:33:41： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2117.dat
+2021-11-02 05:33:41： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115294
+2021-11-02 05:33:42： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2116.dat
+2021-11-02 05:33:42： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115260
+2021-11-02 05:33:43： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2115.dat
+2021-11-02 05:33:43： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115223
+2021-11-02 05:33:44： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2114.dat
+2021-11-02 05:33:44： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115143
+2021-11-02 05:33:45： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2113.dat
+2021-11-02 05:33:45： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115107
+2021-11-02 05:33:46： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2112.dat
+2021-11-02 05:33:46： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115074
+2021-11-02 05:33:47： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2111.dat
+2021-11-02 05:33:47： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/115043
+2021-11-02 05:33:48： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2110.dat
+2021-11-02 05:33:48： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114984
+2021-11-02 05:33:49： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2109.dat
+2021-11-02 05:33:49： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114933
+2021-11-02 05:33:50： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2108.dat
+2021-11-02 05:33:50： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114883
+2021-11-02 05:33:51： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2107.dat
+2021-11-02 05:33:51： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114846
+2021-11-02 05:33:52： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2106.dat
+2021-11-02 05:33:52： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114806
+2021-11-02 05:33:52： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2105.dat
+2021-11-02 05:33:52： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114797
+2021-11-02 05:33:53： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2104.dat
+2021-11-02 05:33:53： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114764
+2021-11-02 05:33:54： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2103.dat
+2021-11-02 05:33:54： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114713
+2021-11-02 05:33:55： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2102.dat
+2021-11-02 05:33:55： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114692
+2021-11-02 05:33:59： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2101.dat
+2021-11-02 05:33:59： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114657
+2021-11-02 05:34:00： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2100.dat
+2021-11-02 05:34:00： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114335
+2021-11-02 05:34:01： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2006.dat
+2021-11-02 05:34:01： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/114035
+2021-11-02 05:34:03： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2005.dat
+2021-11-02 05:34:03： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/113590
+2021-11-02 05:34:03： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2004.dat
+2021-11-02 05:34:03： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/113350
+2021-11-02 05:34:04： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2003.dat
+2021-11-02 05:34:04： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/112816
+2021-11-02 05:34:06： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2002.dat
+2021-11-02 05:34:06： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/112313
+2021-11-02 05:34:07： 下载系统/引擎升级包：rsas-vulweb-V6.0R02F00.2001.dat
+2021-11-02 05:34:07： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/111925
+2021-11-02 05:34:08： 已下载40个升级包
+2021-11-02 05:34:08： 系统/引擎升级包下载完成
+
+2021-11-02 05:34:08： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0 飞腾系列->RSAS V6.0系统升级包(HFA HFB)”
+2021-11-02 05:34:08： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/113320', '/update/downloads/id/112817', '/update/downloads/id/111402']
+2021-11-02 05:34:08： 获取系统/引擎升级包名称信息如下
+['sys-V6.0R03F00SP03.arm_64.dat', 'sys-V6.0R03F00SP02.arm_64.dat', 'sys-V6.0R03F00SP01.arm_64.dat']
+2021-11-02 05:34:08： 获取系统/引擎升级包名称信息完成
+2021-11-02 05:34:08： 开始下载系统/引擎升级包
+2021-11-02 05:34:08： 下载系统/引擎升级包：rsas-sys-V6.0R03F00SP01.arm_64.dat
+2021-11-02 05:34:08： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/111402
+2021-11-02 05:34:11： 系统/引擎升级包下载完成
+
+2021-11-02 05:34:11： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0 飞腾系列->RSAS V6.0系统升级包(HFC)”
+2021-11-02 05:34:11： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/120710']
+2021-11-02 05:34:11： 获取系统/引擎升级包名称信息如下
+['sys-V6.0R03F00SP01.arm_64.dat']
+2021-11-02 05:34:11： 获取系统/引擎升级包名称信息完成
+2021-11-02 05:34:11： 开始下载系统/引擎升级包
+2021-11-02 05:34:11： 系统/引擎升级包下载完成
+
+2021-11-02 05:34:11： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0 飞腾系列->RSAS V6.0系统插件升级包”
+2021-11-02 05:34:12： 获取系统/引擎升级包路径信息如下
+['/update/downloads/id/117484', '/update/downloads/id/114351', '/update/downloads/id/112825', '/update/downloads/id/108701']
+2021-11-02 05:34:12： 获取系统/引擎升级包名称信息如下
+['vulsys-V6.0R02F01.1702.arm_64.dat', 'vulsys-V6.0R02F01.1701.arm_64.dat', 'vulsys-V6.0R02F01.1700.arm_64.dat', 'vulsys-V6.0R02F01.1606.arm_64.dat']
+2021-11-02 05:34:12： 获取系统/引擎升级包名称信息完成
+2021-11-02 05:34:12： 开始下载系统/引擎升级包
+2021-11-02 05:34:12： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.1700.arm_64.dat
+2021-11-02 05:34:12： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/112825
+2021-11-02 05:37:20： 下载系统/引擎升级包：rsas-vulsys-V6.0R02F01.1606.arm_64.dat
+2021-11-02 05:37:20： 下载系统/引擎升级包URL：http://update.nsfocus.com/update/downloads/id/108701
+2021-11-02 05:37:20： 系统/引擎升级包下载完成
+
+2021-11-02 05:37:20： 下载“远程安全评估系统(RSAS)->远程安全评估系统(RSAS) 6.0 飞腾系列->RSAS V6.0 WEB插件升级包”
+2021-11-02 05:37:20： 获取系统/引擎升级包路径信息如下
+[]
+2021-11-02 05:37:20： 获取系统/引擎升级包名称信息如下
+[]
+2021-11-02 05:37:20： 获取系统/引擎升级包名称信息完成
+2021-11-02 05:37:20： 开始下载系统/引擎升级包
+2021-11-02 05:37:20： 系统/引擎升级包下载完成
+
+*********************************  祝贺你完成 RSAS 升级包的更新  *********************************
+

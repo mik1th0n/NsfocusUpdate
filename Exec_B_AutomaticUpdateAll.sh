@@ -1,0 +1,1 @@
+nohup python3 /volume2/NsfocusUpdate/B_AutomaticUpdateAll.py >> /volume2/NsfocusUpdate/UpdateLog/B_AutomaticUpdateAll_`date +%Y%m%d`.log 2>&1 &

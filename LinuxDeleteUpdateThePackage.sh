@@ -1,0 +1,1 @@
+find ./  -name  *.miki  | xargs rm -rf
